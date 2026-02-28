@@ -1,8 +1,6 @@
 # Spondyloarthrites
 
-Propriétaire: quentin campeol
-
-### Atteinte rachidienne des SPA
+## Atteinte rachidienne des SPA
 
 ![IMG_0756.jpeg](Spondyloarthrites/IMG_0756.jpeg)
 
@@ -63,7 +61,7 @@ Parasyndesmophytes = ossifications epaisses, asymétriques et plus à distance d
 - articulaires postérieures
 - Costovertebrales et Costotransversaires
 
-### Imagerie des sacro-iliaques dans les SPA
+## Imagerie des sacro-iliaques dans les SPA
 
 Atteinte sous chondrale fondamentale = œdème osseux à bords flous 
 
@@ -89,9 +87,9 @@ Diagnostics différentiels :
 
 ![IMG_0758.jpeg](Spondyloarthrites/IMG_0758.jpeg)
 
-### Atteinte articulaire périphérique dans les SPA
+## Atteinte articulaire périphérique dans les SPA
 
-### Échographie des enthèses dans les SPA
+## Échographie des enthèses dans les SPA
 
 Faire une échographie 15 jours à distance d’une activité physique intense et de l’utilisation d’AINS.
 
@@ -108,7 +106,7 @@ Définition OMERACT de l’enthesite active = Doppler puissance ≥ 1 avec épai
 
 Parmis les enthèse l’atteinte du tendon d’Achille est la plus discriminante.
 
-### IRM des entheses dans les SPA
+## IRM des entheses dans les SPA
 
 Utile lorsque on a un doute en échographie 
 
