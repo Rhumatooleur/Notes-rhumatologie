@@ -13,7 +13,7 @@ Propriétaire: quentin campeol
 
 ### Vertèbres en H
 
-![image.png](image%201.png)
+![image](.attachments/9464215c1b82ba9f497659fba8192adc64e7aa7d.png) 
 
 Dépression de la plaque terminale centrale nettement délimitée
 
