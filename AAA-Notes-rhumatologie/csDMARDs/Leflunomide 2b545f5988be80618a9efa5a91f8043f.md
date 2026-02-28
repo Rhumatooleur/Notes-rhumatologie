@@ -4,8 +4,7 @@
 
 Antimétabolite anti pyrimidique spécifiquement dans les lymphocytes T activés via son action sur une enzyme mitochondriale.
 
-![IMG_0785.jpeg](Leflunomide/IMG_0785.jpeg)
-
+![image](.attachments/e81163ccb3f47d4372d684b043bb5bcef8d2e1cc.jpeg) 
 Le wash out à la cholestyramine (un séquestreur de sels biliaire) permet de rapidement capturer et éliminer le leflunomide en empêchant sa réabsorption. 
 
-![IMG_0786.jpeg](Leflunomide/IMG_0786.jpeg)
+![image](.attachments/aae46c6322785ea17577a154d8ed81f391b482d9.jpeg) 
