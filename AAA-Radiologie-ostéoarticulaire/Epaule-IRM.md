@@ -36,4 +36,4 @@ Pour le long biceps = Plan Axial
 
 **Récessus normaux de la gléno-humérale :** 
 
-![IMG_0787.jpeg](Epaule%20IRM/IMG_0787.jpeg)
+![image](.attachments/d2d08433428cac2ce2a9a3eff75c27184ec3b9ad.png) ![image](AAA-Radiologie-ostéoarticulaire/.attachments/d2d08433428cac2ce2a9a3eff75c27184ec3b9ad.png) 
