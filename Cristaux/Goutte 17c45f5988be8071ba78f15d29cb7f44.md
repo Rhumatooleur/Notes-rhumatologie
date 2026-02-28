@@ -1,3 +1,0 @@
-# Goutte
-
-Propriétaire: quentin campeol
