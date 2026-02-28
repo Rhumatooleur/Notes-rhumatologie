@@ -4,7 +4,7 @@ Propriétaire: quentin campeol
 
 ### Protocoles de réalisation échographie
 
-[Protocole échographie pour recherche de rhumatisme psoriasique infra-clinique](Echographie/Protocole%20%C3%A9chographie%20pour%20recherche%20de%20rhumatisme%202bd45f5988be8073a14cff5b49fe45ba.md)
+[Protocole échographie pour recherche de rhumatisme psoriasique infra-clinique](Echographie/PSAecho)
 
 [Protocole échographie épaule](Echographie/Protocole%20%C3%A9chographie%20%C3%A9paule%202bd45f5988be80779ec4c95fa806935c.md)
 
