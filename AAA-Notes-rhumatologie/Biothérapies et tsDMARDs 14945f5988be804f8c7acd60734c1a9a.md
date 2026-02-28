@@ -1,6 +1,6 @@
 # Biothérapies et tsDMARDs
 
-[Effets indésirables des biothérapies en général ](AAA-Notes-rgumatologie/Biothérapies-er-ts-DMARDs/Effets%20ind%C3%A9sirables%20des%20bioth%C3%A9rapies%20en%20g%C3%A9n%C3%A9ral%2018545f5988be8075bd49fe00a91816a3.md)
+[Effets indésirables des biothérapies en général ](AAA-Notes-rhumatologie/Biothérapies-tsDMARDs/Effets%20ind%C3%A9sirables%20des%20bioth%C3%A9rapies%20en%20g%C3%A9n%C3%A9ral%2018545f5988be8075bd49fe00a91816a3.md)
 
 [Effets indésirables en fonction de la molécule ](Bioth%C3%A9rapies%20et%20tsDMARDs/Effets%20ind%C3%A9sirables%20en%20fonction%20de%20la%20mol%C3%A9cule%2018545f5988be8041b042c0c082816878.md)
 
