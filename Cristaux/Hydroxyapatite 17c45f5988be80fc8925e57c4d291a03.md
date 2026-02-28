@@ -1,3 +1,0 @@
-# Hydroxyapatite
-
-Propriétaire: quentin campeol
