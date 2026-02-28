@@ -4,7 +4,7 @@ Propriétaire: quentin campeol
 
 ## Atteinte des articulations des membres
 
-![image](.attachments/09c79f4616a68938b574a662f6b61fe5b4c79d1a.jpeg) 
+![image](.attachments/29131bb4bb5acac224ca06c4c920c4c47a5c5fc1.png) 
 
 ### 1. Mains
 
