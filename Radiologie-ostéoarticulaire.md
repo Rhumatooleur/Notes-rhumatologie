@@ -8,7 +8,7 @@
 
 [Genou IRM](GenouIRM.md)
 [Rachis IRM lombosciatique](Rachis-IRM-lombosciatique.md)
-[Rachis IRM inflammatoire](https://www.notion.so/Rachis-IRM-inflammatoire-30245f5988be80fb8cb7f21d1a88ab94?pvs=21)
+[Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
 [Cheville IRM](https://www.notion.so/Cheville-IRM-2b645f5988be8055bd54fa2d4116ee9d?pvs=21)
 [Epaule IRM](https://www.notion.so/Epaule-IRM-2b645f5988be80c496a6ec1c7764f4dc?pvs=21)
 [Poignet IRM](https://www.notion.so/Poignet-IRM-2b645f5988be807b9b8bc416012aeee2?pvs=21)
