@@ -36,7 +36,7 @@
 
 ### Radiologie
 
-[Radiologie ostéo articulaire ](Notes%20rhumatologie/Radiologie%20ost%C3%A9o%20articulaire%2014445f5988be807e83f3cacd44d972e0.csv)
+[Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
 
 ### Douleur
 
