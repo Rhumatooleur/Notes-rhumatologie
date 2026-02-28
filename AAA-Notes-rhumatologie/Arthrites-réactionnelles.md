@@ -15,7 +15,7 @@ Traitement :
 - Aigu = AINS (corticothérapie si inefficace)
 - TTT de fond par anti-TNF++  ou sulfasalazine (une étude positive et une négative)
 
-![image.png](Arthrites%20r%C3%A9actionnelles%20et%20autres%20rhumatismes%20inf/image.png)
+![image](.attachments/6cbedb65f40785bd8c850c487a9eff508972b6c7.png) 
 
 **Autres rhumatismes inflammatoires post infectieux :** 
 
