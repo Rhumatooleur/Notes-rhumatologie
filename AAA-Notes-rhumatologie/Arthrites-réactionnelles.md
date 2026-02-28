@@ -36,4 +36,4 @@ Traitement :
 
 **Arthrites liées à des agents infectieux mais inclassables** 
 
-[Borréliose de Lyme ](Arthrites%20r%C3%A9actionnelles%20et%20autres%20rhumatismes%20inf/Borr%C3%A9liose%20de%20Lyme%201d045f5988be806d8e81f06de5cf0dec.md)
+[Borréliose de Lyme ](Arthrites-réactionnelles/Borr%C3%A9liose%20de%20Lyme%201d045f5988be806d8e81f06de5cf0dec.md)
