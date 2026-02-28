@@ -61,7 +61,7 @@ Propriétaire: quentin campeol
 
 ### Atteinte du poignet
 
-**L’atteinte isolée de l’articulation scapho-trapezienne est très éocatrice du diagnostic, sans atteinte de la MCP du pouce** (pincement sévère avec Osteo condensation en bande fine bien limitée)
+**L’atteinte isolée de l’articulation scapho-trapezienne est très évocatrice du diagnostic, sans atteinte de la MCP du pouce** (pincement sévère avec Osteo condensation en bande fine bien limitée)
 
 **Ligaments du carpe :** 
 
@@ -76,7 +76,6 @@ Cartilage hyalin :
 
 - scaphoïde
 - Lunatum
-
 ![1000010777.jpg](Chondrocalcinose/1000010777.jpg)
 
 ![1000010776.jpg](Chondrocalcinose/1000010776.jpg)
