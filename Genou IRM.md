@@ -1,6 +1,5 @@
 # Genou IRM
 
-Propriétaire: quentin campeol
 
 1. **Pivot central :** 
 
