@@ -4,7 +4,7 @@ Propriétaire: quentin campeol
 
 ## Atteinte des articulations des membres
 
-![IMG_0761.jpeg](Polyarthrite%20rhumato%C3%AFde/IMG_0761.jpeg)
+![image](.attachments/09c79f4616a68938b574a662f6b61fe5b4c79d1a.jpeg) 
 
 ### 1. Mains
 
