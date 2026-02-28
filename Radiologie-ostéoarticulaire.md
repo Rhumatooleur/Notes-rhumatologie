@@ -30,13 +30,13 @@
 ### Mécanique
 [Arthrose](Arthrose.md)
 [Ostéonécrose épiphysaire](Ostéonécrose-épiphysaire.md)
-[Maladie de Haglund](https://www.notion.so/Maladie-de-Haglund-2c445f5988be80f69ea2ed650d487e5d?pvs=21)
-[Lésions musculaires traumatiques](https://www.notion.so/L-sions-musculaires-traumatiques-2d145f5988be8081af54dda3657fe914?pvs=21)
+[Maladie de Haglund](Maladie-de-Haglund.md)
+[Lésions musculaires traumatiques](Lésions-musculaires-traumatiques.md)
 ### Métabolique
-[Cristaux](https://www.notion.so/Cristaux-17c45f5988be80a39011e227a3b0e06e?pvs=21)
+[Cristaux](Cristaux.md)
 ### Inflammatoire
-[Spondyloarthrites](https://www.notion.so/Spondyloarthrites-27e45f5988be80e88094c290f8a2ea9d?pvs=21)
-[Polyarthrite rhumatoïde](https://www.notion.so/Polyarthrite-rhumato-de-19f45f5988be800e84a2d7ce440b8fe6?pvs=21)
+[Spondyloarthrites](Spondyloarthrites.md)
+[Polyarthrite rhumatoïde](Polyarthrite-rhumatoïde.md)
 [SAPHO](https://www.notion.so/SAPHO-1b445f5988be802b9a43de3bcd7912ee?pvs=21)
 ### Infectieux
 [Spondylodiscite](https://www.notion.so/Spondylodiscite-27745f5988be80ea8991e543af0df926?pvs=21)
