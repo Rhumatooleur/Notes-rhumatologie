@@ -1,12 +1,10 @@
 # Gestes sous écho en pratique
 
-Propriétaire: quentin campeol
+## Contre indications :
+![image](.attachments/9dad3870cae50672d32f9dbcfca331546a87fba2.png) 
 
-# Contre indications :
 
-![image.png](Gestes%20sous%20%C3%A9cho%20en%20pratique/image.png)
-
-# Produits :
+## Produits :
 
 | **Corticoïdes injectables** | **Concentration et volume** | **Equivalence prednisone** | **Calcul équivalence pour toute l’ampoule** | **Persistance locale**  | **Indications**  |
 | --- | --- | --- | --- | --- | --- |
@@ -15,13 +13,13 @@ Propriétaire: quentin campeol
 | **Hexatrione** (hexacétonide de triamcinolone) | 40mg/2mL  | 1mg = 1.25mg  | 100mg | 30 jours  | intra |
 | **Hydrocortancyl** (Acétate de prednisolone) | 125mg/5mL | 1mg = 1mg | 125mg | 8 jours | intra et péri + péridural |
 
-# Aiguilles :
+## Aiguilles :
 
 C’est surtout la longueur de l’aiguille qui compte, le diamètre ne change pas grand chose sur la douleur
 
 Prendre des gros calibre pour les ponctions de liquide inflammatoire / infectieux
 
-# Déroulé du geste :
+## Déroulé du geste :
 
 Tout préparer avant pour pouvoir tout faire a une main 
 
