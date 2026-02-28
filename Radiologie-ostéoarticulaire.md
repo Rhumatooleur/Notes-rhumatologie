@@ -9,20 +9,20 @@
 [Genou IRM](GenouIRM.md)
 [Rachis IRM lombosciatique](Rachis-IRM-lombosciatique.md)
 [Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
-[Cheville IRM](https://www.notion.so/Cheville-IRM-2b645f5988be8055bd54fa2d4116ee9d?pvs=21)
-[Epaule IRM](https://www.notion.so/Epaule-IRM-2b645f5988be80c496a6ec1c7764f4dc?pvs=21)
-[Poignet IRM](https://www.notion.so/Poignet-IRM-2b645f5988be807b9b8bc416012aeee2?pvs=21)
+[Cheville IRM](Cheville-IRM.md)
+[Epaule IRM](Epaule-IRM.md)
+[Poignet IRM](Poignet-IRM.md)
 # Types d’imagerie
 
-[Echographie](https://www.notion.so/Echographie-19e45f5988be80d79ad1d11c087a475b?pvs=21)
-[Scanner](https://www.notion.so/Scanner-1d045f5988be804eaa89e88d73bc0a8e?pvs=21)
-[IRM](https://www.notion.so/IRM-1d045f5988be80038f9fe557a25cdc1a?pvs=21)
+[Echographie](Echographie.md)
+[Scanner](Scanner.md)
+[IRM](IRM.md)
 
 # Fiches mémo
 ## Selon la localisation
-[Rachis](https://www.notion.so/Rachis-19145f5988be8055b276ce7b33cf4bb8?pvs=21)
-[Pied](https://www.notion.so/Pied-2c945f5988be80cdbb1fd7072eedce3c?pvs=21)
-[Épaule](https://www.notion.so/paule-1a945f5988be805aa88fd69178881a5b?pvs=21)
+[Rachis](Rachis.md)
+[Pied](Pied.md)
+[Épaule](Epaule.md)
 [Sacro-iliaques](https://www.notion.so/Sacro-iliaques-16045f5988be802eaef2cc8a10d3b06a?pvs=21)
 [Coude](https://www.notion.so/Coude-27c45f5988be80eda5fcf228a4ed67c3?pvs=21)
 [Poignet](https://www.notion.so/Poignet-2f545f5988be809cb0bbc2ea6b565e4c?pvs=21)
