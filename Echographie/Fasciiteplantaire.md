@@ -1,6 +1,6 @@
 # Facsiite plantaire = inflammation du corps de l’aponévrose
 
-Propriétaire: quentin campeol
+
 
 Elle est beaucoup moins fréquente et survient plutôt chez un sportif ou un randonneur. 
 
