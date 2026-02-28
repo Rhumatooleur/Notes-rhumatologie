@@ -30,5 +30,4 @@ ayant libéré un ou plusieurs corps (ostéo-)cartilagineux au sein de la cavit�
 
 - En écho : calcifications et ossifications entraînent un cône d'ombre postérieur
 - En radio : Calcifications nuageuses, mouchetées et en « pop-corn » évoquant leur nature cartilagineuse. de *multiples calcifications intra-articulaires* (70 %-95 % des cas), affectant souvent l'articulation de façon diffuse
-
-![image.png](Ost%C3%A9ochondromes%20chrondromatose%20synoviale/image.png)
+![image](.attachments/62a29dd8a71af13786770f0cf367911f8e14f221.png) 
