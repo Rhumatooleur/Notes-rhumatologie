@@ -32,7 +32,7 @@ Traitement :
     - Gonocoque
     - Whipple ?
 
-[Arthrites virales](Arthrites%20r%C3%A9actionnelles%20et%20autres%20rhumatismes%20inf/Arthrites%20virales%201f045f5988be80289b7ee7c50cd5d05d.md)
+[Arthrites virales](Arthrites-réactionnelles/Arthrites%20virales%201f045f5988be80289b7ee7c50cd5d05d.md)
 
 **Arthrites liées à des agents infectieux mais inclassables** 
 
