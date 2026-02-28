@@ -11,7 +11,7 @@ Propriétaire: quentin campeol
 - Tibio-spring ligament
 - Tendon tibial postérieur
     
-    ![image.png](Pied%20plat%20valgus/image.png)
+    ![image.png](image.png)
     
 
 # Pieds plats valgus acquis
