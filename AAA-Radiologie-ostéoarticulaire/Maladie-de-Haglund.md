@@ -8,12 +8,15 @@ Plusieurs éléments sont à rechercher sur les examens complémentaires d’ima
     - Un calcanéus quadrangulaire avec un rebord saillant de son angle postéro-supérieur,
     - une opacité dans le triangle graisseux de Kager témoin de la présence d’une bursite,
     - un épaississement antéro-postérieur du tendon calcanéen.
+    ![Maladie de Haglund](https://pontarlier-hopital.chi-hautecomte.fr/img/contenu/hopital-pontarlier/27.jpg)
 - ***en échographie*** :
     - le rebord saillant peut être visualisé et analysé lors de manœuvres dynamiques de flexion plantaire et dorsale à la recherche de conflit avec le tendon calcanéen,
     - une poche liquidienne (bursite) rétro-calcanéenne,
     - un épaississement du tendon qui apparaît hypoéchogène avec hyperhémie en mode Doppler.
     - Il convient de toujours rechercher la présence de ruptures des fibres antérieures du tendon par les manœuvres dynamiques.
+  ![imagerie_pathologie_arriere_pied - MALADIE DE HAGLUND](https://www.applis.univ-tours.fr/scd/Medecine/Theses/2014_Medecine_QuachCeline/web/images/magnaudeix%20haglund%20us1.jpg)
 - ***sur l’IRM*** :
     - des anomalies de signal de la moëlle osseuse sous-chondrale de l’angle postéro-supérieur du calcanéus en hyposignal T1, hypersignal STIR et avec prise de contraste après injection,
     - une bursite rétrocalcanéenne,
     - des anomalies de signal intra-tendineux.
+   ![image](.attachments/a55d5f4442c87260ae1c9d2f4ef32dce6272ed06.png)
