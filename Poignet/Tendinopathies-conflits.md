@@ -1,7 +1,5 @@
 # Tendinopathies / conflits
 
-Propriétaire: quentin campeol
-
 ![image.png](Tendinopathies-conflits/image.png)
 
 ### Tendinopathies - ténosynovites
