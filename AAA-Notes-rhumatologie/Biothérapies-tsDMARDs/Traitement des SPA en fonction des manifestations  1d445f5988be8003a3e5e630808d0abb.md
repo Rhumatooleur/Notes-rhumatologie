@@ -4,7 +4,7 @@
 
 ### SPA + uvéites
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image.png)
+![image.png](TTTSPA/image.png)
 
 ### SPA  + MICI
 
@@ -28,13 +28,13 @@
         - Si < 50 ⇒ on peut éliminer une MICI
 - Débuter à la dose gastro-entérologique : dose de charge
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%201.png)
+![image.png](TTTSPA/image%201.png)
 
 ### SPA axiale + MICI
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%202.png)
+![image.png](TTTSPA/image%202.png)
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%203.png)
+![image.png](TTTSPA/image%203.png)
 
 ### SPA Périphérique + MICI
 
@@ -55,12 +55,12 @@ Pareil mais on peut ajouter anti IL-12/23 +/- peut être anti IL-23
 - Anti IL-17 (SC, IXE, BKZ) ou anti IL-23 (GUZ, RISAN)
 - Anti TNF et 12/23 possibles aussi car sont quand même efficaces mais les dermatos ne les recommandent plus car pas assez efficace
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%204.png)
+![image.png](TTTSPA/image%204.png)
 
 ### Rhumatisme psoriasique + atteinte axiale + Psoriasis modéré à sévère avec échec MTX
 
 - **Anti IL-17**
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%205.png)
+![image.png](TTTSPA/image%205.png)
 
-![image.png](Traitement%20des%20SPA%20en%20fonction%20des%20manifestations%20/image%205.png)
+![image.png](TTTSPA/image%205.png)
