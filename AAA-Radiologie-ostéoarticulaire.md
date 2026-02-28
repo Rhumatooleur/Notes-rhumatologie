@@ -47,4 +47,4 @@
 [Pseudo tumeurs et tumeurs musculaires](Pseudo-tumeurs-et-tumeurs-musculaires.md)
 [Maladie de Forestier](Maladie-de-Forestier.md)
 [Ostéochondromes / chrondromatose synoviale](Ostéochondromes-chrondromatose-synoviale.md)
-[Ostéochondrites ou ostéochondroses](Ostéochondrites-ou-ost-ochondroses.md)
+[Ostéochondrites ou ostéochondroses](Ostéochondrites-ou-ostéochondroses.md)
