@@ -8,7 +8,7 @@
 
 # Protocoles de lecture d’imagerie en fonction de la localisation
 
-[Genou IRM](GenouIRM.md)
+[Genou IRM](Genou-IRM.md)
 [Rachis IRM lombosciatique](Rachis-IRM-lombosciatique.md)
 [Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
 [Cheville IRM](Cheville-IRM.md)
