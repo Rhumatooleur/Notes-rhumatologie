@@ -36,7 +36,7 @@
 
 ### Radiologie
 
-[Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
+[Radiologie ostéo articulaire ](AAA-Radiologie-ostéoarticulaire.md)
 
 ### Douleur
 
