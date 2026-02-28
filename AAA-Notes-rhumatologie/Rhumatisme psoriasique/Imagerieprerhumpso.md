@@ -8,7 +8,6 @@
 
 **Algorithme utilisation de l'échographie quand on suspecte un rhumatisme psoriasique** 
 ![image](.attachments/cb7b29c351dc185d2cc3229db8c881c9595e7278.jpg) 
-![1000012025.jpg]
 
 **IRM** :
 
