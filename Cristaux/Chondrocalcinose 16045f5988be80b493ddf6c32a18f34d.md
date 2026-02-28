@@ -2,7 +2,7 @@
 
 Propriétaire: quentin campeol
 
-[Chondrocalcinose](Cristaux/Chondrocalcinosee%2016045f5988be80b493ddf6c32a18f34d.md)
+[Chondrocalcinose](Cristaux/Chondrocalcinosee.md)
 
 [Hydroxyapatite ](Cristaux/Hydroxyapatite%2017c45f5988be80fc8925e57c4d291a03.md)
 
