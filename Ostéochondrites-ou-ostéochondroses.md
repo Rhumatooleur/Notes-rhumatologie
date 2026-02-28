@@ -10,7 +10,7 @@ L'**ostéochondrite** ou **ostéochondrose** est une anomalie de la croissanc
 
 - Atteinte des plateaux vertébraux :
     
-    [Maladie de Scheuermann](Ost%C3%A9ochondrites%20ou%20ost%C3%A9ochondroses/Maladie%20de%20Scheuermann%2030345f5988be80d292f2d16193e1f820.md)
+    [Maladie de Scheuermann](Ostéochondrites-ou-ostéochondroses/Maladie%20de%20Scheuermann%2030345f5988be80d292f2d16193e1f820.md)
     
 - Atteinte du membre supérieur :
     - Tête de l'humérus : maladie de Haas ;
