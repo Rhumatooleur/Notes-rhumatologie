@@ -13,8 +13,7 @@ Diagnostics différentiels :
 
 - sarcome
 - abcès musculaire
-
-![1000013580.jpg](Pseudo%20tumeurs%20et%20tumeurs%20musculaires/1000013580.jpg)
+![image](.attachments/fb0e6bec8ad84050390f8636c26bc99ee737af35.jpg) 
 
 Comment faire le diagnostic ? 
 
