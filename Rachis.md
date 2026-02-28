@@ -33,7 +33,7 @@ Disque normal = concave
 
 # Pathologies mécaniques
 
-[Fractures vertébrales](Rachis/Fractures%20vert%C3%A9brales%202fe45f5988be80c992d9e07998a5c02c.md)
+[Fractures vertébrales](Rachis/Fractures-vertébrales.md)
 
 [Anomalies de forme des vertèbres](Rachis/Anomalies%20de%20forme%20des%20vert%C3%A8bres%2030345f5988be8073be4bc77b88c20a2b.md)
 
