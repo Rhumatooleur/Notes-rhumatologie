@@ -19,8 +19,6 @@ Ce qui est anormal :
 - Flushs faciaux
 - Palpitations
 
-I
-
 NPF longueur dépendantes : femmes, début plus précoce et causes auto immunes plus fréquentes 
 
 NFP non longueur dépendantes  
