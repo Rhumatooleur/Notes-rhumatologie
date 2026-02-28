@@ -7,7 +7,7 @@
 [**Radiopaedia**](https://radiopaedia.org/)
 
 # Protocoles de lecture d’imagerie en fonction de la localisation
-[Rachis IRM lombosciatique](Rachis-IRM-lombosciatique.md)
+[Rachis IRM lombosciatique](Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md)
 [Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
 [Epaule IRM](Epaule-IRM.md)
 [Poignet IRM](Poignet-IRM.md)
