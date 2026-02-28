@@ -102,7 +102,7 @@
     
     Vaccin vivant atténué !! 
     
-    ![image.png](Vaccins%20et%20RICs/image.png)
+    ![image.png](Vaccins-et-RICs/image.png)
     
     - **Tuberculose :**
     
