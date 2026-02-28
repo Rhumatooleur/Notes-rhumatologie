@@ -122,7 +122,7 @@
     
     Zones à risque = quasi partout 
     
-    ![image.png](Vaccins%20et%20RICs/image%201.png)
+    ![image.png](Vaccins-et-RICs/image%201.png)
     
     - **Tiphoïde**
     
@@ -143,4 +143,4 @@
     
     Attendre au moins 2 semaines et idéalement 4 semaines après la vaccination avant de réintroduire le traitement de fond.
     
-    ![image.png](Vaccins%20et%20RICs/image%202.png)
+    ![image.png](Vaccins-et-RICs/image%202.png)
