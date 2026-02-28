@@ -8,43 +8,43 @@
 
 # Protocoles de lecture d’imagerie en fonction de la localisation
 [Rachis IRM lombosciatique](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md)
-[Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
-[Epaule IRM](Epaule-IRM.md)
-[Poignet IRM](Poignet-IRM.md)
-[Genou IRM](Genou-IRM.md)
-[Cheville IRM](Cheville-IRM.md)
+[Rachis IRM inflammatoire](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-inflammatoire.md)
+[Epaule IRM](AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md)
+[Poignet IRM](AAA-Radiologie-ostéoarticulaire/Poignet-IRM.md)
+[Genou IRM](AAA-Radiologie-ostéoarticulaire/Genou-IRM.md)
+[Cheville IRM](AAA-Radiologie-ostéoarticulaire/Cheville-IRM.md)
 # Types d’imagerie
 
-[Echographie](Echographie.md)
-[Scanner](Scanner.md)
-[IRM](IRM.md)
+[Echographie](AAA-Radiologie-ostéoarticulaire/Echographie.md)
+[Scanner](AAA-Radiologie-ostéoarticulaire/Scanner.md)
+[IRM](AAA-Radiologie-ostéoarticulaire/IRM.md)
 
 # Fiches mémo
 ## Selon la localisation
-[Rachis](Rachis.md)
-[Pied](Pied.md)
-[Épaule](Épaule.md)
-[Sacro-iliaques](Sacro-iliaques.md)
-[Coude](Coude.md)
-[Poignet](Poignet.md)
+[Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md)
+[Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
+[Épaule](AAA-Radiologie-ostéoarticulaire/Épaule.md)
+[Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)
+[Coude](AAA-Radiologie-ostéoarticulaire/Coude.md)
+[Poignet](AAA-Radiologie-ostéoarticulaire/Poignet.md)
 ## Selon le mécanisme patholohique
 ### Mécanique
-[Arthrose](Arthrose.md)
-[Ostéonécrose épiphysaire](Ostéonécrose-épiphysaire.md)
-[Maladie de Haglund](Maladie-de-Haglund.md)
-[Lésions musculaires traumatiques](Lésions-musculaires-traumatiques.md)
+[Arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md)
+[Ostéonécrose épiphysaire](AAA-Radiologie-ostéoarticulaire/Ostéonécrose-épiphysaire.md)
+[Maladie de Haglund](AAA-Radiologie-ostéoarticulaire/Maladie-de-Haglund.md)
+[Lésions musculaires traumatiques](AAA-Radiologie-ostéoarticulaire/Lésions-musculaires-traumatiques.md)
 ### Métabolique
-[Cristaux](Cristaux.md)
+[CristauxAAA-Radiologie-ostéoarticulaire/Cristaux.md)
 ### Inflammatoire
-[Spondyloarthrites](Spondyloarthrites.md)
-[Polyarthrite rhumatoïde](Polyarthrite-rhumatoïde.md)
-[SAPHO](SAPHO.md)
+[Spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md)
+[Polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md)
+[SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md)
 ### Infectieux
-[Spondylodiscite](Spondylodiscite.md)
+[Spondylodiscite](AAA-Radiologie-ostéoarticulaire/Spondylodiscite.md)
 ### Autres
-[Lésions osseuses](Lésions-osseuses.md)
-[Pathologies osseuses hors tumeurs](Pathologies-osseuses-hors-tumeurs.md)
-[Pseudo tumeurs et tumeurs musculaires](Pseudo-tumeurs-et-tumeurs-musculaires.md)
-[Maladie de Forestier](Maladie-de-Forestier.md)
-[Ostéochondromes / chrondromatose synoviale](Ostéochondromes-chrondromatose-synoviale.md)
-[Ostéochondrites ou ostéochondroses](Ostéochondrites-ou-ostéochondroses.md)
+[Lésions osseuses](AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md)
+[Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)
+[Pseudo tumeurs et tumeurs musculaires](AAA-Radiologie-ostéoarticulaire/Pseudo-tumeurs-et-tumeurs-musculaires.md)
+[Maladie de Forestier](AAA-Radiologie-ostéoarticulaire/Maladie-de-Forestier.md)
+[Ostéochondromes / chrondromatose synoviale](AAA-Radiologie-ostéoarticulaire/Ostéochondromes-chrondromatose-synoviale.md)
+[Ostéochondrites ou ostéochondroses](AAA-Radiologie-ostéoarticulaire/Ostéochondrites-ou-ostéochondroses.md)
