@@ -50,7 +50,7 @@
 
 [Bases de l’ENMG](AAA-Notes-rhumatologie/Bases%20de%20l%E2%80%99ENMG%2018545f5988be80df9559ddc19d98f547.md)
 
-[Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose%20laterale%20amyotrophique%2018545f5988be803aa266db0973874bda.md)
+[Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Scleroselaterale.md)
 
 [PPR](AAA-Notes-rhumatologie/PPR%201d545f5988be80ebaec8d04995865623.md)
 
