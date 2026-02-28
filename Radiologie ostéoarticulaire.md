@@ -6,7 +6,7 @@
 
 # Protocoles de lecture d’imagerie en fonction de la localisation
 
-[Genou IRM](Genou IRM)
+[Genou IRM](Genou-IRM)
 [Rachis IRM lombosciatique](https://www.notion.so/Rachis-IRM-lombosciatique-2b645f5988be801ba03ccf22a47d5c17?pvs=21)
 [Rachis IRM inflammatoire](https://www.notion.so/Rachis-IRM-inflammatoire-30245f5988be80fb8cb7f21d1a88ab94?pvs=21)
 [Cheville IRM](https://www.notion.so/Cheville-IRM-2b645f5988be8055bd54fa2d4116ee9d?pvs=21)
