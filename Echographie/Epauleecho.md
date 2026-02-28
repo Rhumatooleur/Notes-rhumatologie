@@ -84,5 +84,4 @@ Globalement :
 - Stade 1 = tendon continu d’épaisseur et échogénicité normale
 - Stade 3 = épaisseur diminuée sans discontinuité
 - Stades 4/5 = rupture mineur / majeure
-
-![image.png](Protocole%20%C3%A9chographie%20%C3%A9paule/image.png)
+![image](.attachments/2ed47a0f9059cfce8b8a14bd11c0d20d40ec47b0.png) 
