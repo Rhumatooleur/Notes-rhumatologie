@@ -7,13 +7,12 @@
 [**Radiopaedia**](https://radiopaedia.org/)
 
 # Protocoles de lecture d’imagerie en fonction de la localisation
-
-[Genou IRM](Genou-IRM.md)
 [Rachis IRM lombosciatique](Rachis-IRM-lombosciatique.md)
 [Rachis IRM inflammatoire](Rachis-IRM-inflammatoire.md)
-[Cheville IRM](Cheville-IRM.md)
 [Epaule IRM](Epaule-IRM.md)
 [Poignet IRM](Poignet-IRM.md)
+[Genou IRM](Genou-IRM.md)
+[Cheville IRM](Cheville-IRM.md)
 # Types d’imagerie
 
 [Echographie](Echographie.md)
