@@ -254,7 +254,7 @@ Principalement causes secondaires par ordre de fréquence :
 2. Microcristalline = **SCAC wrist** pour scaphoïd chondrocalcinosis advanced collapse
 3. Microtraumatique
 
-### SNAC Wrist
+### SLAC Wrist
 
 Clinique : 
 
