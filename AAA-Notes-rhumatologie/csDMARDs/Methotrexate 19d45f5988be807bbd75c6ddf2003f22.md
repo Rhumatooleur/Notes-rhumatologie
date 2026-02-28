@@ -12,7 +12,7 @@ C’est pourquoi il a un effet immunosuppresseur : car les cellules immunitaires
 
 Mais il a aussi un effet anti-inflammatoire via son action sous sa forme polyglutamée intra cellulaire dans les cellules immunitaires sur l’enzyme AICAR transformase qui permet de produire de l’AICAR qui a un effet anti-inflammatoire via augmentation de l’adénosine extra cellulaire. 
 
-![IMG_0784.jpeg](Methotrexate/IMG_0784.jpeg)
+![image](.attachments/fd41524ae7c67de5418d46050abe48d7b9dd3d0a.jpeg) 
 
 Pourquoi est-ce que l’acide folique permet de minimiser la toxicité du MTX tout en préservant son efficacité sur la maladie auto immune ? 
 
