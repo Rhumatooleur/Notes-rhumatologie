@@ -4,7 +4,7 @@ Propriétaire: quentin campeol
 
 [Chondrocalcinose](Chondrocalcinose.md)
 
-[Hydroxyapatite ](Cristaux/Hydroxyapatite%2017c45f5988be80fc8925e57c4d291a03.md)
+[Hydroxyapatite ](Hydroxyapatite.md)
 
 [Goutte](Cristaux/Goutte%2017c45f5988be8071ba78f15d29cb7f44.md)
 
