@@ -76,7 +76,7 @@ Cartilage hyalin :
 
 - scaphoïde
 - Lunatum
-![1000010777.jpg](Chondrocalcinose/1000010777.jpg)
+![1000010777.jpg](Chondrocalcinosee/1000010777.jpg)
 
 ![1000010776.jpg](Chondrocalcinose/1000010776.jpg)
 
