@@ -16,7 +16,7 @@ Propriétaire: quentin campeol
 
 – Conséquences trabéculaires : trait de fracture sous-chondral hyper-T2 fat-sat, puis effondrement articulaire.
 
-![image.png](Ost%C3%A9on%C3%A9crose%20%C3%A9piphysaire/image.png)
+![image.png](Ost%C3%A9on%C3%A9crose-%C3%A9piphysaire/image.png)
 
 ---
 
@@ -30,4 +30,4 @@ Propriétaire: quentin campeol
 
 On peut voir aussi des **géodes** en Hyper T2 (liquidiennes) car le liquide articulaire pénètre dans le foyer de fracture.
 
-![image.png](Ost%C3%A9on%C3%A9crose%20%C3%A9piphysaire/image%201.png)
+![image.png](Ost%C3%A9on%C3%A9crose-%C3%A9piphysaire/image%201.png)
