@@ -9,5 +9,4 @@ Neuropathie des petites fibres :
 - Commence par une atteinte distale au niveau des pieds
 - Puis peu se généraliser et faire un tableau de fibromyalgie ensuite
 - Donc anamnèse ++++ :
-
-![1000012065.jpg](Fibromyalgie%20et%20troubles%20somatiques%20fonctionnels/1000012065.jpg)
+![image](.attachments/62e39ce8a4770c254f86b862b236ec954c44e937.jpg) 
