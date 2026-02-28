@@ -1,7 +1,5 @@
 # Maladie de Haglund
 
-Propriétaire: quentin campeol
-
 Le calcanéus peut présenter une hypertrophie de l’angle supérieur de sa tubérosité postérieure ou être verticalisé du fait d’un pied creux ce qui peut être responsable d’un conflit mécanique entre le rebord du calcanéus saillant et le tendon calcanéen. Ce conflit est aussi appelé maladie de Haglund.
 
 Plusieurs éléments sont à rechercher sur les examens complémentaires d’imagerie :
