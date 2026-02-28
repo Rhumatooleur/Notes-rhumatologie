@@ -1,6 +1,5 @@
 # Indications de l’échographie en rhumatologie
 
-Propriétaire: quentin campeol
 
 PPR :
 
