@@ -11,8 +11,6 @@ Propriétaire: quentin campeol
 1. Étage mobile = Coupe des disques + articulaires postérieures
 2. Étage du canal lombaire 
 
-![image.png](Rachis/image.png)
-
 ![image.png](Rachis/image%201.png)
 
 ![image.png](Rachis/image%202.png)
