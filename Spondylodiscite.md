@@ -27,19 +27,12 @@ Propriétaire: quentin campeol
 
 **Diagnostics différentiels :** 
 
-|  | Différences  |
+|     |     |
 | --- | --- |
-| MODIC 1 |  Oedeme osseux a limite franche linéaire qui ne dépasse pas la moitié de la vertèbre   |
-| Arthrose  | Respect des plateaux vertébraux
-Erosions possibles mais à limites nettes bordées de liseré sclérotique 
-Dégénérescence discale avec gaz intradiscal 
-Pas d’anomalies des parties molles ou de la moelle  |
-| CCA | Calcifications intradiscales linéaires périphériques de petite taille, calcifications capsulo-ligamentaires et inter épineuses 
-syndrome de la dent couronnée  |
-| PPC | Calcifications intra-discales  |
-| SPA | Distribution multifocalédes lésions 
-Érosions périphériques (coins vertébraux) ou au contraire très centrales 
-Preservation de la hauteur du disque 
-Fusion des articulaires postérieures 
-syndesmophytes  |
-| Tumeurs  | Respect du disque  |
+|     | Différences |
+| MODIC 1 | Oedeme osseux a limite franche linéaire qui ne dépasse pas la moitié de la vertèbre |
+| Arthrose | Respect des plateaux vertébraux  <br>Erosions possibles mais à limites nettes bordées de liseré sclérotique  <br>Dégénérescence discale avec gaz intradiscal  <br>Pas d’anomalies des parties molles ou de la moelle |
+| CCA | Calcifications intradiscales linéaires périphériques de petite taille, calcifications capsulo-ligamentaires et inter épineuses  <br>syndrome de la dent couronnée |
+| PPC | Calcifications intra-discales |
+| SPA | Distribution multifocalédes lésions  <br>Érosions périphériques (coins vertébraux) ou au contraire très centrales  <br>Preservation de la hauteur du disque  <br>Fusion des articulaires postérieures  <br>syndesmophytes |
+| Tumeurs | Respect du disque |
