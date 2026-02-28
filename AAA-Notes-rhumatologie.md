@@ -4,7 +4,7 @@
 
 [PR](Notes%20rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md)
 
-[Rhumatisme psoriasique](Notes%20rhumatologie/Rhumatisme%20psoriasique%2018345f5988be809e8871eb1384ef4992.md)
+[Rhumatisme psoriasique](Notes%20rhumatologie/Rhumatisme%20psoriasique.md)
 
 [Épaule](Notes%20rhumatologie/%C3%89paule%2014645f5988be8016ac96de4a1303f885.md)
 
