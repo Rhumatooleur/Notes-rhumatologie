@@ -7,4 +7,4 @@
     - Seuil cortisol à 8h ⇒ 300nmol pas d’insuffisance surrénale
     - si entre 150 et 300 test au synacthène
 
-[Diabète et corticoïdes ](Corticoth%C3%A9rapie/Diab%C3%A8te%20et%20cortico%C3%AFdes%2014645f5988be809492f7d287fa135243.md)
+[Diabète et corticoïdes ](Corticothérapie/Diab%C3%A8te%20et%20cortico%C3%AFdes%2014645f5988be809492f7d287fa135243.md)
