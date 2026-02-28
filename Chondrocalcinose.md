@@ -76,18 +76,17 @@ Cartilage hyalin :
 
 - scaphoïde
 - Lunatum
-![1000010777.jpg](Cristaux/Chondrocalcinosee/1000010777.jpg)
+![image](.attachments/a55948dc795a57724cbded2fa5663629b2fdfdef.jpg) 
+![image](.attachments/1a30bb414d51c248169e69f5175b49a94c80ffaa.jpg) 
+![image](.attachments/b951828b674eee2fb7f9f1a9e3576bca7b261b72.jpg) 
 
-![1000010776.jpg](Chondrocalcinose/1000010776.jpg)
-
-![17369262935625648764194435760071.jpg](Chondrocalcinose/17369262935625648764194435760071.jpg)
 
 ### Atteintes des mains :
 
 Pincement des MCP principalement 2 et 3, avec chrondrocalcinose, calcifications capsulo-synoviales, pincement géodes ostéophytes.
 
 Images en ancre au niveau des MCPs peuvent faire évoquer plutôt une CCA sur hémochromatose (même si peut se retrouver aussi dans CCA) 
-
+![image](.attachments/c19242643774508474078d8ab6231c12cf60767a.jpg) 
 ### Atteinte des hanches
 
 Calcifications du labrum
@@ -104,7 +103,7 @@ Calcifications cartilagineuses, capsulo-synoviales, du labrum, tendineuses
 
 ### Atteinte du rachis
 
-![17369263119962982868708552237857.jpg](Chondrocalcinose/17369263119962982868708552237857.jpg)
+
 
 - Atteinte intra discale
     - Calcifications peu nombreuses, linéaires, périphériques (à la différence de l’hydroxyapatite)
