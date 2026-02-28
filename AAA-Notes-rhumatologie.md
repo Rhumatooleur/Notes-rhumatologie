@@ -24,7 +24,7 @@
 
 ### Médicaments
 
-[Vaccins et RICs](Notes%20rhumatologie/Vaccins%20et%20RICs%2014c45f5988be800c8d41cf8ba27edd0a.md)
+[Vaccins et RICs](AAA-Notes-rhumatologie/Vaccins-et-RICs.md)
 
 [csDMARDs](Notes%20rhumatologie/csDMARDs%2014945f5988be80b99689d9c645bb94a2.md)
 
