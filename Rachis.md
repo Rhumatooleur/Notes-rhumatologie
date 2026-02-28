@@ -35,7 +35,7 @@ Disque normal = concave
 
 [Fractures vertébrales](Rachis/Fractures-vertébrales.md)
 
-[Anomalies de forme des vertèbres](Rachis/Anomalies%20de%20forme%20des%20vert%C3%A8bres%2030345f5988be8073be4bc77b88c20a2b.md)
+[Anomalies de forme des vertèbres](Rachis/Anomalies-formes-vertèbres.md)
 
 ### MODIC
 
