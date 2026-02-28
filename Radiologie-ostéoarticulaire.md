@@ -23,13 +23,13 @@
 [Rachis](Rachis.md)
 [Pied](Pied.md)
 [Épaule](Épaule.md)
-[Sacro-iliaques](https://www.notion.so/Sacro-iliaques-16045f5988be802eaef2cc8a10d3b06a?pvs=21)
-[Coude](https://www.notion.so/Coude-27c45f5988be80eda5fcf228a4ed67c3?pvs=21)
-[Poignet](https://www.notion.so/Poignet-2f545f5988be809cb0bbc2ea6b565e4c?pvs=21)
+[Sacro-iliaques](Sacro-iliaques.md)
+[Coude](Coude.md)
+[Poignet](Poignet.md)
 ## Selon le mécanisme patholohique
 ### Mécanique
 [Arthrose](Arthrose.md)
-[Ostéonécrose épiphysaire](https://www.notion.so/Ost-on-crose-piphysaire-2c245f5988be80d2bea7caf1bd6df60e?pvs=21)
+[Ostéonécrose épiphysaire](Ostéonécrose-épiphysaire.md)
 [Maladie de Haglund](https://www.notion.so/Maladie-de-Haglund-2c445f5988be80f69ea2ed650d487e5d?pvs=21)
 [Lésions musculaires traumatiques](https://www.notion.so/L-sions-musculaires-traumatiques-2d145f5988be8081af54dda3657fe914?pvs=21)
 ### Métabolique
