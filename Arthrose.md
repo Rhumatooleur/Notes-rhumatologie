@@ -2,7 +2,7 @@
 
 Propriétaire: quentin campeol
 
-# Hanche
+## Hanche
 
 ### Clichés à faire :
 
@@ -165,9 +165,9 @@ En IRM penser à la CCA devant une coxarthrose congestive avec un oedème diffus
 
 **Secondaires à des affections neurologiques** (myopathies, polyomyélite antérieure aigue) ****
 
-# Genou
+## Genou
 
-## Critères radiologiques de Kellgren et Lawrence
+### Critères radiologiques de Kellgren et Lawrence
 
 **0 - Radio Normale**
 **1 - Très léger ostéophyte ou pincement**
@@ -185,11 +185,11 @@ Signe du croisement sur genou de profil (ligne du fond de la trochlée qui vient
 
 Défilé femoro patellaire à 30° de flexion 
 
-# Digitale
+## Digitale
 
-# Epaule
+## Epaule
 
-## Omarthrose excentrée
+### Omarthrose excentrée
 
 **Se définit radiologiquement par :**
 
@@ -222,7 +222,7 @@ Nécrose massive de la tête humérale
 
 ![image.png](Arthrose/image%2011.png)
 
-## Omarthrose centrée
+### Omarthrose centrée
 
 **Se définit par :**
 
@@ -236,7 +236,7 @@ gléno-huméral, qui se voit mieux sur le cliché en rotation externe
 
 ![image.png](Arthrose/image%2012.png)
 
-# Poignet
+## Poignet
 
 ### Critères de qualité des radios du poignet
 
@@ -244,7 +244,7 @@ gléno-huméral, qui se voit mieux sur le cliché en rotation externe
 
 ![IMG_0806.jpeg](Arthrose/IMG_0806.jpeg)
 
-## Arthrose radio-scaphoïdienne
+### Arthrose radio-scaphoïdienne
 
 Principalement causes secondaires par ordre de fréquence : 
 
