@@ -34,7 +34,7 @@
 [Maladie de Haglund](AAA-Radiologie-ostéoarticulaire/Maladie-de-Haglund.md)
 [Lésions musculaires traumatiques](AAA-Radiologie-ostéoarticulaire/Lésions-musculaires-traumatiques.md)
 ### Métabolique
-[CristauxAAA-Radiologie-ostéoarticulaire/Cristaux.md)
+[Cristaux](AAA-Radiologie-ostéoarticulaire/Cristaux.md)
 ### Inflammatoire
 [Spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md)
 [Polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md)
