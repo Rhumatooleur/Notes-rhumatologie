@@ -20,7 +20,7 @@
 
 [Fractures de contrainte ](Notes%20rhumatologie/Fractures%20de%20contrainte%201d045f5988be80948c53da402fe947f2.md)
 
-[Atteintes des poulies ](Notes%20rhumatologie/Atteintes%20des%20poulies%2028545f5988be8041a2a7dbaf271ca543.md)
+[Atteintes des poulies ](AAA-Notes-rhumatologie/Atteintes%20des%20poulies%2028545f5988be8041a2a7dbaf271ca543.md)
 
 ### Médicaments
 
