@@ -2,7 +2,7 @@
 
 Propriétaire: quentin campeol
 
-![image.png](Tendinopathies%20conflits/image.png)
+![image.png](Tendinopathies-conflits/image.png)
 
 ### Tendinopathies - ténosynovites
 
