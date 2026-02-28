@@ -1,7 +1,5 @@
 # Traitements des métatarsalgies mécaniques
 
-Propriétaire: quentin campeol
-
 Adaptation du chaussage 
 
 Orthèses plantaires (mais pas pour l’hallux valgus ou le névrome de Morton) 
