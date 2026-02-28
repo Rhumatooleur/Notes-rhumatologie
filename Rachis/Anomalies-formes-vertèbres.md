@@ -4,7 +4,7 @@ Propriétaire: quentin campeol
 
 ### Noeuds de schmorl = Hernies intradiscales
 
-![image.png](Anomalies%20de%20forme%20des%20vert%C3%A8bres/image.png)
+![image.png](image.png)
 
 **Peuvent se retrouver :** 
 
@@ -13,7 +13,7 @@ Propriétaire: quentin campeol
 
 ### Vertèbres en H
 
-![image.png](Anomalies%20de%20forme%20des%20vert%C3%A8bres/image%201.png)
+![image.png](image%201.png)
 
 Dépression de la plaque terminale centrale nettement délimitée
 
