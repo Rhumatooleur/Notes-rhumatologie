@@ -90,37 +90,12 @@ En combinant ces deux images, on obtient :
 - Une image **uniquement avec l'eau = water only**
 - Une image **uniquement avec la graisse = fat only**
 
-![image.png](IRM/image.png)
+![image](.attachments/add87ebe6ca9da4e43ac4a2dcfd08e5f05acaf83.png) 
 
 # **3. Séquences d’IRM musculo-squelettique**
 
-|  | **Explication**  | **Avantage / utilité**  | **Inconvéniants** |
-| --- | --- | --- | --- |
-| **T1** | pondération T1 (pas une séquence en soit)  |  |  |
-| **T2** | pondération T2 (pas une séquence en soit) |  |  |
-| **Spin echo T1** | C’est une pondération T1 mais un peu plus complexe pour corriger les inhomogénéités du champ magnétique (on envoie une impulsion à 90° puis une à 180° à un demi temps d’écho pour récréer une cohérence de phase dans les protons)  |  |  |
-| **Spin écho T1 avec annulation du signal de la graisse et injection de produit de contraste** |  | Arthro-IRM si injection intra-articulaire
+![image](.attachments/5c0603a04e28dbea03f36f351f7d02a1350a56a7.png) 
 
-Pour évaluer le réhaussement de produit de contraste des tissus graisseux (moelle osseuse jaune, graisse sous cutanée (nécrose?) ou tumeurs graisseuses (lipome ou liposarcome ?)  |  |
-| **Spin écho T2**  |  | Pas utilisé car temps trop long d’acquisition  |  |
-| **STIR = T2 STIR** | Forcément pondération **T2** avec **suppression du signal de la graisse** par short time inversion recovery : utilise une impulsion d’inversion pour saturer le signal de la graisse avant l’acquisition des images | Annulation fiable de la graisse tout en offrant une bonne visualisation des lésions, puisque les allongements de temps de relaxation T1 et T2 des tissus pathologiques s’additionnent (pondération à la fois T1 et T2)
-
-**Préféré au DIXON en cas de matériel** car moins sensible aux hétérogénéités de champ magnétique 
-
-Utilisable en périphérie du champ | Temps long d’acquisition
-
-Coupes épaisses et non jointives  |
-| **DIXON (DP fat sat)** | Densité protonique : utilise les différences de phase entre l'eau et la graisse pour les séparer. Elle permet d'obtenir plusieurs images (en phase = T1 ou T2 classique, water only = T2 avec saturation de la graisse, et fat only)
-
-Peut être pondéré T1 ou T2  | Permet de séparer le signal de l’eau et de la graisse en une seule acquisition ⇒ gain de temps
-
-Suppression du signal de la graisse homogène et fiable 
-
-**Rapport signal / bruit élevé**
-
-**Forte pour étudier le cartilage** | Pas d’annulation du signal de la graisse à proximité de matériels, ou en périphérie du champ |
-| **T2 fat sat** |  | Meilleure différenciation entre le signal de l’eau et
-des tissus hydratés que le DIXON ou intermédiaire avec annulation du signal de la graisse | Dégradation du rapport signal/bruit par rapport au DIXON |
 
 # **4. Signal des tissus en fonction de la pondération IRM**
 
