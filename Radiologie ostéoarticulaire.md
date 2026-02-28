@@ -1,1 +1,1 @@
-[Texte du lien](Arthrose.md)
+[Arthrose](Arthrose.md)
