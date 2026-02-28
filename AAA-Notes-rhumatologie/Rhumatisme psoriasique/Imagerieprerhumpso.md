@@ -1,14 +1,14 @@
 # Imagerie dans le pré rhumatisme psoriasique
 
-# Présentation de Philippe 22/01/2025
+## Présentation de Philippe 22/01/2025
 
 **Échographie :**
 
  15% des gens qui ont du psoriasis cutané ont des atteintes échographiques infra cliniques (enthesites et TS ++)
 
 **Algorithme utilisation de l'échographie quand on suspecte un rhumatisme psoriasique** 
-
-![1000012025.jpg](Imagerie%20dans%20le%20pr%C3%A9%20rhumatisme%20psoriasique/1000012025.jpg)
+![image](.attachments/cb7b29c351dc185d2cc3229db8c881c9595e7278.jpg) 
+![1000012025.jpg]
 
 **IRM** :
 
