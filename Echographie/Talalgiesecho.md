@@ -27,7 +27,7 @@ Rechercher :
         - A noter :  une absence de prise doppler n’est pas forcément un signe d’absence d’aponévrosite
 - Diagnostics différentiels :
     
-    [Facsiite plantaire = inflammation du corps de l’aponévrose](Protocole%20radio%20+%20%C3%A9chographie%20devant%20des%20talalgies/Facsiite%20plantaire%20=%20inflammation%20du%20corps%20de%20l%E2%80%99ap%2030345f5988be807bae65edb6a0e3ddea.md)
+    [Facsiite plantaire = inflammation du corps de l’aponévrose](Echographie/fasciiteplantaire.md)
     
     - Syndrome du tunnel tarsien = nerf de Baxter (première branche du nerf plantaire latéral) :
         - Recherche d'une cause compressive (kyste, varices, muscle accessoire)
