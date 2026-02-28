@@ -6,4 +6,4 @@ Propriétaire: quentin campeol
 
 [Métatarsalgies](Pied/M%C3%A9tatarsalgies%202c945f5988be80259463d8017837e3e8.md)
 
-[Fasciite plantaire](../Fasciiteplantaire.md)
+[Fasciite plantaire](../Echographie/Fasciiteplantaire.md)
