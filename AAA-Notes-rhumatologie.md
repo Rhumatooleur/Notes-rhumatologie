@@ -16,7 +16,7 @@
 
 [Fibromyalgie et troubles somatiques fonctionnels ](AAA-Notes-rhumatologie/Fibromyalgie%20et%20troubles%20somatiques%20fonctionnels%2018545f5988be802fbf71d3a2dbf61d05.md)
 
-[Arthrites réactionnelles et autres rhumatismes inflammatoires post infectieux](AAA-Notes-rhumatologie/Arthrites%20r%C3%A9actionnelles%20et%20autres%20rhumatismes%20inf%201cf45f5988be80e396a9fef0b243c218.md)
+[Arthrites réactionnelles et autres rhumatismes inflammatoires post infectieux](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md)
 
 [Fractures de contrainte ](AAA-Notes-rhumatologie/Fractures%20de%20contrainte%201d045f5988be80948c53da402fe947f2.md)
 
