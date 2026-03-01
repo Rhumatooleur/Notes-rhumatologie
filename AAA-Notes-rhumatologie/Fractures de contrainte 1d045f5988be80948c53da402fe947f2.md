@@ -1,15 +1,15 @@
 # Fractures de contrainte
 
-1. **Fractures de fatigue = os normal mais contraintes trop importantes** 
+## Deux Types de fracture de contrainte 
+### Fractures de fatigue = os normal mais contraintes trop importantes
 
 Défaut de progressivité en sport 
 
-1. **Fractures de contrainte par insuffisance osseuse = contrainte normale sur os fragile** 
+### Fractures de contrainte par insuffisance osseuse = contrainte normale sur os fragile
 
 Très fréquent, sous diagnostiqué, sous evalué en épidémio 
 
-Anamnèse :
-
+**Anamnèse :**
 - Os soumis a des contraintes = des membres inférieurs, Rachis et sacrum
 - Douleurs mécaniques en charge , localisées au niveau du foyer de fracture avec reproduction possible à la palpation
 - Au niveau du sacrum = douleurs uniquement en charge
@@ -17,17 +17,17 @@ Anamnèse :
 - Diagnostic différentiel
     - erisypele ⇒ mais pas de douleurs en charge
 
-Clinique peut être frustre 
+**Clinique peut être frustre** 
 
-Examens complémentaires : 
+**Examens complémentaires :**
 
-- Radios souvent trop peu sensibles
+- Radios souvent trop peu sensibles 
 - IRM = examen recommandé
 - Scintigraphie osseuse possible aussi
-- Écho :
+- Écho : ?
 - C’est comme l’ostéoporose faut faire le même bilan
 
-Traitement :
+**Traitement :**
 
 - Décharge partielle ou totale selon localisation jusqu'à 6 semaines
 - Kiné a la reprise de la marche
