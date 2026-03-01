@@ -1,30 +1,26 @@
 # Épaule
 
-Propriétaire: quentin campeol
+## Anatomie
 
-### Anatomie
-
-### Clichés radiographiques
+## Clichés radiographiques
 
 **Critères qualité des clichés d’épaule :** 
 
 FACE
-
 1. Interligne gléno-huméral dégagé avec superposition des deux rebords glénoidiens
 2. Bien dégager l’espace sous acromio-deltoidien
 3. Cintre gléno-huméral
 4. Superposition clavicule et acromion
 5. Rotations : 
-    1. Rotation Neutre : interligne au centre 
+    1. Rotation Neutre : Sillon intertuberculaire au centre 
     2. RI ⇒  Tubercule mineur au centre, aspect en “marteau” 
     3. RE ⇒ dédoublement des tubercules 
 
 PROFIL 
-
 1. Tête au centre du Y de la clavicule 
 2. Superposition clavicule et diaphyse humérale 
 
-### Tendinopathie de la coiffe
+## Tendinopathie de la coiffe
 
 **Conflits :** 
 
@@ -46,9 +42,8 @@ Conflit antéro-interne :
 Conflit postéro-supérieur : 
 
 - Contact itératif entre la face inférieure du supraépineux à son insertion trochitérienne et le bord postérosupérieur de la glène, se produisant lors de l’armé, au cours de la pratique de certains sports de lancer
-
+\
 **Classification des ruptures tendineuses :** 
-
 - Partielles :
     - Profondes
     - Superficielles
@@ -56,11 +51,10 @@ Conflit postéro-supérieur :
 - Transfixiantes
 
 **Il existe des associations à rechercher entre :** 
-
 - géode d’inclusion synoviale doit faire rechercher une rupture de coiffe
 - un clivage intra-tendineux doit faire rechercher une rupture profonde à l’enthèse
 
-### Calcifications de la coiffe des rotateurs
+## Calcifications de la coiffe des rotateurs
 
 **Classification des calcifications apatitiques**
 
