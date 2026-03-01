@@ -42,7 +42,10 @@ Imagerie : [Fractures de contrainte](../AAA-Radiologie-ostéoarticulaire/Fractur
 
 Biologie : C’est comme l’ostéoporose faut faire le même bilan
 
-**Traitement :**
+## Prise en charge 
+
+**Mesures préventives** : 
+-
 
 - Décharge partielle ou totale selon localisation jusqu'à 6 semaines
 - Kiné a la reprise de la marche
