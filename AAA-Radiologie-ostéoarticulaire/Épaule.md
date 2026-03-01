@@ -72,3 +72,18 @@ Seules les calcifications de type A ou B sont accessibles à une ponction aspira
 Bursite calcique sub-acromiodeltoïdienne traduisant la résorption de la calcification. 
 
 ![image.png](%C3%89paule/image%202.png)
+
+## Fractures de l'extrémité supérieure de l'humérus (FESH)
+### Classification de Neer 
+![image](.attachments/d47c76cb27334416f4a373165cb8c832d8bc2277.png) 
+![Open Reduction and Internal Fixation of Proximal Humerus Fractures |  Musculoskeletal Key](https://musculoskeletalkey.com/wp-content/uploads/2016/07/C29-FF1-8.gif)
+### Complications des FESH
+* Paralysie des nerfs radial / axillaire
+* Ostéonécrose :
+  * Lésion artère
+  * Plus à risque si : 3/4 fragments, atteinte col anatomique, fracture + luxation
+* Raideur
+* Cal vicieux
+### Traitement 
+Si un fragment => immobilisation 
+Si au moins 2 fragments => PEC chir 
