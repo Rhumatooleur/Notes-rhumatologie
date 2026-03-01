@@ -13,7 +13,8 @@ Au niveau de l'os la règle = interruption des lignes de force :
 - Au "col" du calcaneus
 
   ![image](.attachments/0560942136dc78a4c11b3fbbd130497f2245d8dd.png)
-  ![image](.attachments/7a4751706a607242ff10157fa73d1ff42a491b02.png) 
+  ![image](.attachments/7a4751706a607242ff10157fa73d1ff42a491b02.png)
+  ![image](.attachments/7fda3caff34ea9ca0e724908a8bb015540ddc379.png) 
 ## Sémiologie radiologique 
 **Formes corticales** = Apposition périostée et/ou épaississement endostéal, auxquels peut s’ajouter ensuite une clarté linéaire intracorticale, perpendiculaire à la diaphyse.
 **Formes trabéculaires** (os du tarse, vertèbres, diaphyse et métaphyse des os longs) = bande d’ostéocondensation volontiers discrète et inconstante => la traduction d’un cal osseux, ce qui explique sa survenue tardive.
