@@ -20,7 +20,7 @@ Très fréquent, sous diagnostiqué, sous evalué en épidémio
 **Clinique peut être frustre** 
 
 **Examens complémentaires :**
-Imagerie : [Fractures de contrainte](AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md) 
+Imagerie : [Fractures de contrainte](../AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md) 
 - Radios souvent trop peu sensibles 
 - IRM = examen recommandé
 - Scintigraphie osseuse possible aussi
