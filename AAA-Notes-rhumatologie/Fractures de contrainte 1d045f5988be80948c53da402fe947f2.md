@@ -23,21 +23,15 @@ Possiblement inflammatoire au niveau de la peau en regard
     - Arthrose chez le sujet âgé (conclure à ça alors que il y a fracture de fatigue en +)
     - Périostite et tendinites chez le jeune sportif (même erreur)
     - Ostéomyélite et tumeur osseuse primitive (même aspect IRM et scinti mais ici anamnèse fait la différence = douleurs mécaniques en charge)
-    |     | **Fracture de fatigue** | **Périostite (MTSS)** |
-| --- | --- | --- |
-| **Terrain typique** | Sportif avec augmentation brutale ou intensive de charge | Sportif (souvent coureur) avec augmentation progressive ou modification d’entraînement |
-| **Type de sport fréquent** | Course à pied, sport à impacts répétés, militaire | Course à pied, sports à impacts |
-| **Mode d’installation** | Progressif mais devient rapidement invalidant | Progressif |
-| **Douleur – début** | À l’effort, puis plus précoce au fil du temps | À l’effort, surtout en début d’activité |
-| **Douleur – évolution** | Persiste après l’effort, puis possible douleur au repos/stade avancé | Diminue à l’échauffement puis réapparaît en fin d’effort |
-| **Douleur nocturne** | Possible | Rare |
-| **Localisation** | Très localisée, punctiforme | Plus diffuse, le long du bord médial tibial (≥ 5 cm) |
-| **Palpation** | Douleur exquise en un point précis | Douleur étendue le long du périoste |
-| **Test de percussion / vibration** | Souvent douloureux | En général négatif |
-| **Signe du saut unipodal** | Douloureux voire impossible | Souvent possible, moins spécifique |
-| **Œdème local** | Parfois présent | Rare |
-| **Facteurs favorisants spécifiques** | Trouble alimentaire, aménorrhée, carence en vitamine D, ostéopénie | Hyperpronation, chaussage inadapté, surface dure |
 
+**Tableau : différences entre fracture de fatigue et périostite tibiale**
+ | Élément | Fracture de fatigue tibiale | Périostite tibiale |
+| --- | --- | --- |
+| Installation | Moins progressive |  Progressive  |
+| Douleur à l’effort | Persistance à l'effort |  Précoce, s'améliore à l'échauffement et à la poursuite de l'effort (au début tout du moins) |
+| Localisation | Très localisée, point précis tiers proximal médial | Diffuse (>5 cm) bord médial tibia jonction tiers moyen et distal|
+| Palpation | Point douloureux exquis | Douleur étalée |
+| Saut unipodal | Souvent impossible ou très douloureux | Possible mais inconfort |
 
 **Examens complémentaires :**
 Imagerie : [Fractures de contrainte](../AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md) 
