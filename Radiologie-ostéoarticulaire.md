@@ -12,7 +12,7 @@
 [Epaule IRM](AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md)
 [Poignet IRM](AAA-Radiologie-ostéoarticulaire/Poignet-IRM.md)
 [Genou IRM](AAA-Radiologie-ostéoarticulaire/Genou-IRM.md)
-[Cheville IRM](AAA-Radiologie-ostéoarticulaire/Cheville-IRM.md)
+[Cheville IRM](AAA-Radiologie-ostéoarticulaire/Cheville-IRM.md) 
 # Types d’imagerie
 
 [Echographie](AAA-Radiologie-ostéoarticulaire/Echographie.md)
