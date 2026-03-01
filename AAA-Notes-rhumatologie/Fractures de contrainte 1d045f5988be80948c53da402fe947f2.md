@@ -11,13 +11,18 @@ Très fréquent, sous diagnostiqué, sous evalué en épidémio
 ## Présentation clinique 
 
 **Anamnèse :**
-- Douleurs mécaniques en charge , localisées au niveau du foyer de fracture avec reproduction possible à la palpation
+- Douleurs mécaniques en charge , localisées au niveau du foyer de fracture 
 - Au niveau du sacrum = douleurs uniquement en charge
-- Possiblement inflammatoire au niveau de la peau en regard
-- Diagnostic différentiel
-    - erisypele ⇒ mais pas de douleurs en charge
 
 **Clinique peut être frustre** 
+Reproduction possible à la palpation
+Possiblement inflammatoire au niveau de la peau en regard
+
+**Diagnostics différentiels :**
+    - Erisypele ⇒ mais pas de douleurs en charge
+    - Arthrose chez le sujet âgé (conclure à ça alors que il y a fracture de fatigue en +)
+    - Périostite et tendinites chez le jeune sportif (même erreur)
+    - Ostéomyélite et tumeur osseuse primitive (même aspect IRM et scinti mais ici anamnèse fait la différence = douleurs mécaniques en charge)
 
 **Examens complémentaires :**
 Imagerie : [Fractures de contrainte](../AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md) 
