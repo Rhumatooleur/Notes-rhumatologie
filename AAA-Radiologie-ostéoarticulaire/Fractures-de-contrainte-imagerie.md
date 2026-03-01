@@ -1,7 +1,7 @@
 # Imagerie des fractures de contrainte
 ## Localisation des fractures de contrainte 
-La règle = interruption des lignes de force
-
+Principalement en zone portante : bassin et membres inférieurs
+Au niveau de l'os la règle = interruption des lignes de force
 ## Sémiologie radiologique 
 ## Sémiologie IRM 
 ## Scintigraphie
