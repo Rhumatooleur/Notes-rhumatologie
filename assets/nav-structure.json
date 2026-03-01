@@ -1,6 +1,6 @@
 [
   {
-    "title": "Accueil",
+    "title": "📖 Accueil",
     "collapsed": false,
     "pages": [
       {
@@ -14,6 +14,10 @@
       {
         "name": "📖 Guide du Visionneur Markdown GitHub Pages",
         "file": "GUIDE-SETUP.md"
+      },
+      {
+        "name": "🔄 Système de Navigation Automatique",
+        "file": "NAVIGATION-AUTO.md"
       },
       {
         "name": "Notes rhumatologie",
@@ -34,7 +38,7 @@
     ]
   },
   {
-    "title": "Notes Generales",
+    "title": "🏥 Notes Générales",
     "collapsed": true,
     "pages": [
       {
@@ -184,7 +188,7 @@
     ]
   },
   {
-    "title": "Radiologie",
+    "title": "🔬 Radiologie",
     "collapsed": true,
     "pages": [
       {
