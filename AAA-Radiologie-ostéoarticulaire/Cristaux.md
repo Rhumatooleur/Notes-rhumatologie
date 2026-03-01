@@ -1,7 +1,5 @@
 # Cristaux
 
-Propriétaire: quentin campeol
-
 [Chondrocalcinose](Chondrocalcinose.md)
 
 [Hydroxyapatite ](Hydroxyapatite.md)
