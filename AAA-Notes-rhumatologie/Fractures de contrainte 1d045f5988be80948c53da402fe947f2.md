@@ -8,9 +8,9 @@ Défaut de progressivité en sport
 ### Fractures de contrainte par insuffisance osseuse = contrainte normale sur os fragile
 
 Très fréquent, sous diagnostiqué, sous evalué en épidémio 
+## Présentation clinique 
 
 **Anamnèse :**
-- Os soumis a des contraintes = des membres inférieurs, Rachis et sacrum
 - Douleurs mécaniques en charge , localisées au niveau du foyer de fracture avec reproduction possible à la palpation
 - Au niveau du sacrum = douleurs uniquement en charge
 - Possiblement inflammatoire au niveau de la peau en regard
