@@ -1,0 +1,7 @@
+title: Notes de Rhumatologie
+description: Un visionneur markdown interactif pour mes notes de rhumatologie
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+url: "https://rhumatooleur.github.io/Notes-rhumatologie"
+baseurl: "/Notes-rhumatologie"

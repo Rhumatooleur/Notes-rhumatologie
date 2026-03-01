@@ -1,0 +1,27 @@
+# Fichiers système
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dépendances
+node_modules/
+
+# Fichiers de build
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environnements
+.env
+.env.local
