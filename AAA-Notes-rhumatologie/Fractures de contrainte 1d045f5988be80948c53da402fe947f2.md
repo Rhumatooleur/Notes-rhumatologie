@@ -44,9 +44,16 @@ Biologie : C’est comme l’ostéoporose faut faire le même bilan
 
 ## Prise en charge 
 
-**Mesures préventives** : 
--
+**Mesures préventives** (pour les fractures de contrainte ) :
+* Progressivité de l'entrainement
+* Courir sur un sol souple et régulier
+* Avoir des chaussures adaptées
+* Calcium + vitamine D
+* Orthèses ou semelles amortissantes
+* Allègement de la tenue de combat
 
-- Décharge partielle ou totale selon localisation jusqu'à 6 semaines
+**Prise en charge :** 
+- Décharge partielle ou totale selon localisation 4-6 semaines
+- PEC chir si fracture à risque ou fracture complète
 - Kiné a la reprise de la marche
 - PEC osteoporose
