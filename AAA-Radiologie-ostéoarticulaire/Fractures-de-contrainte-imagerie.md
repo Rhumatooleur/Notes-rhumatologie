@@ -1,6 +1,10 @@
 # Imagerie des fractures de contrainte
 ## Localisation des fractures de contrainte 
-Principalement en zone portante : bassin et membres inférieurs, rachis, sacrum
+Principalement en zone portante : 
+- bassin
+- membres inférieurs
+- rachis => Pédicules => listhésis
+- sacrum
 Au niveau de l'os la règle = interruption des lignes de force : 
 - Diaphyse des os long :
   - Bord médial du tiers proximal du tibia
