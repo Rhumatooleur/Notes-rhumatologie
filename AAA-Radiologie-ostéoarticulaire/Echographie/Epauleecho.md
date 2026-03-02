@@ -1,8 +1,5 @@
 # Protocole échographie épaule
-
-Propriétaire: quentin campeol
-
-### Protocole jeune / tout venant
+## Protocole jeune / tout venant
 
 **Long biceps :**
 
@@ -54,7 +51,7 @@ Si on ne trouve rien ⇒ aller plus loin :
     [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Protocole%20%C3%A9chographie%20%C3%A9paule/Syndrome%20canalaire%20de%20l%E2%80%99espace%20quadrilat%C3%A8re%20de%20Vel%2030345f5988be801e8ae1e6fb65933ecf.md)
     
 
-### Protocole pour patient avec omarthrose évoluée
+## Protocole pour patient avec omarthrose évoluée
 
 Rester humble chez ce type de patient : rechercher uniquement une grosse rupture transfixiante
 
@@ -62,7 +59,7 @@ Proposer infiltration / visco
 
 Compléter par un arthroscanner à visée pré-chirurgicale
 
-### Protocole pour coiffe suturée
+## Protocole pour coiffe suturée
 
 **Grands principes :** 
 
