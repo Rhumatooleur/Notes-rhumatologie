@@ -1,4 +1,9 @@
 # Protocole échographie épaule
+## A penser dans tous les cas
+Si rupture : 
+* Partielle (superficielle, profonde, clivage) / complète
+* Dégénérescence graisseuse et atrophie musculaire associée ?
+* Quantifier la rétraction tendineuse 
 ## Protocole jeune / tout venant
 
 **Long biceps :**
