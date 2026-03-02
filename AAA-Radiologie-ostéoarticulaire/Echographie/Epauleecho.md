@@ -48,7 +48,7 @@ Si on ne trouve rien ⇒ aller plus loin :
 - Enthesopathie insertion deltoïde sur acormion
 - Syndrome de Velpeau :
     
-    [Syndrome canalaire de l’espace quadrilatère de Velpeau ](.md)
+    [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Velpeau.md)
     
 
 ## Protocole pour patient avec omarthrose évoluée
