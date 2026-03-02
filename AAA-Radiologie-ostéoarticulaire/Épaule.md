@@ -9,7 +9,7 @@
 
 **Critères qualité des clichés d’épaule :** 
 
-FACE
+**FACE**
 1. Interligne gléno-huméral dégagé avec superposition des deux rebords glénoidiens
 2. Bien dégager l’espace sous acromio-deltoidien
 3. Cintre gléno-huméral
@@ -19,7 +19,7 @@ FACE
     2. RI ⇒  Tubercule mineur au centre, aspect en “marteau” 
     3. RE ⇒ dédoublement des tubercules 
 
-PROFIL 
+**PROFIL**
 1. Tête au centre du Y de la clavicule 
 2. Superposition clavicule et diaphyse humérale 
 
