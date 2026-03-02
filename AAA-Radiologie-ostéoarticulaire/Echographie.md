@@ -6,7 +6,7 @@
 [Protocole échographie épaule](Echographie/Epauleecho.md)
 [Protocole tendinopathie d’achille](Echographie/TAecho.md)
 [Protocole radio + échographie devant des talalgies ](Echographie/Talalgiesecho.md)
-[Protocole échographie épicondylite latérale](Echographie/Epicondylitelatéraleecho.md)
+[Protocole échographie épicondylite latérale](Echographie/Epicondylitelateraleecho.md)
 
 ## Autres
 
