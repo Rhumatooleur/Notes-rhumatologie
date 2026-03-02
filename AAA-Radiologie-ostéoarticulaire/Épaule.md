@@ -77,7 +77,7 @@ Bursite calcique sub-acromiodeltoïdienne traduisant la résorption de la calcif
 ![image.png](%C3%89paule/image%202.png)
 
 ## Syndrome du quadrilatère de Velpeau 
-  [Syndrome canalaire de l’espace quadrilatère de Velpeau ](..\Echographie\Velpeau.md)
+  [Syndrome canalaire de l’espace quadrilatère de Velpeau ](../Echographie/Echoepaule/Velpeau.md)
 
 ## Fractures de l'extrémité supérieure de l'humérus (FESH)
 ### Classification de Neer 
