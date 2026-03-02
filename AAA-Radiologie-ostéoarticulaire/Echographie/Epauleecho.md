@@ -46,7 +46,7 @@
 
 Si on ne trouve rien ⇒ aller plus loin : 
 - Enthesopathie insertion deltoïde sur acormion
-- Syndrome de Velpeau : [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Velpeau.md)
+- Syndrome de Velpeau : [Syndrome canalaire de l’espace quadrilatère de Velpeau ](../Épaule/Velpeau.md)
 - Echancrure spino-glénoïdienne : artère et nerf supra-scapulaire (compression par kyste artho-synovial)
     
 
