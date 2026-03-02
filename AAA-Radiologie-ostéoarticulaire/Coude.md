@@ -34,7 +34,7 @@ La place de l'imagerie est réservée aux formes atypiques ou résistantes au tr
       * arthropathie huméroradiale, corps étrangers intra-articulaires ou de toute autre pathologie osseuse de voisinage (tumorale notamment).
       * Ostéome en regard de l'épicondyle latéral
     
--   **Échographie (Examen de référence) :** 
+-   **Échographie (Examen de référence) :** [Protocole épicondylite latérale échographie](Echographie/Epycondilite-latérale)
     
 -   **IRM :** Réservée aux cas chroniques ou avant chirurgie pour éliminer un diagnostic différentiel.
     
