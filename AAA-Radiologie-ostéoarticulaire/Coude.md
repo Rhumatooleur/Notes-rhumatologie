@@ -50,7 +50,7 @@ La place de l'imagerie est réservée aux formes atypiques ou résistantes au tr
 
 ### 5. Prise en Charge Thérapeutique
 
-| **** | **Traitement** |
+|  | **Traitement** |
 | --- | --- |
 | **Repos** | Repos relatif (pas d'immobilisation stricte), adaptation du poste de travail. Orthèse du poignet. |
 | **Médical** | Antalgiques, AINS notamment en topiques locaux ( dans les 4 premières semaine). Injection de PRP |
