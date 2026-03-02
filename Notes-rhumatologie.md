@@ -6,7 +6,7 @@
 [PR](AAA-Notes-rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md)
 [PPR](AAA-Notes-rhumatologie/PPR%201d545f5988be80ebaec8d04995865623.md)
 [Rhumatisme psoriasique](AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)
-[Arthrites réactionnelles et autres rhumatismes inflammatoires post infectieux](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md)
+[Arthrites réactionnelles et autres](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md)
 [Microcristaux ](AAA-Notes-rhumatologie/Microcristaux%2014645f5988be80858fedd6533df900e2.md)
 **Osseux**
 [Osteoporose](AAA-Notes-rhumatologie/Osteoporose%2017745f5988be80deb86af4289bb8373e.md)
