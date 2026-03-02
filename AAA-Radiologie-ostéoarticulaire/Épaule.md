@@ -1,7 +1,7 @@
 # Épaule
 
 ## Anatomie
-![image](.attachments/ca8c08016f8dd5ac90b5617990b8c78346cbcc3e.png) 
+![image](.attachments/04417c554977e9ba6a198574b8daa5090c4fe5c1.png) 
 ![image](.attachments/1170156b5a57929e8f0e60dba0abc16f01bd88bc.png) 
 ![image](.attachments/6c749b7bd6f90c1ac3372b75a40f6959fae25095.png) 
 
