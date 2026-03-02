@@ -50,9 +50,9 @@ La place de l'imagerie est réservée aux formes atypiques ou résistantes au tr
 
 ### 5. Prise en Charge Thérapeutique
 
-| **Phase** | **Traitement** |
+| **** | **Traitement** |
 | --- | --- |
-| **Initiale** | Repos relatif (pas d'immobilisation stricte), adaptation du poste de travail. |
-| **Médical** | Antalgiques, AINS (bref délai), **Infiltrations de corticoïdes** (efficaces à court terme mais risque de récidive à long terme). |
-| **Rééducation** | **Gold Standard** : Protocole de Stanish (travail excentrique), Ondes de Choc (ODC). |
+| **Repos** | Repos relatif (pas d'immobilisation stricte), adaptation du poste de travail. Orthèse du poignet. |
+| **Médical** | Antalgiques, AINS notamment en topiques locaux ( dans les 4 premières semaine). Injection de PRP |
+| **Rééducation** | 1) Auto-exercices 2) Kiné avec protocole de Stanish (travail excentrique) |
 | **Chirurgie** | Rare (< 5% des cas). Désinsertion-réinsertion ou peignage du tendon après 6 à 12 mois d'échec du traitement médical. |
