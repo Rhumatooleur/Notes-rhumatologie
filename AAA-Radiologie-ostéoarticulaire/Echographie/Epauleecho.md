@@ -10,15 +10,16 @@
 
 - axial/transversal
 - Regarder glissement sinon conflit antero interne
+- Les ruptures commencent toujours par les faisceaux craniaux
 - Portion en bas musculaire, normal
 - Plurifasciculé
 
 **Région infra-épineuse** 
 
 - Fosse infra-épineuse
-- Echancrure spino-glénoïdienne
+- Echancrure spino-glénoïdienne : artère et nerf supra-scapulaire (compression par kyste artho-synovial)
 - Gléno-humérale voie postérieure
-- Infra-épineux / petit rond
+- Infra-épineux / petit rond sur trochiter
 
 **Supra-épineux** 
 
@@ -44,19 +45,18 @@
     - Les ligaments trapézoïdes et conoïdes sont juste en dessous du pédicule artério-veineux
 
 Si on ne trouve rien ⇒ aller plus loin : 
-
 - Enthesopathie insertion deltoïde sur acormion
-- Syndrome de Velpeau :
-    
-    [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Velpeau.md)
+- Syndrome de Velpeau : [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Velpeau.md)
+- Echancrure spino-glénoïdienne : artère et nerf supra-scapulaire (compression par kyste artho-synovial)
     
 
 ## Protocole pour patient avec omarthrose évoluée
 
-Rester humble chez ce type de patient : rechercher uniquement une grosse rupture transfixiante
+Rester humble chez ce type de patient =>  rechercher uniquement : 
+- une grosse rupture transfixiante
+- et sa conséquence : dégénérescence musculaire
 
 Proposer infiltration / visco  
-
 Compléter par un arthroscanner à visée pré-chirurgicale
 
 ## Protocole pour coiffe suturée
