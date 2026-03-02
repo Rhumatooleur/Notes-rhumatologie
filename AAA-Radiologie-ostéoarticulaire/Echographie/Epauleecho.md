@@ -75,7 +75,7 @@ Compléter par un arthroscanner à visée pré-chirurgicale
 
 Classification de sugaya pour chaque tendon 
 
-⇒ Epaisseur 
+⇒ Epaisseur : à mesurer juste avant l'insertion du tendon sur la grande tubérosité de l'humérus.
 
 ⇒ Continuité 
 
