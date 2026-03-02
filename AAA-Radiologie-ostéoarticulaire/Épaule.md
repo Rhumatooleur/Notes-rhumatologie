@@ -77,8 +77,8 @@ Bursite calcique sub-acromiodeltoïdienne traduisant la résorption de la calcif
 ![image.png](%C3%89paule/image%202.png)
 
 ## Compressions nerveuses à l'épaule
-  [Compression du nerf supra-scapulaire ](Nerf-suprascapulaire.md)
-  [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Velpeau.md)
+  [Compression du nerf supra-scapulaire ](Épaule/Nerf-suprascapulaire.md)
+  [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Épaule/Velpeau.md)
 
 ## Fractures de l'extrémité supérieure de l'humérus (FESH)
 ### Classification de Neer 
