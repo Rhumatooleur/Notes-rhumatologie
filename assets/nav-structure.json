@@ -388,16 +388,16 @@
         "file": "AAA-Radiologie-ostéoarticulaire/SAPHO.md"
       },
       {
-        "name": "Sacapula Alata",
-        "file": "AAA-Radiologie-ostéoarticulaire/Épaule/Sacapula-Alata.md"
-      },
-      {
         "name": "Sacro-iliaques",
         "file": "AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md"
       },
       {
         "name": "Scanner",
         "file": "AAA-Radiologie-ostéoarticulaire/Scanner.md"
+      },
+      {
+        "name": "Scapula Alata",
+        "file": "AAA-Radiologie-ostéoarticulaire/Épaule/Scapula-Alata.md"
       },
       {
         "name": "Spondyloarthrites",
