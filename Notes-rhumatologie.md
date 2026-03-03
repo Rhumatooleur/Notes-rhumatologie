@@ -15,7 +15,6 @@
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 ### Locorégional 
-[Épaule](AAA-Notes-rhumatologie/%C3%89paule%2014645f5988be8016ac96de4a1303f885.md)
 [Atteintes des poulies ](AAA-Notes-rhumatologie/Atteintes%20des%20poulies%2028545f5988be8041a2a7dbaf271ca543.md)
 ## Radiologie
 [Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
