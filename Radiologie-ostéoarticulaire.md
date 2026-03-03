@@ -1,4 +1,4 @@
-# Sites utiles e-learning :
+# Sites utiles e-learning 👨‍🎓 
 
 [**Protocoles échographie**](http://physiographie.umontreal.ca/protocoles)
 
@@ -6,20 +6,20 @@
 
 [**Radiopaedia**](https://radiopaedia.org/)
 
-# Protocoles de lecture d’imagerie en fonction de la localisation
+# Protocoles de lecture d’imagerie en fonction de la localisation 📓 
 [Rachis IRM lombosciatique](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md)
 [Rachis IRM inflammatoire](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-inflammatoire.md)
 [Epaule IRM](AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md)
 [Poignet IRM](AAA-Radiologie-ostéoarticulaire/Poignet-IRM.md)
 [Genou IRM](AAA-Radiologie-ostéoarticulaire/Genou-IRM.md)
 [Cheville IRM](AAA-Radiologie-ostéoarticulaire/Cheville-IRM.md) 
-# Types d’imagerie
+# Types d’imagerie ☢ 
 
 [Echographie](AAA-Radiologie-ostéoarticulaire/Echographie.md)
 [Scanner](AAA-Radiologie-ostéoarticulaire/Scanner.md)
 [IRM](AAA-Radiologie-ostéoarticulaire/IRM.md)
 
-# Fiches mémo
+# Fiches mémo 📔 
 ## Selon la localisation
 [Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md)
 [Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
