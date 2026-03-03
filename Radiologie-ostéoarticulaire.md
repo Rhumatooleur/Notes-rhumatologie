@@ -27,6 +27,7 @@
 [Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)
 [Coude](AAA-Radiologie-ostéoarticulaire/Coude.md)
 [Poignet](AAA-Radiologie-ostéoarticulaire/Poignet.md)
+[Mains et doigts](AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md)
 ## Selon le mécanisme pathologique
 ### Mécanique
 [Arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md)
