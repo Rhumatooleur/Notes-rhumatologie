@@ -9,7 +9,22 @@ Fosse coronoïdienne = fosse dans laquelle le processus coronoïde de l’ulna v
 Il y a aussi une fossette radiale moins prononcée
 ![image](.attachments/ef2b02ad93ae6da9c6544e919edc8cd5d9448043.png) 
 ![image](.attachments/bce46c36a38b4f8b576b41f969b0aafae8abcdbb.png) 
+Ligament collatéral latéral en 3 faisceaux : 
+* Ligament collatéral radial
+* Ligament collatéral latéral ulnaire
+* Postérieur
+
+Ligament annulaire du radius
+![image](.attachments/a76e72242d0ee33d76a7ec3c9938e8dc8d1e5c41.png) 
+Ligament collatéral ulnaire :
+* Eventail
+* Faisceaux:
+  * Antérieur
+  * Moyen +++
+  * Postérieur ++ – Arciforme (ligament de Cooper)
+    ![image](.attachments/823da51f4c38ab436f3108e2d05cf96607be1006.png) 
 ![image](.attachments/cb4e4e84413e2e56e52f746143215df32a5bc960.png) 
+![image](.attachments/4c4853f04196846cba8dce2b7f35ed78ca03bfc8.png) 
 ## Epicondylite latérale (Tennis elbow)
 ### 1. Physiopathologie & Anatomie
 
