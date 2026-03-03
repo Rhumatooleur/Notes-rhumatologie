@@ -1,5 +1,6 @@
 # Notes rhumatologie
-
+## Radiologie
+[Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
 ## Maladies
 ### Général
 **Inflammatoire**
@@ -14,10 +15,7 @@
 [Fractures de contrainte ](AAA-Notes-rhumatologie/Fractures%20de%20contrainte%201d045f5988be80948c53da402fe947f2.md)
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
-### Locorégional 
-[Atteintes des poulies ](AAA-Notes-rhumatologie/Atteintes%20des%20poulies%2028545f5988be8041a2a7dbaf271ca543.md)
-## Radiologie
-[Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
+
 ## Médicaments
 [Vaccins et RICs](AAA-Notes-rhumatologie/Vaccins-et-RICs.md)
 [csDMARDs](AAA-Notes-rhumatologie/csDMARDs%2014945f5988be80b99689d9c645bb94a2.md)
