@@ -80,6 +80,7 @@ Bursite calcique sub-acromiodeltoïdienne traduisant la résorption de la calcif
   [Compression du nerf supra-scapulaire ](Épaule/Nerf-suprascapulaire.md)
   [Syndrome canalaire de l’espace quadrilatère de Velpeau ](Épaule/Velpeau.md)
   [Scapula Alata](Épaule/Scapula-Alata.md)
+  [Syndrome de Parsonage et Turner](Syndrome-de-parsonage-et-turner.md)
 
 ## Fractures de l'extrémité supérieure de l'humérus (FESH)
 ### Classification de Neer 
