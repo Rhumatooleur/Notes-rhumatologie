@@ -204,6 +204,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Arthrose.md"
       },
       {
+        "name": "Atteintes des poulies",
+        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
+      },
+      {
         "name": "COMPRESSION DU NERF SUS-SCAPULAIRE",
         "file": "AAA-Radiologie-ostéoarticulaire/Épaule/Nerf-suprascapulaire.md"
       },
@@ -282,10 +286,6 @@
       {
         "name": "Lésions osseuses",
         "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
-      },
-      {
-        "name": "Mains Et Doigts",
-        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
       },
       {
         "name": "Maladie de Forestier",
