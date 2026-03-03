@@ -7,7 +7,7 @@
 **Anatomie** : 
 * Bande centrale :
   - La principale ++++
-  - Insersion proximale sur face médiale de la tubérosité du calca
+  - Insertion proximale sur face médiale de la tubérosité du calca
   - Se divise en **5 bandelettes digitales**
     - Chaque bandelette :
       - se fixe sur la **base de la phalange proximale**
@@ -19,8 +19,29 @@
     *  **Base du 5e métatarsien**
     *  Fascia du **muscle abducteur du 5e orteil**
 * Bande médiale (osef un peu)
-![image](Echographie/.attachments/b9e11d80ddee857a2692f75818dd1f3c255745e9.png) 
+![image](Echographie/.attachments/b9e11d80ddee857a2692f75818dd1f3c255745e9.png)
+
+
+**Clinique**
+  Douleur sous le talon au lever, à la marche, à la montée des escaliers
+  Douleur à l'étirement passif, à la pression directe
+  **Imagerie**
+  Diagnostic clinique
+  Echo peut aider si résistance au traitement
+  **Traitement**
+1. **Prise en charge des facteurs favorisants :** surcharge pondérale, marche et station debout prolongée (profession)
+2. **Repos**
+3. **AINS, glaçage**
+4. **Talonnettes** de réhaussement (5 à 12mm)
+5. **Chaussures adaptées** : semelles caoutchouc, talon pas plus de 5cm, présence d'un **cambrion** (si on arrive à plier en 2 la chaussure il n'y en a pas)
+**Kiné :** stretching gastrocnémiens, MTP de la plante, ondes de choc
+**Infiltrations** écho guidées : Corticoïdes, PRP
+![image](.attachments/d61456a8f3382d85d12535fc4f657e653ba6c265.png) 
+
+
+  
 ### Diagnostics différentiels 
+\
 **Concernant l'aponévrose :**
 * **Épine calcanéenne** asymptomatique
 * **Rupture partielle de l’aponévrose plantaire**
@@ -37,7 +58,9 @@
   -   Situé dans l’épaisseur de l’aponévrose, souvent au tiers moyen
   -   Masse palpable, non strictement enthésique
 
-  
+
+\
+\
 **Ne la concernant pas :**
 * **Thrombose des veines plantaires**
   * Non compressibilité de ces veines, à rechercher en sous malléolaire médial sous le muscle abducteur de l'hallux
@@ -60,15 +83,18 @@
   * Hyperhémie Doppler périostée
   * Douleur osseuse profonde, douleur à la compression latérale du calcanéus
 
-* **Ténosynovite du long fléchisseur de l’hallux**
-* **Atrophie du capiton graisseux talonnier**
-  *  Amincissement du coussinet adipeux
-  *  Perte de l’architecture lobulée
-  *   Aponévrose d’épaisseur normale, douleur mécanique talonnière
-* **Enthésite inflammatoire (spondyloarthrite)**
+**Tendinopathies**
+* du long fléchisseur de l’hallux
+* court fléchisseur plantaire
+* adducteur le l'hallux
+* adducteur du 5 
+
+**Enthésite inflammatoire (spondyloarthrite)**
   -   Épaississement enthésique
   -   Hypervascularisation Doppler
   -   Érosions corticales possibles au niveau du Calcaneus
   -   Contexte inflammatoire systémique
+  
+**Sciatique S1**
 ## Pied plat valgus
 [Pied plat valgus](Pied/Piedplatvalgus.md)
