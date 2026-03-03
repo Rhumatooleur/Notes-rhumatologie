@@ -24,16 +24,11 @@
         - à une PR
 - Enthésite distale (base de M5)
 
-Long extenseur du pouce (rare, chez les batteurs, PR, suite à fracture peu déplacée radius distal) 
+**Long extenseur du pouce** (rare, chez les batteurs, PR, suite à fracture peu déplacée radius distal) 
 
 **Extenseurs des doigts** (rare, PR, fracture radius distal) 
 
 **5ème compartiment** (rare) 
-
-### Fléchisseurs
-
-**Fléchisseur ulnaire du carpe**
-
 ### Syndrome du croisement ou de l’intersection
 
 Egalement appelé, de manière plus imagée, **« aïe crépitant de Tillaux ».**
@@ -43,3 +38,13 @@ Egalement appelé, de manière plus imagée, **« aïe crépitant de Tillaux ».
 ⇒ Pathologie rare typiquement associée à la répétition de mouvements du poignet (rameurs).
 ⇒ **Traitement**: AINS, repos relatif et attelle de repos. Les infiltrations de corticoïdes peuvent être utiles en seconde ligne. Enfin, la chirurgie est indiquée en cas d’échec (rare) des traitements médicaux et consiste en une
 libération de la 2e coulisse avec ténolyse jusqu’au croisement.
+
+### Carpe bossus
+Arthropathie mécanique de la jonction M2-M3-trapézoïde-hammatum
+Crée une bosse 
+Peut irriter les tendons de la loge 3 et 4 (CERC, LERC, extenseurs commun des doigts et propre de l'index)
+
+### Fléchisseurs
+
+**Fléchisseur ulnaire du carpe**
+
