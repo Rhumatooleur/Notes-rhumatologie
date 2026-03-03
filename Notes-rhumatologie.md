@@ -1,7 +1,7 @@
 # Notes rhumatologie
-## Radiologie
+## Radiologie ☢ 
 [Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
-## Maladies
+## Maladies 👨‍⚕️ 
 ### Général
 **Inflammatoire**
 [PR](AAA-Notes-rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md)
@@ -16,21 +16,21 @@
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 
-## Médicaments
+## Médicaments 💊 
 [Vaccins et RICs](AAA-Notes-rhumatologie/Vaccins-et-RICs.md)
 [csDMARDs](AAA-Notes-rhumatologie/csDMARDs%2014945f5988be80b99689d9c645bb94a2.md)
 [Biothérapies et tsDMARDs ](AAA-Notes-rhumatologie/Bioth%C3%A9rapies%20et%20tsDMARDs%2014945f5988be804f8c7acd60734c1a9a.md)
 [Corticothérapie orale](AAA-Notes-rhumatologie/Corticoth%C3%A9rapie%20orale%201bf45f5988be80f0a065ff59aea27690.md)
 [Injectables](AAA-Notes-rhumatologie/Injectables%201bf45f5988be806abe3cccf567c77d00.md)
-## Douleur
+## Douleur 👺 
 [Fibromyalgie et troubles somatiques fonctionnels ](AAA-Notes-rhumatologie/Fibromyalgie%20et%20troubles%20somatiques%20fonctionnels%2018545f5988be802fbf71d3a2dbf61d05.md)
 [Neuropathie des petites fibres ](AAA-Notes-rhumatologie/Neuropathie%20des%20petites%20fibres%201f645f5988be80259529ef2a5f3008f4.md)
 [Douleurs neuropathiques ](AAA-Notes-rhumatologie/Douleurs%20neuropathiques%2018545f5988be80b584d6fca18512b397.md)
-## Autres notes
+## Autres notes 📓 
 [Inflammation et carence martiale ](AAA-Notes-rhumatologie/Inflammation%20et%20carence%20martiale%2015445f5988be8066b9f9d4bd6c4774f6.md)
 [Bases de l’ENMG](AAA-Notes-rhumatologie/Bases%20de%20l%E2%80%99ENMG%2018545f5988be80df9559ddc19d98f547.md)
 [Infectiologie ](AAA-Notes-rhumatologie/Infectiologie%201eb45f5988be80f4b51cff25377a24bf.md)
-## Citations
+## Citations ✏️ 
 
 - « Microcible et macro-connerie » — A. Baillet, S. Carré
 - « L'échographie : je suis croyant mais pas pratiquant » — A. Baillet
