@@ -4,18 +4,6 @@
     "collapsed": false,
     "pages": [
       {
-        "name": "📋 Résumé des Changements",
-        "file": "CHANGES.md"
-      },
-      {
-        "name": "✅ Checklist de Déploiement",
-        "file": "DEPLOYMENT-CHECKLIST.md"
-      },
-      {
-        "name": "Sites utiles e-learning :",
-        "file": "Fractures-de-contrainte-imagerie.md"
-      },
-      {
         "name": "Notes rhumatologie",
         "file": "Notes-rhumatologie.md"
       },
