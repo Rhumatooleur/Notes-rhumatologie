@@ -9,7 +9,7 @@ Séquences IRM :
 - T1 fat pour les lésions structurales
 - T2 fat sat pour les lésions inflammatoires
 
-Attention il faut au moins 4-5 lésions inflammatoires et 3 lésions graisseuses du rachis pour augmenter la spécificité du diagnostic 
+Attention il faut au moins 4-5 lésions inflammatoires et 3 lésions structurales du rachis pour augmenter la spécificité du diagnostic 
 
 Attention on ne peut pas considérer des lésions si étage discal dégénératif 
 
