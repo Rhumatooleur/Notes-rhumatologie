@@ -1,5 +1,6 @@
 # Effets indésirables des biothérapies en général
 
+## Risque infectieux
 ## Risque de cancer 
 ### Carcinomes cutanés
 **Données SFR/congrès=> Risques de cancer cutané sous biothérapies :**
@@ -16,3 +17,6 @@
   * Grains de beauté > 6mm
   * Facteurs de risque externes (j'imagine exposition solaire ou autres)
   * ATCD de mélanome chez les parents/frère sœur
+### Autres cancers 
+
+
