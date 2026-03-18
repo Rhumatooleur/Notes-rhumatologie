@@ -50,3 +50,7 @@ Ostéoporose du sujet jeune (< 50 ans) :
 - 60% = Oz secondaire
 - 40% = idiopathique
 - En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
+
+**Ostéoporose et IRC :** 
+On peut donner ACTONEL 5mg par semain peut importe le DFG 
+Ou prolia 
