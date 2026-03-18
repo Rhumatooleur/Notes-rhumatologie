@@ -10,7 +10,7 @@ Il y a aussi une fossette radiale moins prononcée
 ![image](.attachments/ef2b02ad93ae6da9c6544e919edc8cd5d9448043.png) 
 ![image](.attachments/bce46c36a38b4f8b576b41f969b0aafae8abcdbb.png) 
 Ligament collatéral latéral en 3 faisceaux : 
-* Ligament collatéral radial
+* Ligament collatéral ralatéral dial
 * Ligament collatéral latéral ulnaire
 * Postérieur
 
