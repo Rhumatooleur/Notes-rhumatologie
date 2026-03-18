@@ -91,11 +91,11 @@ L'examen clinique est souvent très évocateur dès l'inspection.
     -   Déficit de force marqué en **supination** (perte de 40 à 50 %) et, dans une moindre mesure, en flexion (perte de 20 %).
  
     -   
-## 3. Imagerie
+### Imagerie
 
 L'imagerie confirme le diagnostic et précise le degré de rétraction.  **Note :** Le diagnostic est avant tout clinique. L'imagerie sert surtout à ***éliminer une rupture partielle ou préchirurgical**.
 
-### Échographie
+#Échographie
 
 **2 positions d'analyse échographique :**
 1) Avant bras en extension et supination maximale, sonde en longitudinal sur l'insertion
@@ -117,7 +117,7 @@ L'imagerie confirme le diagnostic et précise le degré de rétraction.  **Note 
 **Signes :** Absence du tendon dans sa gaine, présence d'un hématome ou d'un épanchement dans la gaine bicipitale.
     
 
-### IRM (Examen de référence)
+#IRM (Examen de référence)
 
 -   **Protocole :** Souvent réalisé en position **FABS** (_Flexed Abducted Supinated_) pour déplier le tendon et mieux voir l'insertion.
     
