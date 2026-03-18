@@ -73,3 +73,57 @@ La place de l'imagerie est réservée aux formes atypiques ou résistantes au tr
 | **Médical** | Antalgiques, AINS notamment en topiques locaux ( dans les 4 premières semaine). Injection de PRP |
 | **Rééducation** | 1) Auto-exercices 2) Kiné avec protocole de Stanish (travail excentrique) |
 | **Chirurgie** | Rare (< 5% des cas). Désinsertion-réinsertion ou peignage du tendon après 6 à 12 mois d'échec du traitement médical. |
+## Rupture du tendon distal du biceps 
+### Clinique
+
+Traumatisme à la réception d'une charge lourde bras en flexion. Douleur vive et soudaine au pli du coude, parfois accompagnée d'un "clac" audible.
+
+L'examen clinique est souvent très évocateur dès l'inspection.
+
+-   **Inspection :** * **Signe de Popeye inversé :** Ascension du corps musculaire du biceps vers le haut du bras, créant un vide au-dessus du pli du coude.
+    
+    -   Ecchymose tardive à la face antérieure de l'avant-bras.
+        
+-   **Tests :**
+    
+    -   **Hook Test (Test du crochet) :** Impossibilité pour l'examinateur de crocheter le tendon distal avec le doigt au pli du coude (sensibilité/spécificité proches de 100 %).
+        
+    -   Déficit de force marqué en **supination** (perte de 40 à 50 %) et, dans une moindre mesure, en flexion (perte de 20 %).
+ 
+    -   
+## 3. Imagerie
+
+L'imagerie confirme le diagnostic et précise le degré de rétraction.  **Note :** Le diagnostic est avant tout clinique. L'imagerie sert surtout à ***éliminer une rupture partielle ou préchirurgical**.
+
+### Échographie
+
+**2 positions d'analyse échographique :**
+1) Avant bras en extension et supination maximale, sonde en longitudinal sur l'insertion
+![image](.attachments/286ef1cb9d7a541a7e234e0f5c9187c07dcbde50.png)
+    * **Piège échographique** : risque d’aspect **faussement hypoéchogène** si la sonde n’est pas parallèle (anisotropie) =>  essayer d'obliquer dans la peau la partie distale de la sonde pour éviter l'anisotropie.
+
+3) Position du Cobra 
+    *  Permet de bien voir l'enthèse et surtout sa portion distale dorsale
+   ![image](.attachments/f059ed828cf19fe5950938f42e94991d2610e28e.png) 
+    * Flexion 90° et pronation maximale
+    * Sonde en position latérale :
+      * Se mettre d'abord au niveau du cartilage de la tête radiale en axial d'avant bras puis descendre sur le tendon pour une coupe longitudinale du tendon
+      * On peut faire des mouvements de pronosupination pour une étude dynamique
+      * ensuite l'étudier aussi en transversal
+    ![image](.attachments/c6aa6566369c608da9a638e16b5b2894a93fb192.png) 
+![image](.attachments/5202fed79167d50b2f56a0019cc5637f9d396d9b.png) 
+
+
+**Signes :** Absence du tendon dans sa gaine, présence d'un hématome ou d'un épanchement dans la gaine bicipitale.
+    
+
+### IRM (Examen de référence)
+
+-   **Protocole :** Souvent réalisé en position **FABS** (_Flexed Abducted Supinated_) pour déplier le tendon et mieux voir l'insertion.
+    
+    -   **Rupture complète :** Solution de continuité du tendon avec rétraction du moignon tendineux.
+        
+    -   **Rupture partielle :** Amincissement ou hypersignal intra-tendineux sans interruption totale.
+        
+    -   **Mesure de la rétraction :** Cruciale pour la planification chirurgicale (distance entre la tubérosité radiale et le bout du tendon).
+        
