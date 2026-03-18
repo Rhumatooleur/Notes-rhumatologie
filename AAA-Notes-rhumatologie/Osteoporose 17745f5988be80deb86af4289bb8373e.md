@@ -1,4 +1,5 @@
 # Osteoporose
+## Ostéoporose post menauposique 
 ### Evaluation para clinique 
 **Biologie** 
 CTX : 
@@ -43,6 +44,8 @@ P1NP :
 - Traitement :
     - Décharge et chirurgie
     - arrêter les anti résorbeurs ⇒ teriparatide
+
+## Autres Ostéoporose 
 
 ### Ostéoporose du sujet jeune (< 50 ans) :
 
