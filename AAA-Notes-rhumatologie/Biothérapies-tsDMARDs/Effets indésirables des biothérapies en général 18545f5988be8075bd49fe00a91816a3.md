@@ -24,5 +24,7 @@ Biothérapies moins a risque de cancer sur les données actuelles :
   * Facteurs de risque externes (j'imagine exposition solaire ou autres)
   * ATCD de mélanome chez les parents/frère sœur
 ### Autres cancers 
+### Conduite à tenir en cas de survenue de cancer sous biothérapie 
+On peut reprendre les anti TNF dès que le cancer est en rémission 
 
 
