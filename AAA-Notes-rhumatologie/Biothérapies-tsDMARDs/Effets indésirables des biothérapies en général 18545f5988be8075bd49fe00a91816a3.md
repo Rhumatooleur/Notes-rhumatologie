@@ -5,6 +5,7 @@
 ### Risque de cancer en fonction de la biothérapie 
 **Anti-TNF** => Pas d'augmentation du risque de cancer global, mais risque de cancer cutané (mélanome et CBC)
 **Abatacept** => Sur risque global de cancer 
+**Jak-i** => Sur risque global de cancer +++
 Biothérapies moins a risque de cancer sur les données actuelles : 
 - **Ritux** 
 - **Anti IL-6-R** 
