@@ -7,7 +7,7 @@
 - CBC pour toutes
 - Autres cancers cutanés :
   - pour les anti jak
-  - doute pour les anti TNF mais probablement pas
+  - Anti-TNF : Mélanome 
   
 **Selon dermato HDL** => Pas de sur risque de cancer cutané sous biothérapie dans la population générale, donc PEC : 
 * Suivi annuel par médecin traitant / patient : orientation dermato si lésion suspecte identifiée
