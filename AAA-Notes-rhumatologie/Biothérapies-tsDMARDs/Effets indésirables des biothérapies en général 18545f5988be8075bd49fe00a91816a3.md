@@ -28,7 +28,7 @@ Biothérapies moins a risque de cancer sur les données actuelles :
 ### Conduite à tenir en cas de survenue de cancer sous biothérapie 
 Toujours discussion avec oncologue et patient.
 On peut reprendre les anti TNF dès que le cancer est en rémission => molécule a privilégier pour toutes les tumeurs solides car recul +++ 
-Si lymphome : Ritux ++++ une pierre deux coups 
+Si lymphome : Ritux ++++ une pierre deux coups (mais moins tumeurs solides car paradoxalement les lymphocytes B protègent de récidive de tumeur solide)
 Pas d'anti jak ni d'abatacept 
 
 
