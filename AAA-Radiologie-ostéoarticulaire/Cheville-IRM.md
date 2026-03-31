@@ -14,15 +14,15 @@ Axial
 
 Os
 
-Maléoles 
+1. Maléoles 
 
-Dome du talus 
+2. Dome du talus 
 
-Ceintre 
+3. Ceintre 
 
-Base M5 
+4. Base M5 
 
-Naviculaire 
+5. Naviculaire 
 
 Ligaments, muscles et tendons :
 
