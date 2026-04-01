@@ -1,16 +1,14 @@
 # Rachis IRM lombosciatique
-
-Propriétaire: quentin campeol
-
-**Séquences de références :** 
+### Séquences de références :
 
 T2 Fat Sat + coro STIR + 3D T2 
+!!!!!!! Nécessité d'**injection pour les rachis opérés** : en effet une fibrose péri-radiculaire (frantôme de hernie discale opérée) prend le contraste alors que une récidive herniaire non !!!!!!
 
-**Plan de référence :** 
+### Plan de référence 
 
 Sagittal + s’ouvrir le 3D a côté pour se mettre dans le plan des disques 
 
-**Protocole :**
+### Protocole 
 
 **I) Generalités**
 1) Regarder cône médullaire rapidement en sagittal
