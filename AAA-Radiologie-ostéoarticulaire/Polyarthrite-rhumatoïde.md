@@ -1,6 +1,14 @@
 # Polyarthrite rhumatoïde
 
-Propriétaire: quentin campeol
+## Sémiologie radiologique générale 
+### Différence entre érosion et géodes
+| **Caractéristique** | **Géode Sous-Chondrale (Arthrosique)** | **Géode d'Inclusion Synoviale** | **Érosion de la Polyarthrite Rhumatoïde (PR)** |
+| --- | --- | --- | --- |
+| **Mécanisme** | Hyperpression mécanique | Passage de liquide synovial sous pression dans l'os (via un défaut cortical). | Destruction enzymatique et inflammatoire par le **Pannus synovial**. |
+| **Localisation** | Zones de **pression maximale** (sous le cartilage usé). | Partout où la synoviale est en contact avec l'os. | **Marginale** (au bord de l'articulation, dans la "zone nue" sans cartilage). |
+| **Centre de la lésion** | Dans l'os | Dans l'os | **A l'extérieur** de l'os |
+| **Limites / Bords** | **Bien limitées**, souvent avec un cerclage d'ostéosclérose (bord blanc épais). | Bien limitées, souvent rondes ou ovalaires. | Mal limitées au début, aspect **"grignoté"** ou en "coup d'ongle". |
+| **Os adjacent** | **Ostéosclérose** (os plus blanc/dense) et ostéophytes. | Souvent normal, sauf si pathologie inflammatoire associée. | **Déminéralisation peri-articulaire** (os plus sombre/gris autour). |
 
 ## Atteinte des articulations des membres
 
