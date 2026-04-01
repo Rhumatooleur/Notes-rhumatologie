@@ -20,11 +20,24 @@ Propriétaire: quentin campeol
 
 ### Remplacement médullaire diffus en IRM rachidienne  :
 
-Égalisation du signal entre les vertèbres et les disques (alors que normalement les disques sont moins intenses que la moelle osseuse) 
+Égalisation du signal entre les vertèbres et les disques (alors que normalement les disques sont moins intenses que la moelle osseuse), voire hyposignal médullaire comparé aux disques. 
+=> Surtout avec l'âge 80% graisse dans la moelle donc hyperintense normalement
 
-- Surtout avec l'âge 80% graisse dans la moelle
+**Causes de remplacement médullaire diffus :**
+- Néoplasies
+  - Myélome et lymphomes (et n'épargnent pas l'épiphyse fémorale)
+  - LLC, LMC, LAM, LAL
+- Surcharge métabolique : 
+  - Maladie de Gaucher (en glucosylcéramide = maladie génétique rare)
+  - Amylose, ostéopétrose
+- Sarcoïdose (rarement remplacement diffus)
+- Miliaire tuberculeuse
+- Hyperplasie médullaire (pas vrai remplacement médullaire) : 
+  - Rebond après certaines chimiothérapies
+  - Anémies régénératives
+  - Personnes vivant en altitude (hypoxie)
+  - ...
 
-Attention la LLC entrainé aussi un remplacement médullaire mais c’est pas forcément lymphome 
 
 ### Angiomes
 
