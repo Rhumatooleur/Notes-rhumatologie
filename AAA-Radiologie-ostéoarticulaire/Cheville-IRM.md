@@ -2,64 +2,49 @@
 
 Propriétaire: quentin campeol
 
-**Séquences de références :** 
+### Séquences de références 
 
 T2 Fat Sat ++++
 
-**Plan de référence :** 
+### Plan de référence 
 
 Axial 
 
-**Protocole entorse :**
+### Protocole entorse :
 
-Os
+1. Os
 
-1. Maléoles 
-
-2. Dome du talus 
-
-3. Ceintre 
-
-4. Base M5 
-
-5. Naviculaire 
-
-Ligaments, muscles et tendons :
-
-1. Latéral
-
-LTFAI / LTFPI
-
-LTFA / LTFP
-
-LCF (hamac sous les tendons fibulaires) 
-
-Fibulaires à suivre jusqu’au bout : 
-
+- Maléoles
+- Dome du talus 
+- Ceintre
 - Base M5
-- Base M1
-1. Médial
+- Naviculaire 
 
-Ligament deltoïde 
+2. Ligaments, muscles et tendons :
+- Latéral :
+  - LTFAI / LTFPI
+  - LTFA / LTFP
+  - LCF (hamac sous les tendons fibulaires) 
+- Fibulaires à suivre jusqu’au bout : 
+  - Base M5 
+  - Base M1
+- Médial
+  - Ligament deltoïde
+  - Tibio-spring ligament
+  - Spring ligament
+  - Tendon tibial postérieur
+- Avant-pied : Lisfranc, ligament talo-naviculaire dorsal (Chopart)
+- Sous talienne : 
+- Postérieur
+  - Tendons fléchisseurs :
+    - Tibial postérieur
+    - Fléchisseur commun des orteils
+    - Long fléchisseur de l’hallux
+      - Nœud de Henry = croisement entre FCO et LFH
+  - Tendon d'achille et aponévrose plantaire
+  - Tunnel tarsien
 
-Spring ligament
-
-Tibio-spring ligament
-
-Tendon tibial postérieur
-
-1. Postérieur
-
-Tendons fléchisseurs : 
-
-- Tibial postérieur
-- Fléchisseur commun des orteils
-- Long fléchisseur de l’hallux
-- Nœud de Henry = croisement entre FCO et LFH
-
-Tunnel tarsien
-
-1. Antérieur : 
-- Tibial antérieur
-- Long extenseur de l’hallux
-- Extenseur commun des orteils
+- Antérieur : 
+  - Tibial antérieur
+  - Long extenseur de l’hallux
+  - Extenseur commun des orteils
