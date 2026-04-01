@@ -32,10 +32,11 @@
 [Infectiologie ](AAA-Notes-rhumatologie/Infectiologie%201eb45f5988be80f4b51cff25377a24bf.md)
 ## Citations ✏️ 
 
-- « Microcible et macro-connerie » — A. Baillet, S. Carré
+- « Microcible, macro-connerie » — A. Baillet, S. Carré
 - « L'échographie : je suis croyant mais pas pratiquant » — A. Baillet
 - « C'est criminel de ne pas analyser un liquide » — M. Gilson
 - « L'angiomatose kystique, c'est une girafe : quand on en a vu une, on y pense tout le temps alors que c'est très rare » — S. Carré
 - « Les personnes de plus de 60 ans devraient être doucement chloroformées » — William Osler
 - « Pour les sacro-iliaques, se méfier des sportifs qui tapent dedans et font des pseudarthroses et des merdes » — S. Carré
-- « Si je n'y comprends rien sur l'imagerie des mains, si c'est le désordre, c'est que c'est de la goutte » — J.P. Laredo
+- « Si je n'y comprends rien sur l'imagerie des mains, si c'est le désordre, c'est que c'est de la goutte » — J.D. Laredo
+- « On ne tire pas sur une mouche avec un Bazooka » S. Carré
