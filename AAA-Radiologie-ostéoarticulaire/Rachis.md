@@ -31,6 +31,11 @@ Disque normal = concave
 - Le disque L4-L5 est le plus haut
 - Le disque L5-S1 est moins haut que le L4-L5
 
+**Moelle osseuse normale en fonction de l'âge**
+- 50 ans = 50% de graisse
+- 80 ans = 80% de graisse 
+=> Une moelle avec moins de graisse que prévu de manière diffuse = remplacement médullaire
+
 # Pathologies mécaniques
 
 [Fractures vertébrales](Rachis/Fractures-vertébrales.md)
