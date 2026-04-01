@@ -1,5 +1,17 @@
 # Pied
 
+## Os naviculaire accessoire
+Os surnuméraire du tarse situé en arrière de la tubérosité postéro-médiale de l’os naviculaire. Le tibial post s'insère dessus.
+**Syndrome de l'os naviculaire accessoire** = microtraumatismes de la synchondrose (liaison avec naviculaire par cartilage) => douleurs aiguës ou chroniques au versant médial du pied
+  
+Types d'os naviculaire accessoires : 
+- Type 1 : petit, pas de synchondrose avec l'os naviculaire
+- Type 2 : gros et synchondrose
+- Type 3 : tubérosité sur naviculaire
+
+Peut s'infiltrer si douloureux
+Chirurgie uniquement pour les type 2 
+
 ## Métatarsalgies
 [Métatarsalgies](Pied/Métatarsalgies.md)
 ## Talalgies
