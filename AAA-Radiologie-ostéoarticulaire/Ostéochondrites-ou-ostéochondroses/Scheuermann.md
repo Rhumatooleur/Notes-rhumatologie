@@ -1,7 +1,5 @@
 # Maladie de Scheuermann
 
-Propriétaire: quentin campeol
-
 **Ostéochondrose qui entraîne des déformations localisées des corps vertébraux, induisant des douleurs dorsales et une cyphose.** Le diagnostic repose sur les radiographies du rachis. Le traitement implique habituellement une réduction de la mise en charge et de l'activité intense; rarement, une correction chirurgicale du désalignement peut être nécessaire.
 
 Diagnostic sur clichés radiographiques de profil : 
