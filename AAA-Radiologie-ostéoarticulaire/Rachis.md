@@ -34,7 +34,7 @@ Disque normal = concave
 **Moelle osseuse normale en fonction de l'âge**
 - 50 ans = 50% de graisse
 - 80 ans = 80% de graisse 
-=> Une moelle avec moins de graisse que prévu de manière diffuse = remplacement médullaire
+=> Une moelle avec moins de graisse que prévu de manière diffuse (moins hyper T1 que les disques) = remplacement médullaire
 
 # Pathologies mécaniques
 
