@@ -1,7 +1,6 @@
 # Lésions osseuses
 
-Propriétaire: quentin campeol
-
+### Défects
 [Lésions osseuses kystiques](L%C3%A9sions%20osseuses/L%C3%A9sions%20osseuses%20kystiques%202b645f5988be805abc4ecc0833737445.md)
 
 ### Images condensantes
@@ -37,7 +36,6 @@ Propriétaire: quentin campeol
   - Anémies régénératives
   - Personnes vivant en altitude (hypoxie)
   - ...
-
 
 ### Angiomes
 
