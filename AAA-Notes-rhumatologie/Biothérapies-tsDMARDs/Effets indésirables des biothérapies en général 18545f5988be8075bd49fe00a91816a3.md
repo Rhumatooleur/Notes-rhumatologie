@@ -2,15 +2,14 @@
 
 ## Risque infectieux
 ## Risque de cancer 
-### Risque relatif de cancer selon le  RIC
+### Risque de cancer selon le  RIC
 
 | Type de RIC | Localisations avec excès de risque (signal récurrent) | Localisations avec diminution de risque | Localisations sans excès significatif / données incertaines |
 | :--- | :--- | :--- | :--- |
 | **Polyarthrite rhumatoïde** | Lymphomes (risque relatif jusqu'à 2,5), poumon, col utérin (HPV), cancers cutanés non-mélanome | Sein, endomètre | Côlon, prostate, ovaire |
 | **Spondyloarthrite axiale** | Excès rapporté d'hémopathies malignes (lymphome, myélome) dans certaines cohortes, surtout asiatiques ; possible signal pour rein ou thyroïde | -   | Risque global comparable à la population générale pour les cancers colorectaux et autres tumeurs solides majeures |
 | **Rhumatisme psoriasique** | Surrisque de cancers cutanés non-mélanome (Risque relatif ≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie ; signal non constant pour lymphomes | -   | Pas d'excès confirmé pour les autres tumeurs solides (sein, côlon, poumon) ; données limitées et hétérogènes |
-### Risque de cancer en fonction de la biothérapie 
-
+### Risque de cancer en fonction du traitement de fond 
 | Classe thérapeutique | Signal principal de risque oncologique | Données rassurantes | Points de vigilance / recommandations |
 | :--- | :--- | :--- | :--- |
 |**MTX** | NMSC, col utérin (HPV), rares lymphomes EBV-dépendants | Pas de surrisque global de cancer | Surveiller col utérin (HPV) et peau, surtout sous **MTX** ; 
@@ -47,13 +46,12 @@
   * Grains de beauté > 6mm
   * Facteurs de risque externes (j'imagine exposition solaire ou autres)
   * ATCD de mélanome chez les parents/frère sœur
-### Autres cancers solides 
-### Hémopathies
+
 ### Conduite à tenir en cas de survenue de cancer sous biothérapie 
 Toujours discussion avec oncologue et patient.
 On peut reprendre les anti TNF dès que le cancer est en rémission => molécule a privilégier pour toutes les tumeurs solides car recul +++ 
 Si lymphome : Ritux ++++ une pierre deux coups (mais moins tumeurs solides car paradoxalement les lymphocytes B protègent de récidive de tumeur solide)
-Pas d'anti jak ni d'abatacept 
+Pas d'anti jak ni d'abatacept (sauf si aucune alternative disponible et après discussion collégiale)
 
 
 
