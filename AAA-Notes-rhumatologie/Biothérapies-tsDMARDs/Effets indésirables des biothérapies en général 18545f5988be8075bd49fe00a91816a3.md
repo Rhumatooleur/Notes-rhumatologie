@@ -21,7 +21,7 @@
 | **Anti-IL-6R** | Aucun signal fort ; quelques cas de lymphome évoqués | Globalement rassurant ; utilisé en oncologie (syndrome de relargage cytokinique, immunotoxicités) | Utilisable même en cas d'antécédent de cancer |
 | **Rituximab** | Hémopathies malignes (SIR augmenté dans le SNDS) | Données antérieures rassurantes, souvent utilisé après un cancer | Interprétation prudente (biais d'indication probable) |
 | **Anti-IL-17/23** | Pas de signal clair, recul < 10 ans en pratique courante | Données d'extension rassurantes | Surveillance à long terme indispensable |
-| **JAKi** | **ORAL surveillance** : cancers (poumon), surtout après 18 mois d'exposition ; signal confirmé par **RABBIT** | Études observationnelles souvent rassurantes (mais suivi court) | **Éviter** si antécédent récent de cancer ; discussion pluridisciplinaire ; vigilance accrue après 12–18 mois |
+| **JAKi** | **ORAL surveillance** : cancers (poumon++) chez patients > 50 ans, surtout après 18 mois d'exposition ; signal confirmé par **RABBIT** | Études observationnelles souvent rassurantes (mais suivi court) | **Éviter** si antécédent récent de cancer ; discussion pluridisciplinaire ; vigilance accrue après 12–18 mois |
 
 ***
 
@@ -32,11 +32,6 @@
 -   **JAKi** : Inhibiteurs de JAK.
 -   **SIR** : Taux d'incidence standardisé.
 
-**Abatacept** => Sur risque global de cancer 
-**Jak-i** => Sur risque global de cancer +++
-Biothérapies moins a risque de cancer sur les données actuelles : 
-- **Ritux** 
-- **Anti IL-6-R** 
 ### Carcinomes cutanés
 **Données SFR/congrès=> Risques de cancer cutané sous biothérapies :**
 - CBC pour toutes
