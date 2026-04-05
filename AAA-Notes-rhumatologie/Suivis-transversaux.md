@@ -1,4 +1,6 @@
 
+# Suivis infectieux
+# Suivis cardiovasculaires
 # Suivis onco
 ## Dépistage organisé du cancer chez les patients atteints de rhumatisme inflammatoire chronique
 
