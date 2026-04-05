@@ -4,11 +4,11 @@
 ## Risque de cancer 
 ### Risque de cancer selon le  RIC
 
-| Type de RIC | Localisations avec excès de risque (signal récurrent) | Localisations avec diminution de risque | Localisations sans excès significatif / données incertaines |
-| :--- | :--- | :--- | :--- |
-| **Polyarthrite rhumatoïde** | Lymphomes (risque relatif jusqu'à 2,5), poumon, col utérin (HPV), cancers cutanés non-mélanome | Sein, endomètre | Côlon, prostate, ovaire |
-| **Spondyloarthrite axiale** | Excès rapporté d'hémopathies malignes (lymphome, myélome) dans certaines cohortes, surtout asiatiques ; possible signal pour rein ou thyroïde | -   | Risque global comparable à la population générale pour les cancers colorectaux et autres tumeurs solides majeures |
-| **Rhumatisme psoriasique** | Surrisque de cancers cutanés non-mélanome (Risque relatif ≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie ; signal non constant pour lymphomes | -   | Pas d'excès confirmé pour les autres tumeurs solides (sein, côlon, poumon) ; données limitées et hétérogènes |
+| Type de RIC | Localisations avec excès de risque (signal récurrent) | Localisations avec diminution de risque | 
+| :--- | :--- | :--- | 
+| **Polyarthrite rhumatoïde** | Lymphomes (risque relatif jusqu'à 2,5), poumon, col utérin (HPV), cancers cutanés non-mélanome | Sein, endomètre 
+| **Spondyloarthrite axiale** | Excès rapporté d'hémopathies malignes (lymphome, myélome) dans certaines cohortes, surtout asiatiques ; possible signal pour rein ou thyroïde | -  
+| **Rhumatisme psoriasique** | Surrisque de cancers cutanés non-mélanome (Risque relatif ≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie ; signal non constant pour lymphomes | 
 ### Risque de cancer en fonction du traitement de fond 
 | Classe thérapeutique | Signal principal de risque oncologique | Données rassurantes | Points de vigilance / recommandations |
 | :--- | :--- | :--- | :--- |
