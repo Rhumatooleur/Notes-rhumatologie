@@ -5,8 +5,13 @@
 - Ostéodensitométrie : 
 - Traitements : 
 # Suivis infectieux
-
-Vaccins : à jour (cf easily) / à proposer : zona / pneumocoque / dTP
+dTP
+Pneumocoque 
+Zona
+HPV 
+Grippe 
+Covid 
+VRS
 # Suivis cardiovasculaires
 
 - Antécédents cardiovasculaires : 
