@@ -2,8 +2,36 @@
 
 ## Risque infectieux
 ## Risque de cancer 
+### Risque relatif de cancer selon le  RIC
+
+| Type de RIC | Localisations avec excès de risque (signal récurrent) | Localisations avec diminution de risque | Localisations sans excès significatif / données incertaines |
+| :--- | :--- | :--- | :--- |
+| **Polyarthrite rhumatoïde** | Lymphomes (risque relatif jusqu'à 2,5), poumon, col utérin (HPV), cancers cutanés non-mélanome | Sein, endomètre | Côlon, prostate, ovaire |
+| **Spondyloarthrite axiale** | Excès rapporté d'hémopathies malignes (lymphome, myélome) dans certaines cohortes, surtout asiatiques ; possible signal pour rein ou thyroïde | -   | Risque global comparable à la population générale pour les cancers colorectaux et autres tumeurs solides majeures |
+| **Rhumatisme psoriasique** | Surrisque de cancers cutanés non-mélanome (Risque relatif ≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie ; signal non constant pour lymphomes | -   | Pas d'excès confirmé pour les autres tumeurs solides (sein, côlon, poumon) ; données limitées et hétérogènes |
 ### Risque de cancer en fonction de la biothérapie 
-**Anti-TNF** => Pas d'augmentation du risque de cancer global, mais risque de cancer cutané (mélanome et CBC)
+
+| Classe thérapeutique | Signal principal de risque oncologique | Données rassurantes | Points de vigilance / recommandations |
+| :--- | :--- | :--- | :--- |
+|**MTX** | NMSC, col utérin (HPV), rares lymphomes EBV-dépendants | Pas de surrisque global de cancer | Surveiller col utérin (HPV) et peau, surtout sous **MTX** ; 
+| **LEF** | plutôt neutre | Pas de surrisque global de cancer | Pas de point de vigilance |
+| **SSZ** | aucun | Pourrait être protecteur pour le colon | Pas de point de vigilance |
+| **Anti-TNF** | Cancers cutanés (NMSC et mélanome), col utérin (HPV), débats sur le lymphome | Pas de surrisque global ; pas de surrisque de récidive après cancer | Dépistage col + vaccination HPV ; suivi dermatologique ; **choix privilégié** si antécédent de cancer solide (hors mélanome) |
+| **Abatacept** | Risque global de cancer, NMSC ± mélanome | Possible surrisque de tumeurs solides surtout porté par les NMSC, et possibles biais d'indication | Surveiller la peau ; **à éviter** en cas d'antécédent oncologique si des alternatives sont disponibles |
+| **Anti-IL-6R** | Aucun signal fort ; quelques cas de lymphome évoqués | Globalement rassurant ; utilisé en oncologie (syndrome de relargage cytokinique, immunotoxicités) | Utilisable même en cas d'antécédent de cancer |
+| **Rituximab** | Hémopathies malignes (SIR augmenté dans le SNDS) | Données antérieures rassurantes, souvent utilisé après un cancer | Interprétation prudente (biais d'indication probable) |
+| **Anti-IL-17/23** | Pas de signal clair, recul < 10 ans en pratique courante | Données d'extension rassurantes | Surveillance à long terme indispensable |
+| **JAKi** | **ORAL surveillance** : cancers (poumon), surtout après 18 mois d'exposition ; signal confirmé par **RABBIT** | Études observationnelles souvent rassurantes (mais suivi court) | **Éviter** si antécédent récent de cancer ; discussion pluridisciplinaire ; vigilance accrue après 12–18 mois |
+
+***
+
+**Légende :**
+-   **MTX** : Méthotrexate ; **LEF** : Léflunomide ; **SSZ** : Sulfasalazine.
+-   **NMSC** : Cancers cutanés non mélanocytaires.
+-   **HPV** : Papillomavirus humain.
+-   **JAKi** : Inhibiteurs de JAK.
+-   **SIR** : Taux d'incidence standardisé.
+
 **Abatacept** => Sur risque global de cancer 
 **Jak-i** => Sur risque global de cancer +++
 Biothérapies moins a risque de cancer sur les données actuelles : 
