@@ -1,6 +1,17 @@
 
+# Suivis osseux
+- ATCDs fracturaires : 
+- Facteurs de risque : 
+- Ostéodensitométrie : 
+- Traitements : 
 # Suivis infectieux
+
+Vaccins : à jour (cf easily) / à proposer : zona / pneumocoque / dTP
 # Suivis cardiovasculaires
+
+- Antécédents cardiovasculaires : 
+- Cardiologue ? 
+- Score de risque cardiovasculaire (SCORE 2) : 
 # Suivis onco
 ## Dépistage organisé du cancer chez les patients atteints de rhumatisme inflammatoire chronique
 
