@@ -24,7 +24,8 @@ Biothérapies moins a risque de cancer sur les données actuelles :
   * Grains de beauté > 6mm
   * Facteurs de risque externes (j'imagine exposition solaire ou autres)
   * ATCD de mélanome chez les parents/frère sœur
-### Autres cancers 
+### Autres cancers solides 
+### Hémopathies
 ### Conduite à tenir en cas de survenue de cancer sous biothérapie 
 Toujours discussion avec oncologue et patient.
 On peut reprendre les anti TNF dès que le cancer est en rémission => molécule a privilégier pour toutes les tumeurs solides car recul +++ 
