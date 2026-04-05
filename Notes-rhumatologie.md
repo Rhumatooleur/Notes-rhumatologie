@@ -16,6 +16,8 @@
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 
+## Suivis transversaux RICs💊 
+[Suivis transversaux ](AAA-Notes-rhumatologie/Suivis-transversaux.md)
 ## Médicaments 💊 
 [Vaccins et RICs](AAA-Notes-rhumatologie/Vaccins-et-RICs.md)
 [csDMARDs](AAA-Notes-rhumatologie/csDMARDs%2014945f5988be80b99689d9c645bb94a2.md)
