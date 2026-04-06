@@ -21,14 +21,18 @@
 
 # Fiches mémo 📔 
 ## Selon la localisation
-[Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md)
-[Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
+
+### Membre supérieur
 [Épaule](AAA-Radiologie-ostéoarticulaire/Épaule.md)
-[Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)
-[Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md)
 [Coude](AAA-Radiologie-ostéoarticulaire/Coude.md)
 [Poignet](AAA-Radiologie-ostéoarticulaire/Poignet.md)
 [Mains et doigts](AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md)
+### Axial 
+[Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md)
+[Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)
+### Membre inférieur
+[Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md)
+[Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
 ## Selon le mécanisme pathologique
 ### Mécanique
 [Arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md)
