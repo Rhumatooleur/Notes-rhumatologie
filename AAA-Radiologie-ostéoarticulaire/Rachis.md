@@ -124,7 +124,7 @@ dimensions du canal :**
 
 ![1000021129.jpg](Rachis/1000021129.jpg)
 
-**Causes de CLE :**
+**Causes de CLR :**
 
 - Articulaires post
 - Ligaments jaunes
@@ -136,9 +136,12 @@ dimensions du canal :**
 ### Lyse isthmique
 
 Se voit sur la coupe pédiculo-lamaire dans laquelle normalement on voit l’intégralité du cadre osseux entourant le canal. A ne pas confondre avec l’articulation zygapophysaire.
-
+![9: Imagerie du rachis | Medicine Key](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A5WqGejYWuJzylG6ILjPl109nFyWDXqCxBrNoCt4vA&s)
 ![image.png](Rachis/image%2012.png)
-
+### Spondylolisthésis
+**2 causes les + fréquentes de spondylolisthésis :**
+* Lyse isthmique = hyperlordose et microtraumatismes répétés, souvent asymptomatique, souvent chez le sujet jeune
+* Dégénératif = faillite « dégénérative » des moyens d'union intervertébraux (disques, articulations zygapophysaires et structures ligamentaires) => chez le sujet âgé !!
 ### Kystes de Tarlov
 
 Kystes entre la pie mère et l’arachnoïde au niveau des racines nerveuses surtout sacrées 
