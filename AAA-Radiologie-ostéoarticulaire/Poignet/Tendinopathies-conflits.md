@@ -43,7 +43,7 @@ libération de la 2e coulisse avec ténolyse jusqu’au croisement.
 Arthropathie mécanique de la jonction M2-M3-trapézoïde-hammatum
 Crée une bosse 
 Peut irriter les tendons de la loge 3 et 4 (CERC, LERC, extenseurs commun des doigts et propre de l'index)
-
+![Carpe-Bossu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdEijG24kKXWSLTTeYB5LwP2zSr_dmOgyHsLY0unnmKw&s)
 ### Fléchisseurs
 
 **Fléchisseur ulnaire du carpe**
