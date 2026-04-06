@@ -63,6 +63,9 @@ Parasyndesmophytes = ossifications epaisses, asymétriques et plus à distance d
 
 ## Imagerie des sacro-iliaques dans les SPA
 
+**Anatomie normale sacro-iliaques**
+![image](.attachments/e7dd465c19ff9ba5b9f592df9ffe4d8e11b21253.png) 
+**Diagnostic à l'imagerie**
 Atteinte sous chondrale fondamentale = œdème osseux à bords flous 
 
 Atteinte articulaire qui prédomine sur le versant iliaque  :
@@ -73,7 +76,7 @@ Atteinte articulaire qui prédomine sur le versant iliaque  :
 4. Condensation des berges et formation de ponts osseux 
 5. Ankylose
 
-Diagnostics différentiels : 
+**Diagnostics différentiels :** 
 
 - Arthrose
 - Ostéose iliaque condensante :
