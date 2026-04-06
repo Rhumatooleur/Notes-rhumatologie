@@ -6,11 +6,15 @@ Si rupture, il faudra rechercher :
   * Stade 1 : moignon tendineux proche de l’insertion osseuse (pas de rétraction)
   * Stade 2 : moignon tendineux rétracté au niveau de la tête humérale
   * Stade 3 : moignon tendineux rétracté à la glène.
-* Dégénérescence graisseuse et atrophie musculaire associée => regarder le ratio d'occupation de la fosse supra épineuse par le muscle supra-épineux : 
+* Dégénérescence graisseuse et atrophie musculaire associée 
+=> regarder le ratio d'occupation de la fosse supra épineuse par le muscle supra-épineux : 
   * Stade 1 : normal / atrophie minime : ratio d’occupation entre 0,6 et 1
   * Stade 2 : atrophie modérée : ratio d’occupation entre 0,4 et 0,6
   * Stade 3 : atrophie sévère : ratio d’occupation inférieur à 0,4.
-* Importante décompensation arthrosique / enraidissement de l'épaule? 
+* Réduction de l'espace sous-acromial < 7 mm
+* Importante décompensation arthrosique / enraidissement de l'épaule?
+
+Pourquoi ? dégénérescence musculaire, rétraction tendineuse, réduction espace sous acromial sont des contre indications à une réparation de la coiffe. 
  
 ## Protocole jeune / tout venant
 
