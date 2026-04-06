@@ -41,4 +41,5 @@
 - « Les personnes de plus de 60 ans devraient être doucement chloroformées » — William Osler
 - « Pour les sacro-iliaques, se méfier des sportifs qui tapent dedans et font des pseudarthroses et des merdes » — S. Carré
 - « Si je n'y comprends rien sur l'imagerie des mains, si c'est le désordre, c'est que c'est de la goutte » — J.D. Laredo
-- « On ne tire pas sur une mouche avec un Bazooka » S. Carré
+- « On ne tire pas sur une mouche avec un Bazooka » — S. Carré
+- « Une épine calcanéenne c'est un fossile de dinosaure » — P. Beaudoin
