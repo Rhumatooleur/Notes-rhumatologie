@@ -6,9 +6,9 @@
 
 | Type de RIC | Localisations avec excès de risque (signal récurrent) | Localisations avec diminution de risque | 
 | :--- | :--- | :--- | 
-| **PR** | Lymphomes (RR jusqu'à 2,5), poumon, col utérin (HPV), cancers cutanés non-mélanome | Sein, endomètre 
-| **SPA** | Excès rapporté d'hémopathies malignes (lymphome, myélome) dans certaines cohortes, surtout asiatiques ; possible signal pour rein ou thyroïde | -  
-| **Rhum PSO** | Surrisque de cancers cutanés non-mélanome (Risque relatif ≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie ; signal non constant pour lymphomes | 
+| **PR** | **Surrisque global = 20%** <br> Lymphomes (RR jusqu'à 2,5) <br> Poumon et vessie (expliqué partiellement par tabac)<br> Col utérin (HPV) <br> Cancers cutanés | Sein <br> Endomètre <br> Pancréas
+| **SPA** | **Pas de surrisque global** <br> Sur risque de lymphome, myélome et cancer du sein dans certaines cohortes âgées, surtout asiatiques (Taiwan) <br> Possible signal pour rein ou thyroïde | -  
+| **PsA** | Surrisque de cancers cutanés non-mélanome (RR≈ 2–2,5), attribué en partie au psoriasis et à la photothérapie <br> Signal non constant pour lymphomes | 
 ### Risque de cancer en fonction du traitement de fond 
 | Classe thérapeutique | Signal principal de risque oncologique | Données rassurantes | Points de vigilance / recommandations |
 | :--- | :--- | :--- | :--- |
