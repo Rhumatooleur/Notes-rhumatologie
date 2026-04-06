@@ -23,6 +23,8 @@
 [csDMARDs](AAA-Notes-rhumatologie/csDMARDs%2014945f5988be80b99689d9c645bb94a2.md)
 [Biothérapies et tsDMARDs ](AAA-Notes-rhumatologie/Bioth%C3%A9rapies%20et%20tsDMARDs%2014945f5988be804f8c7acd60734c1a9a.md)
 [Corticothérapie orale](AAA-Notes-rhumatologie/Corticoth%C3%A9rapie%20orale%201bf45f5988be80f0a065ff59aea27690.md)
+## Gestes et médicaments injectables 🤺 
+
 [Injectables](AAA-Notes-rhumatologie/Injectables%201bf45f5988be806abe3cccf567c77d00.md)
 ## Douleur 👺 
 [Fibromyalgie et troubles somatiques fonctionnels ](AAA-Notes-rhumatologie/Fibromyalgie%20et%20troubles%20somatiques%20fonctionnels%2018545f5988be802fbf71d3a2dbf61d05.md)
