@@ -53,6 +53,19 @@ Conflit postéro-supérieur :
 - géode d’inclusion synoviale doit faire rechercher une rupture de coiffe
 - un clivage intra-tendineux doit faire rechercher une rupture profonde à l’enthèse
 
+**Indications opératoires d'une rupture de coiffe :**
+* Indications formelles :
+  * Rupture traumatique du sujet jeune
+  * Douleur résistante au traitement médical
+* Contre-indications :
+  * Petite rupture partielle du sujet "âgé"
+  * Ruptures irréparables :
+    * Hauteur sous acromiale < 7mm
+    * Signe de la tangente => le supra-épineux qui ne dépasse pas la ligne entre l'acromion et la coracoïde sur coupe sagittale en Y
+    * Importante rétraction tendineuse
+    * Epaule pseudo paralytique
+    
+
 ## Calcifications de la coiffe des rotateurs
 
 **Classification des calcifications apatitiques**
