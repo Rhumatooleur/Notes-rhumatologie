@@ -25,6 +25,7 @@
 [Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
 [Épaule](AAA-Radiologie-ostéoarticulaire/Épaule.md)
 [Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)
+[Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md)
 [Coude](AAA-Radiologie-ostéoarticulaire/Coude.md)
 [Poignet](AAA-Radiologie-ostéoarticulaire/Poignet.md)
 [Mains et doigts](AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md)
