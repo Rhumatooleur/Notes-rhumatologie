@@ -28,18 +28,14 @@
 **Conflits :** 
 
 Conflit sous acromial = antéro-supérieur : 
-
 - Entre le supra-épineux et l’acromion, ainsi que le ligament acromio-coracoïdien :
     - Possiblement lié à un enthésophyte de l’acromion visible sur le profil de LAMY
-        
         ![image.png](%C3%89paule/image.png)
-        
-- Réduction de l’espace sous acromial en radio = inférieur à 9 mm sur :
-    - Radio de face en rotation externe ⇒  + sensible pour montrer la réduction de cet espace
-    - Profil de LAMY
+- Réduction de l’espace sous acromial en radio sur :
+    - Profil de LAMY => inférieur à 9 mm 
+    - Radio de face en rotation externe 
 
 Conflit antéro-interne : 
-
 - Entre la coracoïde et supra-épineux ou long biceps ou subscapulaire
 
 Conflit postéro-supérieur : 
