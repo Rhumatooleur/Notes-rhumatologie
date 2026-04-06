@@ -2,7 +2,9 @@
 
 ## Contre indications :
 ![image](.attachments/9dad3870cae50672d32f9dbcfca331546a87fba2.png) 
-
+Localisations contre-indiquées : 
+* Tendon d'Achille car il n'a pas de gaine tendineuse
+* Syndrome du 2eme rayon secondaire à Hallux valgus
 
 ## Produits :
 
