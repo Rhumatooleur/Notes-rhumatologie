@@ -22,7 +22,7 @@
 * ### a) Traitements à privilégier pour le risque de cancer
 | Classe | Explication théorique physiopath | Signal principal de risque oncologique | Données rassurantes | Points de vigilance / recommandations |
 | :--- | :--- | :--- | :--- | :--- |
-| **Anti-TNF** | Le TNF-α a des effets pro et anti-tumoraux ; son blocage peut impacter la réponse immunitaire anti-tumorale <br> Pour HPV : Altération clairance HPV16 et 18 | Cancers cutanés (NMSC et mélanome) <br> Col utérin (HPV) <br> Débats sur le lymphome | Pas de surrisque global <br>   <br> Pas de surrisque de récidive après cancer  <br> | Dépistage col + vaccination HPV ; suivi dermatologique   <br>   <br>  **Choix privilégié** si antécédent de **cancer solide** (hors mélanome) |
+| **Anti-TNF** | Le TNF-α a des effets pro et anti-tumoraux ; son blocage peut impacter la réponse immunitaire anti-tumorale <br> *Pour HPV :* Altération clairance HPV16 et 18 | Cancers cutanés (NMSC et mélanome) <br> Col utérin (HPV) <br> Débats sur le lymphome | Pas de surrisque global <br>   <br> Pas de surrisque de récidive après cancer  <br> | Dépistage col + vaccination HPV ; suivi dermatologique   <br>   <br>  **Choix privilégié** si antécédent de **cancer solide** (hors mélanome) |
 | **Rituximab** | Traitement des hémopathies B <br> <br> Les lymphocytes B participent à l'immunité antitumorale des tumeurs solides ; leur déplétion pourrait donc altérer cette surveillance. | Hémopathies malignes (SIR augmenté dans le SNDS) mais interprétation prudente (biais d'indication probable) | Historiquement souvent utilisé après un cancer => pas de signal négatif de pharmacovigilance | Utilisable même en cas d'antécédent de cancer  <br> <br> **A préférer** si ATCD de **lymphome**|
 
 ***
