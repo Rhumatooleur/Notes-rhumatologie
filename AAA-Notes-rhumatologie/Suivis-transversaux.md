@@ -37,6 +37,7 @@ De plus il y a des difficultés en France pour avoir accès au dermatologue.
 
 Donc il est prioritaire d'identifier les patients à haut risque de cancer cutané 
 On peut s'aider de : 
+- **Traitement de fond (MTX, anti-TNF, Abatacept)**
 - **Score de risque CAP (cancer history, âge, phototype)** :
   - Antécédent de cancer (2 points)
   - Âge (5 points si > 65 ans ; 3 points si > 50 ans)
@@ -44,7 +45,6 @@ On peut s'aider de :
 
   => **Haut risque à partir de 4 points**
 
-**Rappel phototypes :**
+*Rappel phototypes :*
 Phototype I = peau très claire, tâches de rousseur, cheveux roux ou blonds, aucun bronzage et coups de soleils systématiques
 Phototype III = peau claire, cheveux chatain clair, bronze très peu et coups de soleil très fréquents 
-- **Traitement de fond (MTX, anti-TNF, Abatacept)**
