@@ -1,4 +1,4 @@
-# Effets indésirables des biothérapies en général
+# Effets indésirables des biothérapies en générale
 
 ## Risque infectieux
 ## Risque de cancer 
