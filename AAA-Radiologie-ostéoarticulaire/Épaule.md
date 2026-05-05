@@ -25,7 +25,7 @@
 
 ## Tendinopathie de la coiffe
 
-**Conflits :** 
+### Conflits :
 
 Conflit sous acromial = antéro-supérieur : 
 - Entre le supra-épineux et l’acromion, ainsi que le ligament acromio-coracoïdien :
@@ -41,13 +41,35 @@ Conflit antéro-interne :
 Conflit postéro-supérieur : 
 
 - Contact itératif entre la face inférieure du supraépineux à son insertion trochitérienne et le bord postérosupérieur de la glène, se produisant lors de l’armé, au cours de la pratique de certains sports de lancer
-\
+
+### Tendinopathies et Ruptures tendineuses 
+**Signes de tendinopathie de la coiffe (échographie) :**
+1) Tendinopathie hyperthrophique 
+* Epaississement hypoéchogène et perte de la structure fibrillaire
+* Activité Doppler pathologique
+2) Enthésopathie calcifiante chronique
+* Fines calcifications linéaires à l'enthèse dans l'axe des fibres
+* Remaniements hypoéchogènes de l'enthèse sans perte d'aspect fibrillaire, parfois doppler
+
+**Signes de rupture tendineuse (échographie) :** 
+1) Signes directs
+* Non visualisation d'un tendon 
+* Défect tendineux anéchogène intéressant toute la hauteur du tendon 
+* Perte de l'aspect fibrillaire normal, remplacé par une zone cicatricielle hypoéchogène, parfois hyperéchogène ou de la graisse
+* Méplat superficiel
+* Présence de bulles hyperéchogènes mobiles à la sonopalpation
+3) Signes indirects
+* Double épanchement (BSAD + gaine long biceps ; mais mauvais signe selon stéphane)
+* Trop belle visualisation du fibrocartilage = rupture profonde 
+
 **Classification des ruptures tendineuses :** 
-- Partielles :
+- Non transfixiantes :
     - Profondes
     - Superficielles
     - Intratendineuses = clivages interstitiels
-- Transfixiantes
+- Transfixiantes :
+  - Complètes
+  - Incomplètes
 
 **Il existe des associations à rechercher entre :** 
 - géode d’inclusion synoviale doit faire rechercher une rupture de coiffe
