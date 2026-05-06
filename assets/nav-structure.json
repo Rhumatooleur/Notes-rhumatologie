@@ -176,6 +176,10 @@
     "collapsed": true,
     "pages": [
       {
+        "name": "Anatomie",
+        "file": "AAA-Radiologie-ostéoarticulaire/Genou.md"
+      },
+      {
         "name": "Anomalies de forme des vertèbres",
         "file": "AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md"
       },
