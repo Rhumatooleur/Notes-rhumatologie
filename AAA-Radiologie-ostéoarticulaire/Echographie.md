@@ -7,6 +7,7 @@
 [Protocole tendinopathie d’achille](Echographie/TAecho.md)
 [Protocole radio + échographie devant des talalgies ](Echographie/Talalgiesecho.md)
 [Protocole échographie épicondylite latérale](Echographie/Epicondylitelateraleecho.md)
+[Protocole échographie Patte d'oie](Echographie/PattedOie.md)
 
 ## Autres
 
