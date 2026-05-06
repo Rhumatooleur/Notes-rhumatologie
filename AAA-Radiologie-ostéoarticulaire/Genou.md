@@ -26,12 +26,13 @@
 
 -   **Tendon quadricipital :** Au-dessus de la patella.
 -   **Tendon patellaire :** Entre la pointe de la patella et la tubérosité tibiale antérieure (TTA).
-### Muscles médiaux (Stabilité et flexion)
-* **Patte d'oie :**
+### Muscles médiaux 
+* **Patte d'oie = insersion sur la face antéromédiale du tibia**
   * Sartorius (loge antérieure de jambe qui croise depuis l'EIAS)
   * Gracile (le + médial des ischio-jambiers / muscle frêle et fin comparé aux autres)
   * Semi tendineux (ischio-jambiers)
-* **Semi-membraneux :** Stabilisateur du PAPI
+    ![Tendinite de la patte d'oie, diagnostic du genou douloureux](https://www.irbms.com/wp-content/uploads/2018/11/tendons-genou-patte-oie.jpg)
+* **Semi-membraneux = insertion principalement sur le condyle médial du fémur** Stabilisateur du PAPI
 
 ### Muscles latéraux et postérieurs
 
