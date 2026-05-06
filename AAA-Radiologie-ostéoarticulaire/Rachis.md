@@ -143,6 +143,8 @@ Se voit sur la coupe pédiculo-lamaire dans laquelle normalement on voit l’int
   * Sujet jeune
   * Souvent asymptomatique
   * Peu entrainer des lombalgies / radiculalgies accentuées à la position debout / hyperextension vers 20-25 ans (longtemps après la fracture).
+  * Bilan radiographique avec +/- clichés dynamiques pour rechercher une instabilité dynamique
+  * 4 stades selon la distance entre coin postéro-inf de sus jacente et plateau supérieur de sous jacente : 0-25%, 25-50%, 50-75% et 75-100%. 
 * Dégénératif = faillite « dégénérative » des moyens d'union intervertébraux (disques, articulations zygapophysaires et structures ligamentaires) => chez le sujet âgé !!
 
 **Autres causes :**
