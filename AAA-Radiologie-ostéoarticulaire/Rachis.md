@@ -1,8 +1,6 @@
 # Rachis
 
-Propriétaire: quentin campeol
-
-# Anatomie
+## Anatomie
 
 ### Rachis lombaire :
 
@@ -36,7 +34,7 @@ Disque normal = concave
 - 80 ans = 80% de graisse 
 => Une moelle avec moins de graisse que prévu de manière diffuse (moins hyper T1 que les disques) = remplacement médullaire
 
-# Pathologies mécaniques
+## Pathologies mécaniques
 
 [Fractures vertébrales](Rachis/Fractures-vertébrales.md)
 
@@ -134,14 +132,24 @@ dimensions du canal :**
     - Généralement secondaire a corticothérapie.
 
 ### Lyse isthmique
+Fracture de fatigue sur microtraumatismes / hyperlordose lors de l'apprentissage de la marche. 
 
 Se voit sur la coupe pédiculo-lamaire dans laquelle normalement on voit l’intégralité du cadre osseux entourant le canal. A ne pas confondre avec l’articulation zygapophysaire.
 ![9: Imagerie du rachis | Medicine Key](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A5WqGejYWuJzylG6ILjPl109nFyWDXqCxBrNoCt4vA&s)
 ![image.png](Rachis/image%2012.png)
 ### Spondylolisthésis
 **2 causes les + fréquentes de spondylolisthésis :**
-* Lyse isthmique = hyperlordose et microtraumatismes répétés, souvent asymptomatique, souvent chez le sujet jeune
+* Lyse isthmique :
+  * Sujet jeune
+  * Souvent asymptomatique
+  * Peu entrainer des lombalgies / radiculalgies accentuées à la position debout / hyperextension vers 20-25 ans (longtemps après la fracture).
 * Dégénératif = faillite « dégénérative » des moyens d'union intervertébraux (disques, articulations zygapophysaires et structures ligamentaires) => chez le sujet âgé !!
+
+**Autres causes :**
+  * Dysplasie
+  * Post traumatique
+  * Pathologique
+  * Post-opératoire
 ### Kystes de Tarlov
 
 Kystes entre la pie mère et l’arachnoïde au niveau des racines nerveuses surtout sacrées 
@@ -156,7 +164,7 @@ Signe important = douleur sacrée à la station assise
 
 ![IMG_0778.jpeg](Rachis/IMG_0778.jpeg)
 
-# Pathologies infectieuses
+##Pathologies infectieuses
 
 **Spondylodiscite infectieuse :**
 
