@@ -62,6 +62,8 @@ Conflit postéro-supérieur :
 * Double épanchement (BSAD + gaine long biceps ; mais mauvais signe selon stéphane)
 * Trop belle visualisation du fibrocartilage = rupture profonde 
 
+**Signe de rupture tendineuse (radio) :** réduction espace sous acromial sur le LAMY < 9 voire 7mm => rupture ***massive*** de coiffe (SE+ IE + SS)
+
 **Classification des ruptures tendineuses :** 
 - Non transfixiantes :
     - Profondes
