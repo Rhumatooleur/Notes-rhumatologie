@@ -64,3 +64,4 @@ Pareil mais on peut ajouter anti IL-12/23 +/- peut être anti IL-23
 ![image.png](TTTSPA/image%205.png)
 
 ![image.png](TTTSPA/image%205.png)
+- **étude STAR** Résultats en 2026 pour évaluer l'efficacité des anti il-23 dans le rhum pso avec atteinte axiale.
