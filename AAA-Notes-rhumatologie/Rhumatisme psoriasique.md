@@ -8,6 +8,6 @@ Moyen mnémotechnique pour les anomalies des dactylites du rhum pso :
 
 Traitements :
 
-- Axial = biothérapies
-- Périph = cs dmards puis biothérapies si inefficace
+- Axial = anti il 17 (études en cours pour il-23)
+- Périph = cs dmards puis IL-17, 23 +++ ou TNF
 - anti il 23 marche le mieux, 12/23, et aussi  il-17 et anti TNF
