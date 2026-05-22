@@ -12,6 +12,7 @@ Hydroxychloroquine pour tout le monde :
   * Retinopathie
   * "Jambes de plaquenil" = purpura
   * Cardiopathie => ECG Si lipothymies 
+
 **Suivi**
 1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
 Recherche de protéinurie
