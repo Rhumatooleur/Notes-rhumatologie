@@ -13,10 +13,10 @@ Hydroxychloroquine pour tout le monde :
   * "Jambes de plaquenil" = purpura
   * Cardiopathie => ECG Si lipothymies
 
-MTX 
-MFM
-Belimumab 
-Anifrolumab
+  MTX
+  MFM
+  Belimumab
+  Anifrolumab
 
 3. Mesures associées
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
