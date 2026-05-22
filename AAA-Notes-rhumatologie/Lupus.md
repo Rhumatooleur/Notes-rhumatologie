@@ -1,6 +1,7 @@
 # Traitement
 **Traitement de crise :**
 PrednisoneAINS (PAS ibuprofen car risque de méningite aseptique)
+
 **Traitement de fond**
 Hydroxychloroquine pour tout le monde : 
 * 5-6,5mg/kg
@@ -15,6 +16,7 @@ MTX
 MFM
 Belimumab
 Anifrolumab
+
 **Mesures associées**
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
 * Photo protection (comme en population générale)
