@@ -14,9 +14,12 @@ Hydroxychloroquine pour tout le monde :
   * Cardiopathie => ECG Si lipothymies 
 
 **Suivi**
+
 1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
 Recherche de protéinurie
+
 **Grossesse**
+
 Pas contre indiqué
 Mais maladie en rémission depuis 6 mois (1 an si maladie rénale)
 Stop MTX 
