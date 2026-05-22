@@ -34,10 +34,9 @@ CTC < 7.5mg/j
 PGA < 1 
 = LLDAS 
 # Suivi
-
-* 1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
-* Recherche de protéinurie
-* Observance => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
+1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
+Recherche de protéinurie
+Observance => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
 
 # Grossesse
 
