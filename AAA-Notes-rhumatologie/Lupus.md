@@ -11,12 +11,29 @@ Hydroxychloroquine pour tout le monde :
   * Allergie cutanée rare => cs allergo
   * Retinopathie
   * "Jambes de plaquenil" = purpura
-  * Cardiopathie => ECG Si lipothymies 
+  * Cardiopathie => ECG Si lipothymies
+MTX 
+MFM
+Belimumab 
+Anifrolumab
 
+3. Mesures associées
+* Stop tabac (moins de poussées et meilleure efficacité du tttt)
+* Photo protection (comme en population générale)
+* Exercice physique
+* Prévention infectieuse (pneumocoque +/- zona selon ttts)
+* Aspirine en prévention primaire si triple positif des ac SAPL
+
+**Objectif**
+SLEDAI < 5
+CTC < 7.5mg/j
+PGA < 1 
+= LLDAS 
 **Suivi**
 
-1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
-Recherche de protéinurie
+* 1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
+* Recherche de protéinurie
+* Observance => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
 
 **Grossesse**
 
