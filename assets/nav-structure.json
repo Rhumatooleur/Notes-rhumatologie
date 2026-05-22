@@ -106,10 +106,6 @@
         "file": "AAA-Notes-rhumatologie/csDMARDs/Leflunomide 2b545f5988be80618a9efa5a91f8043f.md"
       },
       {
-        "name": "Lupus",
-        "file": "AAA-Notes-rhumatologie/Lupus.md"
-      },
-      {
         "name": "Maladie de Paget",
         "file": "AAA-Notes-rhumatologie/Maladie de Paget 20a45f5988be80558275cf095100bef1.md"
       },
@@ -156,6 +152,10 @@
       {
         "name": "Sulfasalazine",
         "file": "AAA-Notes-rhumatologie/csDMARDs/Sulfasalazine 2b545f5988be806b8516d68682dfbf33.md"
+      },
+      {
+        "name": "Traitement",
+        "file": "AAA-Notes-rhumatologie/Lupus.md"
       },
       {
         "name": "Traitement des SPA en fonction des manifestations extra articulaires",
