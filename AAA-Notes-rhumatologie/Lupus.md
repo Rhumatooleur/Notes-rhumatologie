@@ -19,7 +19,7 @@ MFM
 Inhibiteurs des calcineurines (ciclosporine et tacrolimus)
 Belimumab
 Anifrolumab
-
+![image](.attachments/02c8ca577e1f8f1deeea1cffc73b7c7a52fdae98.jpg) 
 **Mesures associées**
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
 * Photo protection (comme en population générale)
