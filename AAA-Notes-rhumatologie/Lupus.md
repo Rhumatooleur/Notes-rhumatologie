@@ -41,6 +41,7 @@ PGA (physician general assessment) < 1
 * Si positif : confirmer par un second prélèvement puis PBR diagnostique
 
 **1 examen ophtalmologique de base** puis un tous les 5 ans après 5 ans de ttt
+
 **Observance :**
   => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
 
