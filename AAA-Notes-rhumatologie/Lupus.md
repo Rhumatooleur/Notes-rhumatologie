@@ -19,7 +19,7 @@ MFM
 Inhibiteurs des calcineurines (ciclosporine et tacrolimus)
 Belimumab
 Anifrolumab
-![image](.attachments/02c8ca577e1f8f1deeea1cffc73b7c7a52fdae98.jpg) 
+ 
 **Mesures associées**
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
 * Photo protection (comme en population générale)
@@ -29,16 +29,19 @@ Anifrolumab
 
 ![image](.attachments/acf6025094811dfeb85a911ee120208fd0868f5b.jpg) 
 ![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
-
+![image](.attachments/02c8ca577e1f8f1deeea1cffc73b7c7a52fdae98.jpg)
 # Objectif
 SLEDAI < 5
 CTC < 7.5mg/j
 PGA (physician general assessment) < 1 
 = LLDAS 
 # Suivi
-1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
-Recherche de protéinurie
-Observance => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
+**Recherche de protéinurie :**
+* BU ou RAC à chaque poussée et tous les 3-6 mois en systématique
+* Si positif : confirmer par un second prélèvement puis PBR diagnostique
+**1 examen ophtalmologique de base** puis un tous les 5 ans après 5 ans de ttt
+**Observance :**
+  => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
 
 # Grossesse
 
