@@ -33,7 +33,7 @@ Anifrolumab
 # Objectif
 SLEDAI < 5
 CTC < 7.5mg/j
-PGA < 1 
+PGA (physician general assessment) < 1 
 = LLDAS 
 # Suivi
 1 examen ophtalmologique de base puis un tous les 5 ans après 5 ans de ttt
