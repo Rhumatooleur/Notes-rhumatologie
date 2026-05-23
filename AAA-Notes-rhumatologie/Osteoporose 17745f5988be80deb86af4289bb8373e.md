@@ -35,15 +35,18 @@ P1NP :
 - Il faut refaire le bilan d'Oz
 
 ### Fractures atypiques :
-
-- Sous TTT par biphosphonates ou denosumab depuis au moins 3 ans (incidence max a 7 ans)
-- Incidence = 50 / 100 000
-- Risque revient a zéro après 15 mois de fenêtre thérapeutique
-- Prodromes pour les fractures atypiques fémorales (les + fréquentes) :
+Sous TTT par biphosphonates ou denosumab depuis au moins 3 ans (incidence max a 7 ans)
+**Physiopath** 
+os ne se renouvelle plus sous traitement anti resorbeur 
+**Epidemio**
+Incidence = 50 / 100 000
+Risque revient a zéro après 15 mois de fenêtre thérapeutique
+**Clinique**
+Prodromes pour les fractures atypiques fémorales (les + fréquentes) :
     - douleurs aine ou hanche ⇒ doivent faire réaliser rx de dépistage chez patient sous tt anti oz depuis au moins 3 ans
-- Traitement :
-    - Décharge et chirurgie
-    - arrêter les anti résorbeurs ⇒ teriparatide
+**Traitement :**
+Décharge et chirurgie
+Arrêter les anti résorbeurs ⇒ teriparatide
 
 ## Autres Ostéoporose 
 
