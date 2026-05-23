@@ -1,6 +1,7 @@
 # Traitement
 **Traitement de crise :**
-PrednisoneAINS (PAS ibuprofen car risque de méningite aseptique)
+Prednisone
+AINS (PAS ibuprofen car risque de méningite aseptique)
 
 **Traitement de fond**
 Hydroxychloroquine pour tout le monde : 
@@ -12,12 +13,9 @@ Hydroxychloroquine pour tout le monde :
   * Retinopathie
   * "Jambes de plaquenil" = purpura
   * Cardiopathie => ECG Si lipothymies
-
-
-
-
 MTX
 MFM
+Inhibiteurs des calcineurines (ciclosporine et tacrolimus)
 Belimumab
 Anifrolumab
 
@@ -27,6 +25,7 @@ Anifrolumab
 * Exercice physique
 * Prévention infectieuse (pneumocoque +/- zona selon ttts)
 * Aspirine en prévention primaire si triple positif des ac SAPL
+![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
 
 # Objectif
 SLEDAI < 5
