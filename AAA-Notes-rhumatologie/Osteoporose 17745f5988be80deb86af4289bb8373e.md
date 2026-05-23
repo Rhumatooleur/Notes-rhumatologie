@@ -1,10 +1,10 @@
 # Osteoporose
 ## Ostéoporose post menauposique 
-### Evaluation para clinique 
+### Evaluation para-clinique 
 **Biologie** 
 CTX : 
 - Doser 6 mois après début de traitement (et à distance fracture)
-- principalement adapté dans les reçois a contrôle sous ttt per os pour vérifier l’observance
+- principalement adapté pour contrôle sous ttt per os pour vérifier l’observance
 - Puis doser régulièrement après arrêt du traitement
 - valeur cible = norme femme non ménopausée = 0,3 ng/mL
 
@@ -20,13 +20,18 @@ P1NP :
 ### Traitements :
 
 - Anti-osteoporose :
+
+  - Biphosphonates 
     - Teriparatide :
         - Contres indications :
             - Radiothérapie
             - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
     - Raloxifene : femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
+    - THM
+
 - Supplémentation en vitamine D :
-    - Les prises quotidiennes calciul D3 : On peut les reconduire si le patient les tolère bien au niveau dig et qu’il les prend bien entre les repas
+    - Vitamine D quotidiennne en gouttes c'est le mieux en théorie (mais observance ?)
+    - Les prises quotidiennes calcium-D3 : On peut les reconduire si le patient les tolère bien au niveau dig et qu’il les prend bien entre les repas
     - Sinon ampoules (moins bien en théorie sur la pharmaco mais enfaite peut être que ils les prendront mieux)
 
 ### Fracture sous traitement :
