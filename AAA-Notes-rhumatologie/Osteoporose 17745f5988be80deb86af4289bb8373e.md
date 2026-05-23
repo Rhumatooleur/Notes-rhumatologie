@@ -21,13 +21,13 @@ P1NP :
 
 - Anti-osteoporose :
 
-  - Biphosphonates 
-    - Teriparatide :
-        - Contres indications :
-            - Radiothérapie
-            - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
-    - Raloxifene : femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
-    - THM
+  - Biphosphonates
+  - Teriparatide :
+    - Contres indications :
+          - Radiothérapie
+          - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
+  - Raloxifene : femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
+  - THM
 
 - Supplémentation en vitamine D :
     - Vitamine D quotidiennne en gouttes c'est le mieux en théorie (mais observance ?)
@@ -56,12 +56,16 @@ Arrêter les anti résorbeurs ⇒ teriparatide
 ## Autres Ostéoporose 
 
 ### Ostéoporose du sujet jeune (< 50 ans) :
-
-- Dmo < 2,5 avec ou sans fracture < 50 ans
-- 60% = Oz secondaire
-- 40% = idiopathique
-- En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
+Dmo < 2,5 avec ou sans fracture < 50 ans
+60% = Oz secondaire : 
+- mastocytose
+- maladie coeliaque
+- hyperparathyroïdie
+- aménorrhée 
+40% = idiopathique
+En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose, aménorrhée,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
 
 ### Ostéoporose et IRC : 
 On peut donner ACTONEL 5mg par semain peut importe le DFG 
 Ou prolia jusqu'à ? 
+### Ostéoporose masculine 
