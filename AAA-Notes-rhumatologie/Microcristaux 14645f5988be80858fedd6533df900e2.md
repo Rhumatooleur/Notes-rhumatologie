@@ -1,4 +1,7 @@
 # Goutte
+## Objectif 
+Goutte classique : 300 micromol/l 
+Goutte tophacée sévère : 240 micromol/l 
 ## Traitement 
 #### Goutte et DFG < 30 
 Traitement de crise => anakinra
