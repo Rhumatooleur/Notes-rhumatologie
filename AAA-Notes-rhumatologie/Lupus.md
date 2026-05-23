@@ -26,6 +26,7 @@ Anifrolumab
 * Exercice physique
 * Prévention infectieuse (pneumocoque +/- zona selon ttts)
 * Aspirine en prévention primaire si triple positif des ac SAPL
+
 ![image](.attachments/acf6025094811dfeb85a911ee120208fd0868f5b.jpg) 
 ![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
 
