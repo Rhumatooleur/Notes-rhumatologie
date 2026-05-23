@@ -13,6 +13,7 @@ Hydroxychloroquine pour tout le monde :
   * Retinopathie
   * "Jambes de plaquenil" = purpura
   * Cardiopathie => ECG Si lipothymies
+
 MTX
 MFM
 Inhibiteurs des calcineurines (ciclosporine et tacrolimus)
