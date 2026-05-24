@@ -24,3 +24,4 @@ Atteinte osseuse radio :
 **=> Cause d'ostéoporose chez le jeune**
 Multiples fractures ***vertébrales*** et  ***biconcaves*** (pas cunéiformes).
 ![image](.attachments/3d21542998f90592786e7799d06a90bc51618527.jpg) 
+![image](.attachments/478bfd42bf9bc26b4f8d2beb203179bc8b5bb50d.jpg) 
