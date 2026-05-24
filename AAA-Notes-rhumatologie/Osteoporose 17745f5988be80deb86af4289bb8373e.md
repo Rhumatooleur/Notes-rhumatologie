@@ -4,8 +4,9 @@
 **Biologie** 
 CTX : 
 - Doser 6 mois après début de traitement (et à distance fracture)
-- principalement adapté pour contrôle sous ttt per os pour vérifier l’observance
-- Puis doser régulièrement après arrêt du traitement
+- principalement adapté :
+  - pour contrôle sous ttt per os pour vérifier l’observance
+  - Après arrêt d'un anti resorbeur 
 - valeur cible = norme femme non ménopausée = 0,3 ng/mL
 
 P1NP :
