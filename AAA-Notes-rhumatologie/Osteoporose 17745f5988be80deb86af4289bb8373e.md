@@ -24,7 +24,7 @@ Indication : Ostéoporose fracturaire en 2 ème intention après biphosphonates
 Effets indésirables :
 - Rebond fracturaire à l'arrêt
 - Osteonecrose
-- Fractures atypiques 
+- Fractures atypiques si utilisation prolongée 
 
 **Raloxifene :**
 Femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
@@ -44,7 +44,7 @@ Sinon ampoules (moins bien en théorie sur la pharmaco mais enfaite peut être q
 ### Fractures atypiques :
 Sous TTT par biphosphonates ou denosumab depuis au moins 3 ans (incidence max a 7 ans)
 **Physiopath** 
-os ne se renouvelle plus sous traitement anti resorbeur 
+os ne se renouvelle plus sous traitement anti resorbeur prescrit trop longtemps 
 **Epidemio**
 Incidence = 50 / 100 000
 Risque revient a zéro après 15 mois de fenêtre thérapeutique
@@ -71,6 +71,6 @@ Dmo < 2,5 avec ou sans fracture < 50 ans
 En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose, aménorrhée,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
 
 ### Ostéoporose et IRC : 
-On peut donner ACTONEL 5mg par semain peut importe le DFG 
-Ou prolia jusqu'à ? 
+On peut donner ACTONEL 5mg par semaine peut importe le DFG 
+Ou prolia jusqu'à quel DFG ? 
 ### Ostéoporose masculine 
