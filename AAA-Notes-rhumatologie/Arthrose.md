@@ -3,8 +3,10 @@
 ## Arthrose articulaire postérieure 
 ### Arsenal thérapeutique 
 **Infiltrations intra-articulaire**
-Pas d'amélioration par rapport au placebo ou alors effet très faible. 
-Effets indésirables rares mais potentiellement sévères (infections).
+Sous scopie +++ (écho possible mais patient mince et expérience)
+
+=> Pas d'amélioration par rapport au placebo ou alors effet très faible. 
++ Effets indésirables rares mais potentiellement sévères (infections).
 
 => Il n'y a donc pas de reco claire sur leur utilisation (recos Joint bone spine 2021)
 
@@ -21,9 +23,7 @@ Peut être qu'il faut mieux sélectionner les patients :
 **Traitement par radiofréquence percutanée** 
 Objectif = détruire le nerf par du chaud ou du froid sous cut.
 Fonctionne bien, facile, non traumatique (méta analyse => meilleur que placebo jusqu'à 6 mois, à un an on ne sait pas)
-Problèmes :
-- a court terme = si on rate le nerf
-- a long terme repousse du nerf
+Problèmes : à court terme = si on rate le nerf et à long terme repousse du nerf. 
 
 **Traitement par radiofréquence endoscopique**
 Fonctionne mieux que percutané 
