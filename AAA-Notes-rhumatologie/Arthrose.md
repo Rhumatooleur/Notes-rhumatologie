@@ -5,8 +5,7 @@
 **Infiltrations intra-articulaire**
 Sous scopie +++ (écho possible mais patient mince et expérience)
 
-=> Pas d'amélioration par rapport au placebo ou alors effet très faible. 
-+ Effets indésirables rares mais potentiellement sévères (infections).
+=> Pas d'amélioration par rapport au placebo ou alors effet très faible. Effets indésirables rares mais potentiellement sévères (infections).
 
 => Il n'y a donc pas de reco claire sur leur utilisation (recos Joint bone spine 2021)
 
