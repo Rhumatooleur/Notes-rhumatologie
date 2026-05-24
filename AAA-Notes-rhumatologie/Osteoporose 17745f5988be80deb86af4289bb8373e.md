@@ -11,26 +11,27 @@ CTX :
 P1NP :
 - Pour le teriparatide (car marqueur de la formation osseuse)
 
-### Traitements :
-**Anti-osteoporose :**
-Biphosphonates
+### Traitements spécifiques :
+**Biphosphonates**
 
-Teriparatide :
-    - Contres indications :
-          - Radiothérapie
-          - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
+**Teriparatide :**
+Contres indications :
+- Radiothérapie
+- Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
 
-Denosumab :
-    - Effets indésirables :
-      - Rebond fracturaire à l'arrêt 
-      - Osteonecrose
-      - Fractures atypiques 
+**Denosumab :**
+Indication : Ostéoporose fracturaire en 2 ème intention après biphosphonates 
+Effets indésirables :
+- Rebond fracturaire à l'arrêt
+- Osteonecrose
+- Fractures atypiques 
 
-Raloxifene : femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
+**Raloxifene :**
+Femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
 
-THM
+**THM**
 
-**Supplémentation en vitamine D :**
+### Supplémentation vitamino calcique  :
 Vitamine D quotidiennne en gouttes c'est le mieux en théorie (mais observance ?)
 Les prises quotidiennes calcium-D3 : On peut les reconduire si le patient les tolère bien au niveau dig et qu’il les prend bien entre les repas
 Sinon ampoules (moins bien en théorie sur la pharmaco mais enfaite peut être que ils les prendront mieux)
