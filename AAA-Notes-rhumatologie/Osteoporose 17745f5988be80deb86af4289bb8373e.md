@@ -11,12 +11,6 @@ CTX :
 P1NP :
 - Pour le teriparatide (car marqueur de la formation osseuse)
 
-**FRAX :**
-
-- C’est très bien
-- FRAX 2 en cours de dev.
-- Dans les autres pays ils se basent bcp plus dessus que la dmo
-
 ### Traitements :
 
 - Anti-osteoporose :
@@ -52,7 +46,7 @@ Prodromes pour les fractures atypiques fémorales (les + fréquentes) :
 **Traitement :**
 Décharge et chirurgie
 Arrêter les anti résorbeurs ⇒ teriparatide
-
+### Relai
 ## Autres Ostéoporose 
 
 ### Ostéoporose du sujet jeune (< 50 ans) :
