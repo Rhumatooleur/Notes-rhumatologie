@@ -24,7 +24,7 @@ Contres indications :
 
 Prescription : 
 - 1 injection SC pendant 18mois (voire 2 ans hors AMM).
-- Puis faire un relai pas biphosphonates (séquence thérapeutique)
+- Puis faire une perf d'aclasta de clôture à la fin du traitement.
 
 **Denosumab :**
 Indication : Ostéoporose fracturaire en 2 ème intention après biphosphonates 
