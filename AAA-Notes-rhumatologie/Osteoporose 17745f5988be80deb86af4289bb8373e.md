@@ -20,6 +20,11 @@ P1NP :
     - Contres indications :
           - Radiothérapie
           - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
+  - Denosumab :
+    - Effets indésirables :
+      - Rebond fracturaire à l'arrêt 
+      - Osteonecrose
+      - Fractures atypiques 
   - Raloxifene : femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou cancer
   - THM
 
@@ -46,7 +51,10 @@ Prodromes pour les fractures atypiques fémorales (les + fréquentes) :
 **Traitement :**
 Décharge et chirurgie
 Arrêter les anti résorbeurs ⇒ teriparatide
-### Relai
+### Relais après denosumab
+Aclasta à la date anniversaire du dernier Denosumab (6 mois après)
+Au moins 1 perfs puis en faire d'autres selon les CTXs tous les ans 
+![image](.attachments/133d8875d5645d6212f8d21093e8588538a06da4.jpg) 
 ## Autres Ostéoporose 
 
 ### Ostéoporose du sujet jeune (< 50 ans) :
