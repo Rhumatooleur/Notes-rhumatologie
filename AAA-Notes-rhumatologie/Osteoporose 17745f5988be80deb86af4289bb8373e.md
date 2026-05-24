@@ -16,9 +16,15 @@ P1NP :
 **Biphosphonates**
 
 **Teriparatide :**
+Indication : 2 fractures vertébrales 
+
 Contres indications :
 - Radiothérapie
 - Atcd de tumeur ou métastase osseuse : car médoc pro angiogenique mais enfaite ce n'est pas une contre indication formelle (principe de précaution plutôt)
+
+Prescription : 
+- 1 injection SC pendant 18mois (voire 2 ans hors AMM).
+- Puis faire un relai pas biphosphonates (séquence thérapeutique)
 
 **Denosumab :**
 Indication : Ostéoporose fracturaire en 2 ème intention après biphosphonates 
