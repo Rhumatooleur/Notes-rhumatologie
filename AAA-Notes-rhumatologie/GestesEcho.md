@@ -4,6 +4,11 @@ Voie d'abord longitudinale (du bas vers le haut) est plus efficace pour bien vid
 Utiliser une aiguille verte voire rose car kystes souvent gelatineux. 
 ![image](.attachments/bd0b642fabe44aa01f21d432c82f22a65619877e.jpg) 
 ### Tendinobursite du tendon réfléchi du SM
+Comment la trouver : 
+- On part de la coupe longitudinale du LCM
+- Translation vers l'arrière de la sonde + becquer vers l'avant => apparition d'une olive avec le tendon dedans.
+![image](.attachments/0d7ab6bb5bbfee8e0f22ccada67f8aa7ff576e07.jpg)
+- Puis on peut se le mettre en longitudinal si on veut. 
 ### Patte d'oie 
 ### Mur méniscal médial
 ## Cheville et pied 
