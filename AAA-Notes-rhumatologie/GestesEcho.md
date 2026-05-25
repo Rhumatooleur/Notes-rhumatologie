@@ -8,7 +8,10 @@ Comment la trouver :
 - On part de la coupe longitudinale du LCM
 - Translation vers l'arrière de la sonde + becquer vers l'avant => apparition d'une olive avec le tendon dedans.
 ![image](.attachments/0d7ab6bb5bbfee8e0f22ccada67f8aa7ff576e07.jpg)
-- Puis on peut se le mettre en longitudinal si on veut. 
+- Puis on peut se le mettre en longitudinal si on veut.
+![image](.attachments/538be9daac00a39ed8222b094f44d2bc41c3fdd4.jpg)
+
+
 ### Patte d'oie 
 ### Mur méniscal médial
 ## Cheville et pied 
