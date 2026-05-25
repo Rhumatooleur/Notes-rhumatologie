@@ -30,6 +30,8 @@
 [Corticothérapie orale](AAA-Notes-rhumatologie/Corticoth%C3%A9rapie%20orale%201bf45f5988be80f0a065ff59aea27690.md)
 ## Gestes et médicaments injectables 🤺 
 
+
+[Gestes écho guidés](AAA-Notes-rhumatologie/GestesEcho.md)
 [Injectables](AAA-Notes-rhumatologie/Injectables%201bf45f5988be806abe3cccf567c77d00.md)
 ## Douleur 👺 
 [Fibromyalgie et troubles somatiques fonctionnels ](AAA-Notes-rhumatologie/Fibromyalgie%20et%20troubles%20somatiques%20fonctionnels%2018545f5988be802fbf71d3a2dbf61d05.md)
