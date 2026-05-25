@@ -34,6 +34,11 @@
     ![Tendinite de la patte d'oie, diagnostic du genou douloureux](https://www.irbms.com/wp-content/uploads/2018/11/tendons-genou-patte-oie.jpg)
 * **Semi-membraneux = insertion principalement sur le condyle médial du fémur** Stabilisateur du PAPI
 
+![image](.attachments/1698028ab8d89ec6efaf2f96c2cea7bde5c24178.jpg) 
+
+![image](.attachments/3bddb26221d37695c9f7d572a2bbc7e85d597326.jpg) 
+
+![image](.attachments/57095c721ae7c4226c064e57faf174ca8300e54d.jpg) 
 ### Muscles latéraux et postérieurs
 
 -   **TFL (Tenseur du Fascia Lata) :** Se termine sur le tubercule de Gerdy ; stabilisateur latéral en extension.
