@@ -33,7 +33,7 @@
 ### Membre inférieur
 [Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md)
 [Genou](AAA-Radiologie-ostéoarticulaire/Genou.md)
-[Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
+[Cheville et Pied](AAA-Radiologie-ostéoarticulaire/Pied.md)
 ## Selon le mécanisme pathologique
 ### Mécanique
 [Arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md)
