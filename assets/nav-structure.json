@@ -197,7 +197,7 @@
       },
       {
         "name": "Anatomie",
-        "file": "AAA-Radiologie-ostéoarticulaire/Pied/Piedplatvalgus.md"
+        "file": "AAA-Radiologie-ostéoarticulaire/Pied.md"
       },
       {
         "name": "Anomalies de forme des vertèbres",
@@ -348,8 +348,8 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Pied/Fasciiteplantaire.md"
       },
       {
-        "name": "Pied",
-        "file": "AAA-Radiologie-ostéoarticulaire/Pied.md"
+        "name": "Pied plat valgus",
+        "file": "AAA-Radiologie-ostéoarticulaire/Pied/Piedplatvalgus.md"
       },
       {
         "name": "Poignet",
