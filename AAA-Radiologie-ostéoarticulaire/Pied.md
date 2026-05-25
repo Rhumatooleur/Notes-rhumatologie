@@ -1,5 +1,10 @@
-# Pied
-
+# Anatomie 
+## Sous-talienne 
+2 articulations différentes : 
+- Sous talienne antérieure (et médiale) qui communique avec la calcaneo-naviculaire
+- sous talienne postérieure
+- Sinus du tarse 
+![image](.attachments/0917b972faaa49070164cdc3aa37eae97eaa2588.jpg) 
 ## Os naviculaire accessoire
 Os surnuméraire du tarse situé en arrière de la tubérosité postéro-médiale de l’os naviculaire. Le tibial post s'insère dessus.
 **Syndrome de l'os naviculaire accessoire** = microtraumatismes de la synchondrose (liaison avec naviculaire par cartilage) => douleurs aiguës ou chroniques au versant médial du pied
