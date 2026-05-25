@@ -19,6 +19,10 @@ Injecter dans la calcanéo-naviculaire car communique systématiquement avec la 
 - Chopart communique dans 40% des cas
 - Lisfranc dans 30% des cas 
 - Mediotarse (naviculo-cunéenne) communique systématiquement avec 2 et 3eme cunéo-metatarsienne
+![image](.attachments/fe356dc0b53e1ea073411c32eb368c37f32a5ae7.jpg) 
 
 => On peut passer par des articulations+ facilement accessibles vu que ça communique.
 
+Bien repérer avant infiltrations car bcp d'artères et de veines + trouver l'articulation la + accessible 
+
+Toujours passer hors plan pour éviter les osteophytes. 
