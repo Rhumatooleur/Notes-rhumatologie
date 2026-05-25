@@ -1,11 +1,3 @@
-# Anatomie 
-## Sous-talienne 
-2 articulations différentes : 
-- Sous talienne antérieure (et médiale) qui communique avec la calcaneo-naviculaire
-- sous talienne postérieure
-- Sinus du tarse 
-![image](.attachments/0917b972faaa49070164cdc3aa37eae97eaa2588.jpg) 
-
 # Pied plat valgus
 
 ## Anatomie des stabilisateurs internes de cheville
