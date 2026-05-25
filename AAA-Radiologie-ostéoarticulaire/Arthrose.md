@@ -1,15 +1,11 @@
-# Arthrose
+# Hanche
 
-Propriétaire: quentin campeol
-
-## Hanche
-
-### Clichés à faire :
+## Clichés à faire :
 
 - Bassin de face (15° de rotation externe)
 - Hanches bilatérales de face (15° de rotation externe) + faux profil de Lequesne
 
-### Cliché de hanche de Face
+## Cliché de hanche de Face
 
 **Utilité :** Permet de voir le versant antérieur de l’interligne, ainsi que le toit du cotyle 
 
@@ -59,7 +55,7 @@ massifs trochantériens en bas)
 
 ![image.png](Arthrose/image%204.png)
 
-### Faux profil de Lequesne
+## Faux profil de Lequesne
 
 **Utilité :** Etude du versant supéro-externe de l’interligne
 
@@ -97,7 +93,7 @@ postérieure à sa partie antérosupérieure
 
 ![image.png](Arthrose/image%206.png)
 
-### **Types d’ostéophytose :**
+## **Types d’ostéophytose :**
 
 - En collerette = au pourtour de la tête fémorale avec une ostéophytose marginale céphalique
 - Péri-fovéale (fovéa = dépression dans la tête qui correspond au point d'attache pour le ligament rond)
@@ -106,7 +102,7 @@ postérieure à sa partie antérosupérieure
 
 ![image.png](Arthrose/image%207.png)
 
-### Types de coxarthrose :
+## Types de coxarthrose :
 
 ### **Primitives**
 
@@ -165,9 +161,9 @@ En IRM penser à la CCA devant une coxarthrose congestive avec un oedème diffus
 
 **Secondaires à des affections neurologiques** (myopathies, polyomyélite antérieure aigue) ****
 
-## Genou
+# Genou
 
-### Critères radiologiques de Kellgren et Lawrence
+## Critères radiologiques de Kellgren et Lawrence
 
 **0 - Radio Normale**
 **1 - Très léger ostéophyte ou pincement**
@@ -179,17 +175,17 @@ Souvent l’os sous chondral médial est plus condensé que le latéral c’est 
 
 ![image.png](Arthrose/image%2010.png)
 
-### Dysplasie femoro patellaire :
+## Dysplasie femoro patellaire :
 
 Signe du croisement sur genou de profil (ligne du fond de la trochlée qui vient croiser la ligne du condyle fémoral) 
 
 Défilé femoro patellaire à 30° de flexion 
 
-## Digitale
+# Digitale
 
-## Epaule
+# Epaule
 
-### Omarthrose excentrée
+## Omarthrose excentrée
 
 **Se définit radiologiquement par :**
 
@@ -222,7 +218,7 @@ Nécrose massive de la tête humérale
 
 ![image.png](Arthrose/image%2011.png)
 
-### Omarthrose centrée
+## Omarthrose centrée
 
 **Se définit par :**
 
@@ -232,19 +228,19 @@ respecté.
 - Un pincement tardif de l’interligne
 gléno-huméral, qui se voit mieux sur le cliché en rotation externe
 
-### Classification Samilson omarthrose centrée
+## Classification Samilson omarthrose centrée
 
 ![image.png](Arthrose/image%2012.png)
 
-## Poignet
+# Poignet
 
-### Critères de qualité des radios du poignet
+## Critères de qualité des radios du poignet
 
 ![IMG_0805.jpeg](Arthrose/IMG_0805.jpeg)
 
 ![IMG_0806.jpeg](Arthrose/IMG_0806.jpeg)
 
-### Arthrose radio-scaphoïdienne
+## Arthrose radio-scaphoïdienne
 
 Principalement causes secondaires par ordre de fréquence : 
 
