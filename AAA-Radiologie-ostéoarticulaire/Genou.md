@@ -40,5 +40,8 @@
 -   **Biceps Fémoral :** Se termine sur la tête de la fibula ; fléchisseur et rotateur externe.
 -   **Poplité :** Stabilisateur profond, déverrouille le genou en début de flexion.
 -   **Gastrocnémiens (Jumeaux) :** Stabilisateurs postérieurs, limitent l'hyperextension.
-
+# Pathologie 
+## Kyste poplité 
+![image](.attachments/0e1c8386843658c2524491bb9ee01d11d4885d23.jpg) 
+Diagnostics différentiels : 
   
