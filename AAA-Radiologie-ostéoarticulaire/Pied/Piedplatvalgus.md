@@ -1,8 +1,16 @@
+# Anatomie 
+## Sous-talienne 
+2 articulations différentes : 
+- Sous talienne antérieure (et médiale) qui communique avec la calcaneo-naviculaire
+- sous talienne postérieure
+- Sinus du tarse 
+![image](.attachments/0917b972faaa49070164cdc3aa37eae97eaa2588.jpg) 
+
 # Pied plat valgus
 
 Propriétaire: quentin campeol
 
-# Anatomie des stabilisateurs internes de cheville
+## Anatomie des stabilisateurs internes de cheville
 
 4 stabilisateurs : 
 
@@ -13,7 +21,7 @@ Propriétaire: quentin campeol
     ![image](.attachments/15efc6f867ec12ac1fb2baef14c2c87d956fb1de.png) 
     
 
-# Pieds plats valgus acquis
+## Pieds plats valgus acquis
 
 ### Causes
 
@@ -26,4 +34,4 @@ Spring ligament et/ou tibio-spring
 
 +/- tibial postérieur 
 
-# Pieds plats valgus congénitaux
+## Pieds plats valgus congénitaux
