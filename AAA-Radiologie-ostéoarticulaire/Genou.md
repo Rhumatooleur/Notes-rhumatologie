@@ -49,4 +49,6 @@
 ## Kyste poplité 
 ![image](.attachments/0e1c8386843658c2524491bb9ee01d11d4885d23.jpg) 
 Diagnostic différentiel : bursite du tendon réfléchi du SM entre ce tendon et le LCM (mais pas de relation avec le GM médial)
+## Tendinobursite du tendon réfléchi du SM
+![image](.attachments/6fdbd1274c58389ffa12c86456ebfa80ce71fbbc.jpg) 
   
