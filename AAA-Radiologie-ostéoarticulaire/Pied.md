@@ -17,6 +17,7 @@ Types d'os naviculaire accessoires :
 Peut s'infiltrer si douloureux
 Chirurgie uniquement pour les type 2 
 
+# Pathologies
 ## Métatarsalgies
 [Métatarsalgies](Pied/Métatarsalgies.md)
 ## Talalgies
@@ -56,7 +57,6 @@ Chirurgie uniquement pour les type 2
 ![image](.attachments/d61456a8f3382d85d12535fc4f657e653ba6c265.png) 
 
 
-  
 ### Diagnostics différentiels 
 \
 **Concernant l'aponévrose :**
