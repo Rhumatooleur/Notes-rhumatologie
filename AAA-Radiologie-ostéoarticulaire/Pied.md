@@ -1,4 +1,5 @@
-# Anatomie 
+# Anatomie
+## Cheville 
 ## Sous-talienne 
 2 articulations différentes : 
 - Sous talienne antérieure (et médiale) qui communique avec la calcaneo-naviculaire
@@ -16,6 +17,7 @@ Types d'os naviculaire accessoires :
 
 Peut s'infiltrer si douloureux
 Chirurgie uniquement pour les type 2 
+## Avant-pied 
 
 # Pathologies
 ## Métatarsalgies
