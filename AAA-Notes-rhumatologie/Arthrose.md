@@ -1,4 +1,11 @@
 # Traitement de l'arthrose 
+## Genou 
+### Traitement de première intention 
+### PEC d'un genou restant douloureux après une première infiltration 
+Rechercher une autre cible infiltrative : 
+- un kyste poplité
+- une tendonopathie médiale (tendon réfléchi semi membraneux +++ , patte d'oie)
+- Une inflammation du mur méniscal
 ## Arthrose articulaire postérieure 
 ### Arsenal thérapeutique 
 **Infiltrations intra-articulaire**
