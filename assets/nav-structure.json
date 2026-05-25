@@ -208,10 +208,6 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md"
       },
       {
-        "name": "Arthrose",
-        "file": "AAA-Radiologie-ostéoarticulaire/Arthrose.md"
-      },
-      {
         "name": "Atteintes des poulies",
         "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
       },
@@ -266,6 +262,10 @@
       {
         "name": "Goutte",
         "file": "AAA-Radiologie-ostéoarticulaire/Goutte.md"
+      },
+      {
+        "name": "Hanche",
+        "file": "AAA-Radiologie-ostéoarticulaire/Arthrose.md"
       },
       {
         "name": "Hemochromatose",
