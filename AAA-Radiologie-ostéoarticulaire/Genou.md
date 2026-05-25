@@ -31,8 +31,10 @@
   * Sartorius (loge antérieure de jambe qui croise depuis l'EIAS)
   * Gracile (le + médial des ischio-jambiers / muscle frêle et fin comparé aux autres)
   * Semi tendineux (ischio-jambiers)
-    ![Tendinite de la patte d'oie, diagnostic du genou douloureux](https://www.irbms.com/wp-content/uploads/2018/11/tendons-genou-patte-oie.jpg)
+
+![Tendinite de la patte d'oie, diagnostic du genou douloureux](https://www.irbms.com/wp-content/uploads/2018/11/tendons-genou-patte-oie.jpg)
 ![image](.attachments/471916cd1dc18a26b5d33cb699100b02704b1e5a.jpg) 
+![image](.attachments/a7060b975e0213da162563eb03baf66f9d89f113.jpg) 
 * **Semi-membraneux = insertion principalement sur le condyle médial du fémur** Stabilisateur du PAPI
 
 ![image](.attachments/1698028ab8d89ec6efaf2f96c2cea7bde5c24178.jpg) 
