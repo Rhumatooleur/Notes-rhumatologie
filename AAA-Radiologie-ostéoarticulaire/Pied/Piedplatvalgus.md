@@ -8,8 +8,6 @@
 
 # Pied plat valgus
 
-Propriétaire: quentin campeol
-
 ## Anatomie des stabilisateurs internes de cheville
 
 4 stabilisateurs : 
