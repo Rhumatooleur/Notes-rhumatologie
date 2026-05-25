@@ -3,6 +3,8 @@
 Voie d'abord longitudinale (du bas vers le haut) est plus efficace pour bien vider le kyste !! 
 Utiliser une aiguille verte voire rose car kystes souvent gelatineux. 
 ![image](.attachments/bd0b642fabe44aa01f21d432c82f22a65619877e.jpg) 
+### Tendinobursite du tendon réfléchi du SM
+### Patte d'oie 
 ### Mur méniscal médial
 ## Cheville et pied 
 ### Sous talienne postérieure 
