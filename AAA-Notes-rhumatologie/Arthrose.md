@@ -1,5 +1,4 @@
-# Diagnostic
-# Traitement
+# Traitement de l'arthrose 
 ## Arthrose articulaire postérieure 
 ### Arsenal thérapeutique 
 **Infiltrations intra-articulaire**
