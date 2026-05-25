@@ -1,3 +1,10 @@
+## Genou 
+### Kyste poplité
+Voie d'abord longitudinale (du bas vers le haut) est plus efficace pour bien vider le kyste !! 
+Utiliser une aiguille verte voire rose car kystes souvent gelatineux. 
+![image](.attachments/bd0b642fabe44aa01f21d432c82f22a65619877e.jpg) 
+### Mur méniscal médial
+## Cheville et pied 
 ### Sous talienne postérieure 
 **=> 3 voies d'abord selon l'anatomie du patient**
 
