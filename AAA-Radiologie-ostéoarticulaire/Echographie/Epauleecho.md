@@ -22,6 +22,7 @@ Pourquoi ? dégénérescence musculaire, rétraction tendineuse, réduction espa
 
 - axial/transversal
 - jusqu’à la jonction avec tendon du pectoral
+- Regarder aussi dans sa portion haute au dessus de la gouttière et vérifier qu'il est bien ovalaire (si rond = tendinopathie)
 
 **Sub-scapulaire :** 
 
