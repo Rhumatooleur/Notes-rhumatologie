@@ -71,7 +71,7 @@
             - maladie chronique du foie ; diabète ;
             - brèche ostéoméningée, implant cochléaire ou candidats a une implantation cochléaire ;
             - drépanocytose.
-    - **VZV =** chez les adultes immunocompétents de 65 ans et plus ou 18 ans et immunodéprimés
+    - **VZV =** chez les adultes immunocompétents de 65 ans et plus ou 18 ans et immunodéprimés (corticothérapie ou biothérapies)
         - Par shingrix
         - M0 puis rappel  M2
     - **VHA et VHB** = selon facteurs de risque :
