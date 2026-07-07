@@ -18,6 +18,7 @@
 [Mastocytose](AAA-Notes-rhumatologie/Mastocytose.md)
 **Mécanique**
 [Arthrose](AAA-Notes-rhumatologie/Arthrose.md)
+[Syndrome de la traversée cervico-thoraco-brachiale](AAA-Notes-rhumatologie/syndrome-de-la-traversée-cervico-thoraco-brachiale.md)
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 
