@@ -61,7 +61,8 @@
         - < 65 ans mais atteints de certaines maladies chroniques dont obésité
         - femmes enceintes
     - **VRS =** vaccination saisonnière en automne chez les personnes âgées de 75 ans et plus, ainsi que chez les personnes âgées de 65 ans et plus présentant des pathologies respiratoires chroniques (particulièrement BPCO) ou cardiaques (particulièrement insuffisance cardiaque). HAS 2024
-    - Pneumocoque :
+    - **Pneumocoque :**
+        - Vaccin recommandé = **CAPVAXIVE (21-valent)**
         - Personnes > 65 ans
         - Personnes immunodéprimées ou atteintes de syndrome néphrotique
         - Personnes porteuses d’une maladie prédisposant à la survenue d’infections invasives à pneumocoque :
