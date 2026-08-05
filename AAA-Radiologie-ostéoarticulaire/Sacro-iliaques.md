@@ -1,7 +1,4 @@
 # Sacro-iliaques
-
-Propriétaire: quentin campeol
-
 Atteinte des sacro-iliaques :
 
 - Atteinte dégénérative = antérieure, pas d’érosions
