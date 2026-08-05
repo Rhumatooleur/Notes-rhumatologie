@@ -14,9 +14,22 @@ Covid
 VRS
 # Suivis cardiovasculaires
 
-- Antécédents cardiovasculaires : 
-- Cardiologue ? 
-- Score de risque cardiovasculaire (SCORE 2) : 
+### Antécédents cardiovasculaires
+### Facteurs de risque cardiovasculaires : 
+- **Classiques :** HTA,  dyslipidémie, diabète, hérédité (<65A F et 55H), Tabagisme, sédentarité et inactivité physique, surpoids et obésité
+
+- **Nouveaux :**
+
+  - Trouble du sommeil
+  - Alcool, drogues, stress
+  - Liés aux hormones féminines : endométriose, syndrome des ovaires polykystiques, insuffisance ovarienne prématurée et ménopause avancée
+  -  Complications de grossesse
+  -  Maladies inflammatoires chroniques, notamment rhumatismales, auto-immunes
+  -  Migraine, surtout avec aura
+  -  Cancer du sein
+  -  Stress chronique
+
+### Score de risque cardiovasculaire (SCORE 2) 
 # Suivis onco
 ## Dépistage organisé du cancer chez les patients atteints de rhumatisme inflammatoire chronique
 
