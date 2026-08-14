@@ -20,6 +20,7 @@
 [Arthrose](AAA-Notes-rhumatologie/Arthrose.md)
 [Syndrome de la traversée cervico-thoraco-brachiale](AAA-Notes-rhumatologie/syndrome-de-la-traversée-cervico-thoraco-brachiale.md)
 [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md)
+[Névralgie pudendale](AAA-Notes-rhumatologie/Névralgie-pudendale.md)
 **Autres**
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 
