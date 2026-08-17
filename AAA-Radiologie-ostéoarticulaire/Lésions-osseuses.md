@@ -21,7 +21,7 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 * **Tumeurs osseuses primitives bénignes :**
 
 **Ostéome ostéoïde :**  Touche en particulier les enfants et les jeunes adultes (plus souvent les garçons que les filles âgés entre 10 et 30 ans. Elle représente environ 12 % de l’ensemble des tumeurs osseuses bénignes. Clarté ronde, contenant un _nidus_ central sclérotique dense (la lésion caractéristique de ce type de tumeur) entouré d'os sclérotique. Le nidus est rarement plus grand que 1,5 cm. 
-**Chondroblastome :** tumeur osseuse bénigne rare, présente dans les extrémités arrondies (épiphyse - centres de croissance secondaires) des os longs des bras et des jambes. Il représente environ 1% de toutes les tumeurs osseuses bénignes et survient généralement chez les adolescents et les jeunes adultes.
+**Chondroblastome :** tumeur osseuse bénigne rare, présente dans les extrémités arrondies (épiphyse - centres de croissance secondaires) des os longs des bras et des jambes. Il représente environ 1% de toutes les tumeurs osseuses bénignes et survient généralement chez les adolescents et les jeunes adultes. Aspect = Centre géographique excentré, lacune unique à bords nets  Niveaux liquidiens en IRM. Sans liseré d'ostéocondensation périphérique. Oedème de l'os limitrophe (condensation périphérique à bord flous). 
 **Tumeurs à cellules géantes :** Métaphysaires à extension épiphysaire. 
 **Ostéoblastome :** _! mais extrêmement rare à cette localisation (touche surtout vertèbres arc postérieur et diaphyse/metaphyse)!_ Tumeur bégnine due à la prolifération des ostéoblastes. Touche les adultes jeunes < 30 ans. 
 
@@ -29,6 +29,31 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 **Chondrosarcome à cellules claires :** Extrêmement rare ! 2% des chondroscarcomes.  Lésions ostéolytiques bien délimitées, souvent localisées à l'épi-métaphyse du fémur ou de l'humérus proximal.
   **Ostéosarcome chondroblastique :** Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
+  
+### Metaphysaires : 
+* **Pseudo-tumeurs :**
+
+**Ostéomyélite**
+**Abcès de Brodie**
+
+* **Métastases :** Leur centre géométrique est souvent métaphysaire puis extension  à l’épiphyse
+
+* **Hémopathies :**
+**Myélome :** 
+
+* **Tumeurs osseuses primitives bénignes :**
+
+**FONO**
+**Fibrome chondromyxoïde** 
+**Enchondrome**
+**Tumeurs à cellules géantes** : 
+**KE / ABC**
+
+* **Tumeurs osseuses primitives malignes :**
+
+**Chondrosarcome**
+**Ostéosarcome** 
+
 ## Images condensantes
 
 ### Condensation bénigne au scanner :
