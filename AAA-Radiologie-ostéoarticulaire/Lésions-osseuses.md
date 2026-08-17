@@ -20,7 +20,6 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 * **Tumeurs osseuses primitives bénignes :**
 
-**Ostéome ostéoïde :**  Touche en particulier les enfants et les jeunes adultes (plus souvent les garçons que les filles âgés entre 10 et 30 ans. Elle représente environ 12 % de l’ensemble des tumeurs osseuses bénignes. Clarté ronde, contenant un _nidus_ central sclérotique dense (la lésion caractéristique de ce type de tumeur) entouré d'os sclérotique. Le nidus est rarement plus grand que 1,5 cm. 
 **Chondroblastome :** tumeur osseuse bénigne rare, présente dans les extrémités arrondies (épiphyse - centres de croissance secondaires) des os longs des bras et des jambes. Il représente environ 1% de toutes les tumeurs osseuses bénignes et survient généralement chez les adolescents et les jeunes adultes. Aspect = Centre géographique excentré, lacune unique à bords nets  Niveaux liquidiens en IRM. Sans liseré d'ostéocondensation périphérique. Oedème de l'os limitrophe (condensation périphérique à bord flous). 
 **Tumeurs à cellules géantes :** Métaphysaires à extension épiphysaire. 
 **Ostéoblastome :** _! mais extrêmement rare à cette localisation (touche surtout vertèbres arc postérieur et diaphyse/metaphyse)!_ Tumeur bégnine due à la prolifération des ostéoblastes. Touche les adultes jeunes < 30 ans. 
@@ -28,7 +27,7 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 * **Tumeurs osseuses primitives malignes :**
 
 **Chondrosarcome à cellules claires :** Extrêmement rare ! 2% des chondroscarcomes.  Lésions ostéolytiques bien délimitées, souvent localisées à l'épi-métaphyse du fémur ou de l'humérus proximal.
-  **Ostéosarcome chondroblastique :** Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
+**Ostéosarcome chondroblastique :** Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
   
 ### Metaphysaires : 
 * **Pseudo-tumeurs :**
@@ -43,11 +42,18 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 * **Tumeurs osseuses primitives bénignes :**
 
-**FONO**
-**Fibrome chondromyxoïde** 
-**Enchondrome**
-**Tumeurs à cellules géantes** :  Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. Excentrées, pas de matrice interne, bords nets sans condensation périphérique, os spongieux adjacent intègre, destruction de la corticale osseuse et reconstruction d'une coque périostée continue. 
 **Kyste osseux essentiel :** Tumeur osseuse bénigne la plus fréquente (90 % des cas dans les deux premières décennies de la vie). Il s’agit d’une dystrophie osseuse kystique uni- ou pluriloculaire, localisée le plus souvent sur la métaphyse/épiphyse des os longs (humérus dans plus 50 % des cas, calcanéum dans 3 % des cas). Lacune diaphysaire ou métaphysaire centrée, sans matrice interne (ou fragments des bords qui se sont fracturés et qui sont à l'intérieur), bords nets sans condensation périphérique, pôle inférieur en "fond de coquetier", encoches endostées, soufflures et ruptures corticales. 
+**Fibrome non ossifiant :** Le fibrome non ossifiant, ou « cortical defect », est une lésion corticale, excentrée, rencontrée chez les enfants et les adultes jeunes. Elle est cernée d’un liseré de condensation périphérique et régresse en se calcifiant avec l’âge.
+**Exostose (ou ostéochondrome) :** Tumeur sessile ou pédiculée réalisant une image d’addition, naît perpendiculairement à la métaphyse et se dirige vers la diaphyse. Elle est dotée d’une coiffe cartilagineuse parfois calcifiée. Elle est asymptomatique. La survenue de douleurs inflammatoires doit faire craindre une dégénérescence sarcomateuse qui ne se produit guère que dans les formes multiples.
+**Ostéome ostéoïde :**  Touche en particulier les enfants et les jeunes adultes. Clarté ronde, contenant un _nidus_ central sclérotique dense (la lésion caractéristique de ce type de tumeur) entouré d'os sclérotique. Le nidus est rarement plus grand que 1,5 cm. il est la cause de douleurs nocturnes, typiquement bien calmées par les AINS, notamment l’aspirine.
+**Enchondrome (ou chondrome):** Tumeur à différenciation cartilagineuse, le plus souvent dans les os distaux, réalisant une ostéolyse bien limitée parsemée de calcifications annulaires. 
+**Fibrome chondromyxoïde** 
+**Tumeurs à cellules géantes** :  Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. Excentrées, pas de matrice interne, bords nets sans condensation périphérique, os spongieux adjacent intègre, destruction de la corticale osseuse et reconstruction d'une coque périostée continue. 
+**Dysplasie fibreuse est une tumeur métaphysaire, touchant en premier lieu le col fémoral ou les côtes ; elle est en général de découverte fortuite.
+Sa présentation radiologique est hétérogène avec l’aspect le plus fréquent sous la forme d’une image en « verre dépoli », avec condensation périphérique (fig. 27.4).
+L’atteinte osseuse peut être monostotique ou polyostotique ; elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « café au lait » et manifestations endocriniennes (notamment diabète phosphaté par sécrétion inappropriée de FGF-23).
+Elle peut dégénérer dans de très rares cas.
+
 **ABC**
 
 * **Tumeurs osseuses primitives malignes :**
@@ -74,6 +80,7 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 **Hémangiome**
 **Hémangiomendothéliome épithéloïde**
 **Kyste osseux essentiel**
+**Ostéome ostéoïde**
 
 * **Tumeurs osseuses primitives malignes :**
 **Chondrosarcome**
