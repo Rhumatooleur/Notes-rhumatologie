@@ -46,13 +46,38 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 **FONO**
 **Fibrome chondromyxoïde** 
 **Enchondrome**
-**Tumeurs à cellules géantes** : 
-**KE / ABC**
+**Tumeurs à cellules géantes** :  Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. Excentrées, pas de matrice interne, bords nets sans condensation périphérique, os spongieux adjacent intègre, destruction de la corticale osseuse et reconstruction d'une coque périostée continue. 
+**Kyste osseux essentiel :** Tumeur osseuse bénigne la plus fréquente (90 % des cas dans les deux premières décennies de la vie). Il s’agit d’une dystrophie osseuse kystique uni- ou pluriloculaire, localisée le plus souvent sur la métaphyse/épiphyse des os longs (humérus dans plus 50 % des cas, calcanéum dans 3 % des cas). Lacune diaphysaire ou métaphysaire centrée, sans matrice interne (ou fragments des bords qui se sont fracturés et qui sont à l'intérieur), bords nets sans condensation périphérique, pôle inférieur en "fond de coquetier", encoches endostées, soufflures et ruptures corticales. 
+**ABC**
 
 * **Tumeurs osseuses primitives malignes :**
 
 **Chondrosarcome**
 **Ostéosarcome** 
+
+### Diaphysaires  : 
+* **Pseudo-tumeurs :**
+
+**Ostéomyélite infectieuse :** Lacune diaphysaire excentrée, matrice interne hyper T1 spontané, bords nets sans condensation périphérique, oedème osseux périphérique, rupture corticale et masse des parties molle. 
+**Ostéomyélite aseptique :** Rare dans le SAPHO, bcp plus fréquent dans l'ostéomyélite aseptique multifocale de l'enfant. 
+**Histiocytose liée à l'X = langerhansienne :** Maladie systémique rare caractérisée par l'accumulation (généralement organisée en granulomes) de macrophages présentant les caractéristiques des cellules de Langerhans dans divers tissus. Lacune diaphysaire excentrée, à bords nets sans condensation périphérique, oedème osseux péri lésionnel, encoches endostées et amincissement cortical. 
+**Dysplasie fibreuse des os :** Scinti + 
+**Infarctus osseux** Scinti + 
+**Fissures longitudinales :**
+* **Hémopathies :**
+**Myélome**
+**Plasmocytome solitaire**
+**Lymphome** 
+
+* **Tumeurs osseuses primitives bénignes :**
+**Chondrome**
+**Hémangiome**
+**Hémangiomendothéliome épithéloïde**
+**Kyste osseux essentiel**
+
+* **Tumeurs osseuses primitives malignes :**
+**Chondrosarcome**
+**Angiosarcome**
 
 ## Images condensantes
 
