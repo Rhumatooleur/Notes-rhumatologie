@@ -13,11 +13,10 @@ MST = Mesure de la section transverse :
 **Epanchements :** 
 
 Coxo-fémoral : 
-
-BSAD = épaississement significatif a partir de 3mm en théorie
-
 - Distance col-capsule > 8mm
 - Asymétrie > 2 mm
+
+BSAD = épaississement significatif a partir de 3mm en théorie
 
 **Autres mesures :** 
 Bombement du Ligament acromio-coracoïdien > 4mm pathologique 
