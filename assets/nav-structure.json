@@ -240,6 +240,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Chondrocalcinose.md"
       },
       {
+        "name": "Clichés à faire :",
+        "file": "AAA-Radiologie-ostéoarticulaire/Arthrose.md"
+      },
+      {
         "name": "Coude",
         "file": "AAA-Radiologie-ostéoarticulaire/Coude.md"
       },
@@ -278,10 +282,6 @@
       {
         "name": "Goutte",
         "file": "AAA-Radiologie-ostéoarticulaire/Goutte.md"
-      },
-      {
-        "name": "Hanche",
-        "file": "AAA-Radiologie-ostéoarticulaire/Arthrose.md"
       },
       {
         "name": "Hemochromatose",
