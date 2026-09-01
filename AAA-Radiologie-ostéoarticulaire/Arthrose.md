@@ -1,11 +1,13 @@
-# Hanche
+ 
+</details>
+<details> <summary><h1>Hanche</h1></summary> 
 
 ## Clichés à faire :
 
 - Bassin de face (15° de rotation externe)
 - Hanches bilatérales de face (15° de rotation externe) + faux profil de Lequesne
-
-## Cliché de hanche de Face
+  
+### Cliché de hanche de Face
 
 **Utilité :** Permet de voir le versant antérieur de l’interligne, ainsi que le toit du cotyle 
 
@@ -55,7 +57,7 @@ massifs trochantériens en bas)
 
 ![image.png](Arthrose/image%204.png)
 
-## Faux profil de Lequesne
+### Faux profil de Lequesne
 
 **Utilité :** Etude du versant supéro-externe de l’interligne
 
@@ -102,67 +104,134 @@ postérieure à sa partie antérosupérieure
 
 ![image.png](Arthrose/image%207.png)
 
-## Types de coxarthrose :
+## Formes cliniques
 
-### **Primitives**
+### Formes primitives
 
-**Coxarthrose débutante :** 
-Le pincement est souvent : 
+#### Coxarthrose débutante
 
-- soit discret (à comparer au côté sain)
-- soit antérosupérieur ou postérieur et dans ces cas non visible sur le cliché de face (dans 1/3 des cas) ⇒ le faux profil est seul probant (dans 25% des cas).
-- soit absent (dans 8% des cas) ⇒  il faut rechecher l’ostéophytose +/- ostéocondensation et géodes
+Le pincement est souvent :
+-   Discret
+-   Antéro-supérieur ou postérieur, donc **non visible sur le cliché de face dans 1/3 des cas**
+-   Ou totalement absent (**8 % des cas**)
+→ Il faut donc rechercher un **interligne iso-épais** sur le faux profil de Lequesne. 
 
-L’ostéophytose est présente dans 90% des cas même d’arthrose débutante. 
+L'ostéophytose, elle, est présente dans **90 % des cas**, même en cas d'arthrose débutante :
+-   Péri-fovéale +++ (**58 %**)
+-   Double fond +++ (**52 %**)
 
-- Péri-fovéale +++ (58%)
-- Double fond +++ (52%)
+#### Formes selon la localisation du pincement
 
-**Formes engainantes :** 
+D'après la coupe frontale de hanche :
+-   Supéro-externe
+-   Supéro-intermédiaire
+-   Supéro-interne
+-   Interne
+-   Axial
 
-Ostéophytose marquée un interligne qui peut rester indemne longtemps
+Sur les autres incidences :
 
-![image.png](Arthrose/image%208.png)
+-   **Antéro-supérieure**
+-   **Postérieure**, primitive ou secondaire à une protrusion acétabulaire ou une rétroversion du col
 
-**Coxarthrose destructrice rapide :** 
+### Anomalies d'architecture
 
-- Pincement progressant de 2mm par an
-- Pas d’ostéophyte
+#### Dysplasie de hanche
 
-**Coxarthrose postérieure** 
+→ Défaut de couverture — cause de **30 à 50 %** des coxarthroses.
 
-- Visible sur faux profil uniquement
+| Paramètre | Hanche normale | Hanche dysplasique |
+| --- | --- | --- |
+| Face — Couverture externe (VCA) | ≥ 20° | < 20° |
+| Face — Obliquité du toit (HTE) | ≤ 13° | > 13° |
+| Face — Angle cervico-diaphysaire (CC'D) | ≤ 142° | > 142° |
+| Faux profil — Couverture antérieure (VCA) | ≥ 20° | < 20° |
 
-### **Secondaires**
+Une indication chirurgicale conservatrice est possible si le stade est peu évolué (stade I) chez un patient « jeune » :
 
-**Dysplasie de hanche subluxante**
+-   Butée cotyloïdienne
+-   Ostéotomie fémorale de varisation/valgisation
+-   Ostéotomie pelvienne (péri-acétabulaire ou supra-acétabulaire)
 
-Coxométrie ⇒ défaut de couverture de la hanche, voxa valga,…
+#### Subluxation congénitale
 
-**Conflits fémoroacétabulaires**
+-   Rupture du cintre fémoro-acétabulaire
+-   Souvent séquelle d'une luxation congénitale de hanche réduite dans l'enfance
+-   Rare dans les pays développés
 
-**Coxarthrose du sportif**
+#### Conflit fémoro-acétabulaire
 
-Postérieure +++
+→ Conflit se manifestant en flexion > 80°.
 
-**Protrusion acétabulaire :** 
+**Clinique :**
 
-- distance > 3 mm chez l’homme et 6 mm chez la femme entre la ligne acétabulaire et la ligne ilio-ischiatique sur un cliché de bassin strictement de face
+-   Typiquement le jeune sportif, avec des douleurs inguinales intermittentes ; examen et clichés standards souvent non concluants
+-   Douleur reproduite à 80° de flexion/rotation interne de la cuisse, alors que la flexion pure dans l'axe reste indolore jusqu'à 120°
 
-![image.png](Arthrose/image%209.png)
+**Imagerie**, on distingue :
+-   **Effet Came** : tête fémorale non sphérique
+-   **Effet tenaille** : excès de couverture par l'acétabulum
+-   Forme **mixte** (association came + tenaille)
 
-**Post traumatiques** 
+#### Protrusion acétabulaire
 
-**Chondrocalcinose** 
+→ Profondeur excessive du cotyle : débord de l'arrière-fond cotyloïdien en dedans de la ligne ilio-ischiatique.
 
-En IRM penser à la CCA devant une coxarthrose congestive avec un oedème diffus de l’acetabulum et de la tête fémorale qui va jusque au col fémoral ! 
+|     | Coxa profunda | Protrusion acétabulaire |
+| --- | --- | --- |
+| Homme | 0–3 mm | > 3 mm |
+| Femme | 0–6 mm | > 6 mm |
 
-**Rhumatisme inflammatoire** 
+### Coxarthrose destructrice rapide
 
-**Secondaires à des affections neurologiques** (myopathies, polyomyélite antérieure aigue) ****
+**Clinique :**
 
-# Genou
+-   Douleur brutale et intense, à recrudescence nocturne, contrastant avec une arthrose peu évoluée radiographiquement
+-   Doit faire éliminer une coxite septique ou microcristalline : CRP +++, échographie ± ponction, ou IRM
 
+**Imagerie :**
+
+-   Pincement progressant de **2 mm/an** (ou > 50 % de l'interligne)
+-   Absence d'ostéophyte
+-   Clichés à répéter à 3–6 mois
+
+### Formes secondaires / diagnostics différentiels
+
+-   **Mécaniques** : post-traumatique, inégalité de longueur des membres inférieurs (ILMI) > 3 cm
+-   **Rhumatisme inflammatoire** : spondylarthrite ankylosante (SPA), polyarthrite rhumatoïde (PR)…
+-   **Microcristallin** : chondrocalcinose
+-   **Autres** : ostéonécrose épiphysaire, maladie de Paget
+-   **Secondaires à des affections neurologiques** (myopathies, polyomyélite antérieure aigue) 
+
+#### Ostéonécrose épiphysaire
+
+-   **Contexte évocateur :** post-traumatique, corticothérapie, alcool, hypertriglycéridémie, VIH, drépanocytose, troubles de la coagulation, barotraumatisme, maladie de Gaucher, grossesse
+-   **Clinique :** douleurs mécaniques ou mixtes, d'apparition brutale ; examen clinique peu spécifique
+-   **Diagnostic :**
+    -   IRM : liseré épais et sinueux, en hyposignal T1, concave vers le cotyle, délimitant la zone de nécrose ; parfois « double contour » en T2 Fat-Sat
+    -   Radiographies (stade avancé) : fracture sous-chondrale, effondrement de la tête fémorale
+
+#### Chondrocalcinose
+
+-   Liseré de calcification
+-   Pincement global ou supéro-externe
+-   Multiples géodes sous-chondrales
+-   En cas d'arthropathie destructrice :
+    -   Ostéophytose absente, ou au contraire massive et affrontée
+    -   Destruction cartilagineuse et osseuse : aplatissement de la tête, protrusion acétabulaire sur le versant opposé
+
+#### Spondylarthrite ankylosante
+
+-   Sujet jeune
+-   Coxite bilatérale
+-   Pincement coxofémoral **global et concentrique**, surtout marqué en médial
+-   Ostéophytose péricéphalique et péri-fovéale **généralement absente**
+-   Géodes du toit de l'acétabulum
+ </details>
+
+</details>
+<details> <summary><h1>Genou </h1></summary> 
+  
 ## Critères radiologiques de Kellgren et Lawrence
 
 **0 - Radio Normale**
@@ -174,16 +243,21 @@ En IRM penser à la CCA devant une coxarthrose congestive avec un oedème diffus
 Souvent l’os sous chondral médial est plus condensé que le latéral c’est normal ⇒ vérifier qu’on voit les travées osseuses : pas de condensation sous chondrale si on voit la trame 
 
 ![image.png](Arthrose/image%2010.png)
-
 ## Dysplasie femoro patellaire :
 
 Signe du croisement sur genou de profil (ligne du fond de la trochlée qui vient croiser la ligne du condyle fémoral) 
 
 Défilé femoro patellaire à 30° de flexion 
+</details>
 
-# Digitale
+</details>
+<details> <summary><h1>Digitale  </h1></summary> 
 
-# Epaule
+
+</details>
+
+</details>
+<details> <summary><h1>Epaule </h1></summary> 
 
 ## Omarthrose excentrée
 
@@ -232,7 +306,17 @@ gléno-huméral, qui se voit mieux sur le cliché en rotation externe
 
 ![image.png](Arthrose/image%2012.png)
 
-# Poignet
+</details>
+
+</details>
+<details> <summary><h1> Poignet </h1></summary> 
+
+
+</details>
+
+
+</details>
+<details> <summary><h1> Poignet </h1></summary> 
 
 ## Critères de qualité des radios du poignet
 
@@ -295,3 +379,16 @@ Plus rare en rhumato
 Plutôt ortho mauvaise consolidation ou osteonecrose du scaphoïde post traumatique
 
 Aspect comme SNAC mais pas de pincement avec le pôle proximal du scaphoïde
+
+</details>
+
+
+</details>
+<details> <summary><h1> Titre </h1></summary> 
+
+
+</details>
+
+
+
+
