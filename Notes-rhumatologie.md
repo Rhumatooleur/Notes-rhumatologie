@@ -55,4 +55,4 @@
 - « Si je n'y comprends rien sur l'imagerie des mains, si c'est le désordre, c'est que c'est de la goutte » — J.D. Laredo
 - « On ne tire pas sur une mouche avec un Bazooka » — S. Carré
 - « Une épine calcanéenne c'est un fossile de dinosaure » — P. Beaudoin
-- « Envoyez moi votre manuscrit que je puisse phosphorer un peu dessus » — A. Baillet, S. Carré
+- « Envoyez moi votre manuscrit que je puisse phosphorer un peu dessus » — A. Baillet
