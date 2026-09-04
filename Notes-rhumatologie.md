@@ -16,6 +16,7 @@
 [Maladie de Paget ](AAA-Notes-rhumatologie/Maladie%20de%20Paget%2020a45f5988be80558275cf095100bef1.md)
 [Fractures de contrainte ](AAA-Notes-rhumatologie/Fractures%20de%20contrainte%201d045f5988be80948c53da402fe947f2.md)
 [Mastocytose](AAA-Notes-rhumatologie/Mastocytose.md)
+[Hypo et hypercalcémie](AAA-Notes-rhumatologie/Hypo_et_hypercalcémie.md)
 **Mécanique**
 [Arthrose](AAA-Notes-rhumatologie/Arthrose.md)
 [Syndrome de la traversée cervico-thoraco-brachiale](AAA-Notes-rhumatologie/syndrome-de-la-traversée-cervico-thoraco-brachiale.md)
