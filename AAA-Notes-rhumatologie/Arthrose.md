@@ -6,8 +6,14 @@ Rechercher une autre cible infiltrative :
 - un kyste poplité
 - une tendonopathie médiale (tendon réfléchi semi membraneux +++ , patte d'oie)
 - Une inflammation du mur méniscal
-## Arthrose articulaire postérieure 
-### Arsenal thérapeutique 
+### Rachis 
+## MODIC 
+1) AINS et palliers 1 + PEC kiné
+2) Immobilisation temporaire par corset rigide
+3) +/- infiltrations intradiscales mais efficacité très temporaire voire exacerbation des dlr à 3 mois
+4) Arthrodèse
+### Arthrose articulaire postérieure 
+#### Arsenal thérapeutique 
 **Infiltrations intra-articulaire**
 Sous scopie +++ (écho possible mais patient mince et expérience)
 
