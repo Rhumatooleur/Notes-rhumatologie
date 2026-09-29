@@ -3,6 +3,7 @@
 ## Protocoles de réalisation échographie
 
 [Protocole échographie pour recherche de rhumatisme psoriasique infra-clinique](Echographie/PSAecho.md)
+[Protocole échographie pour recherche de PPC](Echographie/PPCecho.md)
 [Protocole échographie épaule](Echographie/Epauleecho.md)
 [Protocole tendinopathie d’achille](Echographie/TAecho.md)
 [Protocole radio + échographie devant des talalgies ](Echographie/Talalgiesecho.md)
