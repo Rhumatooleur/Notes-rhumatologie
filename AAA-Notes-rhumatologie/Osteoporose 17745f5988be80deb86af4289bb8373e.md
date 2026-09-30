@@ -1,6 +1,5 @@
-# Osteoporose
-## Ostéoporose post menauposique 
-### Evaluation para-clinique 
+# Ostéoporose post menauposique 
+## Evaluation para-clinique 
 **Biologie** 
 CTX : 
 - Doser 6 mois après début de traitement (et à distance fracture)
@@ -12,7 +11,7 @@ CTX :
 P1NP :
 - Pour le teriparatide (car marqueur de la formation osseuse)
 
-### Traitements spécifiques :
+## Traitements spécifiques :
 **Biphosphonates**
 
 **Teriparatide :**
@@ -38,17 +37,17 @@ Femme jeune < 70a non fracturaire sans contre indication veineuse cardiovasc ou 
 
 **THM**
 
-### Supplémentation vitamino calcique  :
+## Supplémentation vitamino calcique  :
 Vitamine D quotidiennne en gouttes c'est le mieux en théorie (mais observance ?)
 Les prises quotidiennes calcium-D3 : On peut les reconduire si le patient les tolère bien au niveau dig et qu’il les prend bien entre les repas
 Sinon ampoules (moins bien en théorie sur la pharmaco mais enfaite peut être que ils les prendront mieux)
 
-### Fracture sous traitement :
+## Fracture sous traitement :
 
 - Mauvaise efficacité si fracture > 1 an (18 mois - 2 ans)
 - Il faut refaire le bilan d'Oz
 
-### Fractures atypiques :
+## Fractures atypiques :
 Sous TTT par biphosphonates ou denosumab depuis au moins 3 ans (incidence max a 7 ans)
 **Physiopath** 
 os ne se renouvelle plus sous traitement anti resorbeur prescrit trop longtemps 
@@ -61,13 +60,13 @@ Prodromes pour les fractures atypiques fémorales (les + fréquentes) :
 **Traitement :**
 Décharge et chirurgie
 Arrêter les anti résorbeurs ⇒ teriparatide
-### Relais après denosumab
+## Relais après denosumab
 Aclasta à la date anniversaire du dernier Denosumab (6 mois après)
 Au moins 1 perfs puis en faire d'autres selon les CTXs tous les ans 
 ![image](.attachments/133d8875d5645d6212f8d21093e8588538a06da4.jpg) 
-## Autres Ostéoporose 
+# Autres Ostéoporose 
 
-### Ostéoporose du sujet jeune (< 50 ans) :
+## Ostéoporose du sujet jeune (< 50 ans) :
 Dmo < 2,5 avec ou sans fracture < 50 ans
 60% = Oz secondaire : 
 - mastocytose
@@ -77,7 +76,7 @@ Dmo < 2,5 avec ou sans fracture < 50 ans
 40% = idiopathique
 En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose, aménorrhée,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
 
-### Ostéoporose et IRC sévère : 
+## Ostéoporose et IRC sévère : 
    
 **Que si DFG<30**
 
@@ -137,4 +136,4 @@ Zolédronate : OK si DFG>30 avec perfusion lente (1h) ; Une étude avec DFG<30, 
 
 Alendronate et Risédronate possibles si DFG 15-30 uniquement dû à l’âge sans pathologie rénale ? _Miller PD, Roux C, Boonen S, et al. Safety and efficacy of risedronate in patients with age-related reduced renal function as estimated by the Cockcroft and Gault method : a pooled analysis of nine clinical trials. J Bone Miner Res 2005;20:2105-15._
 
-### Ostéoporose masculine 
+## Ostéoporose masculine 
