@@ -62,7 +62,10 @@ Décharge et chirurgie
 Arrêter les anti résorbeurs ⇒ teriparatide
 ## Relais après denosumab
 Aclasta à la date anniversaire du dernier Denosumab (6 mois après)
-Au moins 1 perfs puis en faire d'autres selon les CTXs tous les ans (à Lyon Chapurlat fait des CTX tous les 3 mois pendant 2 ans)
+Au moins 1 perfs puis en faire d'autres selon les CTXs : 
+- à Lyon Chapurlat fait des CTX tous les 3 mois pendant 2 ans)
+- Zolédronate dès que CTX>0,3-0,4,g/ml (basé sur moyenne basse préménopause sans preuves).  
+- Certains font Zolédronate + Alendronate (Serge Ferrari, SFR 2023)
 ![image](.attachments/133d8875d5645d6212f8d21093e8588538a06da4.jpg) 
 # Autres Ostéoporose 
 
