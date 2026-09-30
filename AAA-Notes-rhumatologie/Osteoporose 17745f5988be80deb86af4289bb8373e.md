@@ -77,7 +77,64 @@ Dmo < 2,5 avec ou sans fracture < 50 ans
 40% = idiopathique
 En cas de cause idiopathique après avoir éliminé les causes secondaires (hyperpara du sujet jeune, maladie cœliaque, mastocytose, aménorrhée,…) il faut genotyper le patient ⇒ Panel génétique variants associés à fragilité osseuse avec un labo de génétique + consentement
 
-### Ostéoporose et IRC : 
-On peut donner ACTONEL 5mg par semaine peut importe le DFG 
-Ou prolia jusqu'à quel DFG ? 
+### Ostéoporose et IRC sévère : 
+   
+**Que si DFG<30**
+
+#### Troubles métaboliques à rechercher selon la bio :
+
+**Os adynamique = Remodelage bas :** 
+- PTH < 2-3N
+- PALos < médiane
+- P1NP bas
+- Ca normal ou haut (si dialysé). 
+
+**Hyperparathyroïdie :** 
+- PTH > 6N (> 9N si dialysé)
+- PALos > médiane (mais on retient pour > N en pratique)
+
+**Zone grise :** 
+- PTH 2-9N
+
+=> Faire une _**biopsie osseuse**_
+
+**Autres  + rares : ** 
+- Ostéomalacie : P bas ; 25/1,25-OH basse ; PALos normale haute ; PTH un peu basse (donc autour de 2-3N). Rare en France, plutôt en lien avec les bains de dialyse inadaptés
+- Mixte : Ostéomalacie + Hyperparathyroïdie : PALos N ; PTH un peu haute ; ou PALos et PTH non concordante, en pratique on ne peut pas conclure car n’écarte pas un os adynamique
+
+#### Traitements 
+**1) Qui traiter ?**
+
+| Pathologie | Situation | Conduite à tenir |
+| --- | --- | --- |
+| **Os adynamique** | Général | Éviter les bisphosphonates (études souris : diminution des fractures meilleure que l'absence de traitement, sinon discuter bisphosphonates adaptés) |
+|     | Pas de fracture | Pas de traitement ! Même si T-score ≤ -3 |
+|     | Fracture | Tériparatide (mais pas de preuve). Pas de verrouillage car l'os se verrouille seul |
+| **Hyperparathyroïdie secondaire** | Non contrôlée (> 6–9 N selon les cas) | Prise en charge néphro avant tout traitement |
+|     | Fracture ou T-score < -2,5 | Bisphosphonates |
+| **Hyperparathyroïdie tertiaire du greffé** |    | Prise en charge comme une hyperparathyroïdie primaire → plutôt chirurgicale |
+| **Projet de greffe dans l'année** | Quel que soit le type d'os | Ne rien faire, attendre la greffe ! |
+
+**2) Quels traitements utliser ?**
+
+**_Dialysé :_**
+- Tériparatide
+- Dénosumab
+- Pamidronate 30mg/3mois
+
+_**Non dialysé :**_
+
+Tériparatide (os adynamique)
+
+Bisphosphonates : Risque os adynamique mais résolutif à l’arrêt du traitement, sinon aurait été adynamique même sans traitement
+
+Alendronate 5mg (ACTONEL 5mg) : OK peu importe le DFG
+Dénosumab à vie possible même si DFG<30. Risque hypocalcémie
+Risédronate demi-dose (1/2sem ou 1/mois) : OK si DFG>20
+Risédronate : OK si DFG>25
+Alendronate 30mg : OK si DFG>35
+Zolédronate : OK si DFG>30 avec perfusion lente (1h) ; Une étude avec DFG<30, souvent sans problème mais avec risque rare de complications rénales importantes (hémodialyse)
+
+Alendronate et Risédronate possibles si DFG 15-30 uniquement dû à l’âge sans pathologie rénale ? _Miller PD, Roux C, Boonen S, et al. Safety and efficacy of risedronate in patients with age-related reduced renal function as estimated by the Cockcroft and Gault method : a pooled analysis of nine clinical trials. J Bone Miner Res 2005;20:2105-15._
+
 ### Ostéoporose masculine 
