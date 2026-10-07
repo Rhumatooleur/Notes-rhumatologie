@@ -45,7 +45,7 @@
 ### Inflammatoire
 [Spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md)
 [Polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md)
-[Rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso.md)
+[Rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md)
 [SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md)
 [Rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/RhumPso.md)
 ### Osseux 
