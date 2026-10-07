@@ -106,10 +106,6 @@
         "file": "AAA-Notes-rhumatologie/Microcristaux 14645f5988be80858fedd6533df900e2.md"
       },
       {
-        "name": "Imagerie dans le pré rhumatisme psoriasique",
-        "file": "AAA-Notes-rhumatologie/Rhumatisme psoriasique/Imagerieprerhumpso.md"
-      },
-      {
         "name": "Infectiologie",
         "file": "AAA-Notes-rhumatologie/Infectiologie 1eb45f5988be80f4b51cff25377a24bf.md"
       },
@@ -156,10 +152,6 @@
       {
         "name": "PR",
         "file": "AAA-Notes-rhumatologie/PR 14c45f5988be8081b248ecff7e4ab0c8.md"
-      },
-      {
-        "name": "Rhumatisme psoriasique",
-        "file": "AAA-Notes-rhumatologie/Rhumatisme psoriasique/Imagerie dans le pré rhumatisme psoriasique 18345f5988be8057bc01ef0fb6560638.md"
       },
       {
         "name": "Rhumatisme psoriasique",
@@ -304,6 +296,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/IRM.md"
       },
       {
+        "name": "Imagerie dans le pré rhumatisme psoriasique",
+        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme psoriasique/Imagerieprerhumpso.md"
+      },
+      {
         "name": "Imagerie des fractures de contrainte",
         "file": "AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md"
       },
@@ -426,6 +422,10 @@
       {
         "name": "Radiographie",
         "file": "AAA-Radiologie-ostéoarticulaire/RhumPso.md"
+      },
+      {
+        "name": "Rhumatisme psoriasique",
+        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme psoriasique/Imagerie dans le pré rhumatisme psoriasique 18345f5988be8057bc01ef0fb6560638.md"
       },
       {
         "name": "SAPHO",
