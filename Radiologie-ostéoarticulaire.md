@@ -46,6 +46,7 @@
 [Spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md)
 [Polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md)
 [SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md)
+[Rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/RhumPso.md)
 ### Osseux 
 [Fractures de contrainte](Fractures-de-contrainte-imagerie.md) 
 [Lésions osseuses](AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md)
