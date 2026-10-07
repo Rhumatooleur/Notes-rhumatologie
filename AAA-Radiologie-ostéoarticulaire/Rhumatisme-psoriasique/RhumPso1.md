@@ -1,5 +1,5 @@
 # Echographie du pré-rhumatisme psoriasique
-[Echographie du pré-rhumatisme psoriasique](prerhumpso.md) 
+[Echographie du pré-rhumatisme psoriasique](Imagerieprerhumpso.md) 
 
 # Echographie du rhumatisme psoriasique
 Moyen mnémotechnique : 007 
