@@ -1,8 +1,8 @@
 # Radiographie
 
-# Atteinte périphérique
+## Atteinte périphérique
 
-## Association caractéristique : érosion + reconstruction osseuse
+### Association caractéristique : érosion + reconstruction osseuse
 
 Le rhumatisme psoriasique associe typiquement :
 
@@ -32,15 +32,15 @@ Le rhumatisme psoriasique associe typiquement :
 
 ***
 
-# Déformations caractéristiques
+## Déformations caractéristiques
 
-## « Pencil-in-cup »
+### « Pencil-in-cup »
 
 -   Une extrémité osseuse devient effilée en **« pointe de crayon »**.
 -   L’os adjacent présente une érosion concave en **« cupule »**.
 -   Signe évocateur d’une maladie évoluée, mais **non pathognomonique**.
 
-## Arthrite mutilante
+### Arthrite mutilante
 
 Forme destructrice sévère : 
 -   ostéolyse importante 
@@ -51,16 +51,16 @@ Forme destructrice sévère :
 ![Woman's Common Condition Resulted In Rare "Telescoping Fingers" | IFLScience](https://assets.iflscience.com/assets/articleNo/54455/aImg/30736/1576171746-cover-image-o.webp)
 ![Telescoping fingers (Opera glass hands): the phenotype of arthritis  mutilans .](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMDnCkM8_hKAkCg9sVgCBVJb2GiUF1okriw277KQPhNqlBrQWrB1be5yq&s=10)
 
-## Autres anomalies
+### Autres anomalies
 
 -   **Subluxations articulaires**.
 -   **Ankylose** articulaire possible.
 -   **Ostéopénie juxta-articulaire ou diffuse**, mais généralement **moins marquée que dans la polyarthrite rhumatoïde**.
 -   Rare : **« ivory phalanx »**, correspondant à une condensation diffuse d’une phalange, classiquement la phalange distale du gros orteil.
 
-# Atteinte axiale
+## Atteinte axiale
 
-## Sacro-iliite
+### Sacro-iliite
 
 -   Peut être **unilatérale**.
     
@@ -68,9 +68,9 @@ Forme destructrice sévère :
     
 ➡️ À la différence de la spondyloarthrite ankylosante classique, où la sacro-iliite est typiquement bilatérale et symétrique.
 
-## Atteinte rachidienne
+### Atteinte rachidienne
 
-### Parasyndesmophytes
+#### Parasyndesmophytes
 
 -   Ossifications **paravertébrales épaisses et irrégulières**.
 -   Distribution souvent **asymétrique**
