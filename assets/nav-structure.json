@@ -256,6 +256,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Echographie.md"
       },
       {
+        "name": "Echographie du pré-rhumatisme psoriasique",
+        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md"
+      },
+      {
         "name": "Epaule IRM",
         "file": "AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md"
       },
@@ -418,10 +422,6 @@
       {
         "name": "Radiographie",
         "file": "AAA-Radiologie-ostéoarticulaire/RhumPso.md"
-      },
-      {
-        "name": "Radiographie",
-        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md"
       },
       {
         "name": "Rhumatisme psoriasique",
