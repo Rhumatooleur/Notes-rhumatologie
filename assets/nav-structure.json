@@ -220,10 +220,6 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md"
       },
       {
-        "name": "Atteintes des poulies",
-        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
-      },
-      {
         "name": "COMPRESSION DU NERF SUS-SCAPULAIRE",
         "file": "AAA-Radiologie-ostéoarticulaire/Épaule/Nerf-suprascapulaire.md"
       },
@@ -310,6 +306,10 @@
       {
         "name": "Indications de l’échographie en rhumatologie",
         "file": "AAA-Radiologie-ostéoarticulaire/Echographie/Indicationsecho.md"
+      },
+      {
+        "name": "Interprétation des radiographies des mains",
+        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
       },
       {
         "name": "Lésions musculaires traumatiques",
