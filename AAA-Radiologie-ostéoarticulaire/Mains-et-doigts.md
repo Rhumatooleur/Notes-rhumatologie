@@ -8,7 +8,7 @@ Atteinte articulaire :
 - PINCEMENT
 - DEFORMATIONS
 ## 2. Ostéo-artropathie : 
-Atteinte articulaire et osseuse. 
+Atteinte articulaire et osseuse 
 ## 3. Ostéopathie : 
 Signes radiologiques : 
 - DEMINERALISATION DIFFUSE d’une main
@@ -62,17 +62,27 @@ En mirroir, de part et d'autre de l'interligne.
 Etiologies : 
 * **Goutte** ++++ : soufflantes +/- tophi
 * **CCA et hémochormatose** : isolées et cerclées de condensation
-
 # 2. Pour les ostéopathies 
 ## Différentes ostéopathies à distinger 
-
 ### Hyperparathyroïdie
 ### Sarcoïdose
+Granulomes se traduisant par des lacunes osseuses +/- diffuses. 
+Élargissement des trous nourriciers phalangiens et métacarpiens
 ### Sclérodermie
+Acro-ostéolyse
+Calcinose
 ### Algodystrophie 
+Déminéralisation mouchetée 
 ### Goutte 
-# 3. Pour les ostéo-arthropathies 
+# 3. Ostéo-arthropathies 
+### Goutte
+### Rhumatisme psoriasique
+</details>
+<details> <summary><h1> Acro-ostéolyse </h1></summary> 
 
+</details>
+<details> <summary><h1> Acro-hyperostose </h1></summary> 
+Réaction hyperostosante = Densification intra-spongieuse => phalange distale ivoire 
 </details>
 <details> <summary><h1>Atteintes des poulies </h1></summary> 
 
