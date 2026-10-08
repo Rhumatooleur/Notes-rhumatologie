@@ -81,10 +81,31 @@ Déminéralisation mouchetée
 
 </details>
 <details> <summary><h1> Acro-ostéolyse </h1></summary> 
+  
+  ## Définition 
+Destruction souvent progressive d’une partie de la phalange distale des doigts et des orteils, le plus souvent bilatérale. 
+  ## Causes 
+  **Rhumatisme psoriasique**
+  **Hyperparathyroïdie** 
+  **Sclérodermie** et polymyosites / connectivites
+  **Goutte**
+**Causes externes :** Traumatismes, brûlures, gelures
+  **Arthropathies nerveuses :** 
+  * diabète
+  * Syringomyélie
+  * Tabès = neurosyphilis
+  * Lèpre
+  * Indifférence congénitale à la douleur
 
+  
 </details>
 <details> <summary><h1> Acro-hyperostose </h1></summary> 
-Réaction hyperostosante = Densification intra-spongieuse => phalange distale ivoire 
+
+La phalange ivoire correspond à une augmentation de la densité radiographique de l’ensemble d’une phalange, résultant d’une formation osseuse périostée et endostée.
+
+Ce signe constitue une manifestation radiographique caractéristique et spécifique du **rhumatisme psoriasique**. Toutefois, il est rare et présente donc une faible sensibilité.
+
+A noter que Stephane carré dit attention aux hémopathies dans les phalanges ivoires. 
 </details>
 <details> <summary><h1>Atteintes des poulies </h1></summary> 
 
