@@ -10,26 +10,27 @@ Atteinte articulaire :
 ## 2. Ostéo-artropathie : 
 Atteinte articulaire et osseuse. 
 ## 3. Ostéopathie : 
-### 4 signes radiologiques : 
+Signes radiologiques : 
 - DEMINERALISATION DIFFUSE d’une main
 - ACRO-OSTEOLYSE
 - LACUNES & DESTRUCTION
 
 # 1. Pour les arthropathies
 ## 1.1 Trois types à distinguer 
-### 1.1.1 "Dégénératif" = absence d'érosions 
+### 1.1.1 "Dégénératif" => == absence d'érosions ==
 #### Arthrose
 * Atteintes : IPPs et IPDs ++ (mais pas d'atteinte de toute la rangée), trapezométacarpienne 
 * Signes positifs d'arthrose (pincement plutôt focal, ostéophytose, sclérose et +/- géodes mais mauvais signe)
 * Pas de destruction articulaire sauf cas évolués
 #### Arthropathies métaboliques 
 * **Chondrocalcinose** :
-  * Atteintes : MCPs 2-3+++ et 4-5, IPPs, SCAC wrist (commence par atteinte isolée scapho-trapézienne)
+  * Atteintes : MCPs 2-3+++ et 4-5, IPPs, SCAC wrist (commence par atteinte isolée scapho-trapézienne, puis radio-scaphoïdienne avec encastrement puis reste du carpe)
   * Pincement diffus
 * **Hémochromatose**
-  * Comme CCA mais avec ostéophytes des MCPs en ancre marine 
+  * Comme CCA mais avec ostéophytes des MCPs en ancre marine sur le versant radial
+  * Atteinte médio-carpienne aussi
 
-### 1.1.2 Rhumatismal inflammatoire = présence d'érosions
+### 1.1.2 Rhumatismal inflammatoire => ==présence d'érosions==
 #### Polyarthrite rhumatoïde : 
 * MCPs 2 et 3 ++++, puis IPPs (**pas les IPDs**)
 *  Erosions :
@@ -39,6 +40,7 @@ Atteinte articulaire et osseuse.
 * **Déminéralisation** osseuse en bandes
 #### Rhumatisme psoriasique
 * IPPs et IPDs +/- MCPs
+* Systématisation **radiaire** (le long d'un doigt)
 * érosions et **constructions**
 * **limites plus nettes** des érosions
 ### 1.1.3 Destructeur 
