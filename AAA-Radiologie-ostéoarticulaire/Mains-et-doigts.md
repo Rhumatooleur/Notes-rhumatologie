@@ -36,6 +36,9 @@ Atteinte articulaire (pincement ou déformations)
 #### Goutte 
 ## +/- Arthropahies sans pincement 
 ### Jaccoud 
+#### Lupus 
+#### Rhumatismes post-streptrococciques
+#### Idiopathique
 ### Géodes épiphysaires isolées
 
 # 2.2) Pour les ostéopathies 
