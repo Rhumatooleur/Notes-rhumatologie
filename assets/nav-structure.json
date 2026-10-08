@@ -292,6 +292,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Hydroxyapatite.md"
       },
       {
+        "name": "I) Orientation diagnostique initiale :",
+        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
+      },
+      {
         "name": "IRM",
         "file": "AAA-Radiologie-ostéoarticulaire/IRM.md"
       },
@@ -422,10 +426,6 @@
       {
         "name": "Rhumatisme psoriasique",
         "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/ImagerieRhumPso.md"
-      },
-      {
-        "name": "S'agit-il d'une :",
-        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
       },
       {
         "name": "SAPHO",
