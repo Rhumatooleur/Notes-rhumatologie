@@ -2,7 +2,8 @@
 <details> <summary><h1>Plan d'interprétation des radiographies des mains </h1></summary> 
 
 
-# S'agit-il d'une : 
+# I) Orientation diagnostique initiale : 
+Distinguer trois grands types d'atteintes radiographiques.
 ## 1. Arthropathie :
 Atteinte articulaire : 
 - PINCEMENT
@@ -15,9 +16,9 @@ Signes radiologiques :
 - ACRO-OSTEOLYSE
 - LACUNES & DESTRUCTION
 
-# 1. Pour les arthropathies
-## 1.1 Trois types à distinguer 
-### 1.1.1 "Dégénératif" => == absence d'érosions ==
+# II) Arthropathies
+## 1. Trois types à distinguer en cas de pincement (le + fréquent)
+### 1.1 "Dégénératif" => == absence d'érosions ==
 #### Arthrose
 * Atteintes : IPPs et IPDs ++ (mais pas d'atteinte de toute la rangée), trapezométacarpienne 
 * Signes positifs d'arthrose (pincement plutôt focal, ostéophytose, sclérose et +/- géodes mais mauvais signe)
@@ -30,7 +31,7 @@ Signes radiologiques :
   * Comme CCA mais avec ostéophytes des MCPs en ancre marine sur le versant radial
   * Atteinte médio-carpienne aussi
 
-### 1.1.2 Rhumatismal inflammatoire => ==présence d'érosions==
+### 1.2 Rhumatismal inflammatoire => ==présence d'érosions==
 #### Polyarthrite rhumatoïde : 
 * MCPs 2 et 3 ++++, puis IPPs (**pas les IPDs**)
 *  Erosions :
@@ -43,13 +44,13 @@ Signes radiologiques :
 * Systématisation **radiaire** (le long d'un doigt)
 * érosions et **constructions**
 * **limites plus nettes** des érosions
-### 1.1.3 Destructeur 
+### 1.3 Destructeur 
 #### PR sévère 
 #### Rhumastisme psoriasique destructeur 
 #### Arthrose destructrice
 #### Goutte 
 
-## 1.2 +/- Arthropahies sans pincement 
+## 2. Arthropahies sans pincement (bcp + rare)
 ### Jaccoud 
 Déformations isolées des MCPs par atteinte des structures péri-articulaires, sans pincement, érosions ou géodes. 
 Entraine une main en coup de vent réductible et indolore, sans tuméfaction des parties molles. 
@@ -62,8 +63,8 @@ En mirroir, de part et d'autre de l'interligne.
 Etiologies : 
 * **Goutte** ++++ : soufflantes +/- tophi
 * **CCA et hémochormatose** : isolées et cerclées de condensation
-# 2. Pour les ostéopathies 
-## Différentes ostéopathies à distinger 
+# III) Ostéopathies 
+## 1. Différentes ostéopathies à distinger 
 ### Hyperparathyroïdie
 ### Sarcoïdose
 Granulomes se traduisant par des lacunes osseuses +/- diffuses. 
@@ -77,6 +78,7 @@ Déminéralisation mouchetée
 # 3. Ostéo-arthropathies 
 ### Goutte
 ### Rhumatisme psoriasique
+
 </details>
 <details> <summary><h1> Acro-ostéolyse </h1></summary> 
 
