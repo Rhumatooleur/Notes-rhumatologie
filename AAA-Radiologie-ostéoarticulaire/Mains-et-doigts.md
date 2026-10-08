@@ -17,7 +17,7 @@ Atteinte articulaire et osseuse.
 
 # 1. Pour les arthropathies
 ## 1.1 Trois types à distinguer 
-### "Dégénératif" = absence d'érosions 
+### 1.1.1 "Dégénératif" = absence d'érosions 
 #### Arthrose
 * Atteintes : IPPs et IPDs ++ (mais pas d'atteinte de toute la rangée), trapezométacarpienne 
 * Signes positifs d'arthrose (pincement plutôt focal, ostéophytose, sclérose et +/- géodes mais mauvais signe)
@@ -29,7 +29,7 @@ Atteinte articulaire et osseuse.
 * **Hémochromatose**
   * Comme CCA mais avec ostéophytes des MCPs en ancre marine 
 
-### Rhumatismal inflammatoire = présence d'érosions
+### 1.1.2 Rhumatismal inflammatoire = présence d'érosions
 #### Polyarthrite rhumatoïde : 
 * MCPs 2 et 3 ++++, puis IPPs (**pas les IPDs**)
 *  Erosions :
@@ -41,7 +41,7 @@ Atteinte articulaire et osseuse.
 * IPPs et IPDs +/- MCPs
 * érosions et **constructions**
 * **limites plus nettes** des érosions
-### Destructeur 
+### 1.1.3 Destructeur 
 #### PR sévère 
 #### Rhumastisme psoriasique destructeur 
 #### Arthrose destructrice
