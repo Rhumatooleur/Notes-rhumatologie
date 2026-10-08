@@ -208,10 +208,6 @@
     "collapsed": true,
     "pages": [
       {
-        "name": "1. S'agit-il d'une :",
-        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
-      },
-      {
         "name": "Anatomie",
         "file": "AAA-Radiologie-ostéoarticulaire/Genou.md"
       },
@@ -426,6 +422,10 @@
       {
         "name": "Rhumatisme psoriasique",
         "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/ImagerieRhumPso.md"
+      },
+      {
+        "name": "S'agit-il d'une :",
+        "file": "AAA-Radiologie-ostéoarticulaire/Mains-et-doigts.md"
       },
       {
         "name": "SAPHO",
