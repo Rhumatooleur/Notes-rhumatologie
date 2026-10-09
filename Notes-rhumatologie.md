@@ -9,6 +9,7 @@
 [ACG](AAA-Notes-rhumatologie/ACG.md)
 [Rhumatisme psoriasique](AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)
 [Lupus](AAA-Notes-rhumatologie/Lupus.md)
+[Gougerot](AAA-Notes-rhumatologie/Gougerot.md)
 [Arthrites réactionnelles et autres](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md)
 [Microcristaux ](AAA-Notes-rhumatologie/Microcristaux%2014645f5988be80858fedd6533df900e2.md)
 **Osseux**
