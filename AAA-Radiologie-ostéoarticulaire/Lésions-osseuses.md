@@ -57,9 +57,16 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 **Fibrome chondromyxoïde** 
 
 **Tumeurs à cellules géantes** :  Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. Excentrées, pas de matrice interne, bords nets sans condensation périphérique, os spongieux adjacent intègre, destruction de la corticale osseuse et reconstruction d'une coque périostée continue. 
-**Dysplasie fibreuse :** Tumeur métaphysaire, touchant en premier lieu le col fémoral ou les côtes ; elle est en général de découverte fortuite.
-Sa présentation radiologique est hétérogène avec l’aspect le plus fréquent sous la forme d’une image en « verre dépoli », avec condensation périphérique.
-L’atteinte osseuse peut être monostotique ou polyostotique ; elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « café au lait » et manifestations endocriniennes (notamment diabète phosphaté par sécrétion inappropriée de FGF-23). Elle peut dégénérer dans de très rares cas. Scinti +. 
+**Dysplasie fibreuse :** 
+Tumeur métaphysodiaphysaire, touchant en premier lieu les os longs (le col fémoral ou les côtes ++) ; elle est en général de découverte fortuite.
+Présentation radiologique : 
+* Image centrale
+* Très allongée (normalement pas ronde ou ovale )
+* Contient un « verre dépoli »
+* Liseré de condensation périphérique
+* Scinti +
+L’atteinte osseuse peut être monostotique ou polyostotique
+Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « café au lait » et manifestations endocriniennes (notamment diabète phosphaté par sécrétion inappropriée de FGF-23). Elle peut dégénérer dans de très rares cas.
 
 **ABC**
 
