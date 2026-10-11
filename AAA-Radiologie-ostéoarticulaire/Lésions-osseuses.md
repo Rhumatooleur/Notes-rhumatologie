@@ -56,7 +56,16 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 **Fibrome chondromyxoïde** 
 
-**Tumeurs à cellules géantes** :  Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. Excentrées, pas de matrice interne, bords nets sans condensation périphérique, os spongieux adjacent intègre, destruction de la corticale osseuse et reconstruction d'une coque périostée continue. 
+**Tumeurs à cellules géantes** :  
+Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. 
+Aspect radiologique : 
+* Le centre est exactement sur le cartilage de croissance
+* Excentrées
+* Pas de matrice interne
+* Bords nets sans condensation périphérique
+* Os spongieux adjacent intègre
+* Destruction de la corticale osseuse et reconstruction d'une coque périostée continue.
+
 **Dysplasie fibreuse :** 
 Tumeur métaphysodiaphysaire, touchant en premier lieu les os longs (le col fémoral ou les côtes ++) ; elle est en général de découverte fortuite.
 Présentation radiologique : 
