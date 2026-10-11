@@ -4,14 +4,13 @@
 ### Epiphysaires : 
 * **Pseudo-tumeurs :**
 
-**Géodes d'arthropathie**
+**Géodes d'arthropathie** : arthrose, CCA => regarder l'articulation ! 
 **Erosions**
 **Infections** : Surtout avant 10 ans
 **Kyste mucoïde épiphysaire à clapet ostéochondral :** kyste mucoïde dans l'épiphyse
 
 * **Métastases :**
-
-Leur centre géométrique est souvent métaphysaire puis extension  à l’épiphyse
+Pas vraiment ici : Leur centre géométrique est souvent métaphysaire puis extension  à l’épiphyse
 
 * **Hémopathies :**
 
@@ -20,7 +19,15 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 * **Tumeurs osseuses primitives bénignes :**
 
-**Chondroblastome :** tumeur osseuse bénigne rare, présente dans les extrémités arrondies (épiphyse - centres de croissance secondaires) des os longs des bras et des jambes. Il représente environ 1% de toutes les tumeurs osseuses bénignes et survient généralement chez les adolescents et les jeunes adultes. Aspect = Centre géographique excentré, lacune unique à bords nets  Niveaux liquidiens en IRM. Sans liseré d'ostéocondensation périphérique. Oedème de l'os limitrophe (condensation périphérique à bord flous). 
+**Chondroblastome :** 
+Tumeur osseuse bénigne rare, présente dans les extrémités arrondies (épiphyse - centres de croissance secondaires) des os longs des bras et des jambes. Il représente environ 1% de toutes les tumeurs osseuses bénignes et survient généralement chez les adolescents et les jeunes adultes. 
+
+Aspect : 
+* Centre géographique excentré
+* lacune unique à bords nets
+*  Niveaux liquidiens en IRM.
+*  Sans liseré d'ostéocondensation périphérique.
+* Oedème de l'os limitrophe (condensation périphérique à bord flous). 
 
 **Tumeurs à cellules géantes :** Métaphysaires à extension épiphysaire. 
 
@@ -28,8 +35,10 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 * **Tumeurs osseuses primitives malignes :**
 
-**Chondrosarcome à cellules claires :** Extrêmement rare ! 2% des chondroscarcomes.  Lésions ostéolytiques bien délimitées, souvent localisées à l'épi-métaphyse du fémur ou de l'humérus proximal.
-**Ostéosarcome chondroblastique :** Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
+**Chondrosarcome à cellules claires :** Extrêmement rare ! 2% des chondroscarcomes.  
+Lésions ostéolytiques bien délimitées, souvent localisées à l'épi-métaphyse du fémur ou de l'humérus proximal.
+**Ostéosarcome chondroblastique :**
+Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
   
 ### Metaphysaires : 
 * **Pseudo-tumeurs :**
@@ -58,6 +67,7 @@ Leur centre géométrique est souvent métaphysaire puis extension  à l’épip
 
 **Tumeurs à cellules géantes** :  
 Tumeurs osseuses bénignes qui peuvent se développer de manière agressive et détruire les os proches d'une articulation. 
+
 Aspect radiologique : 
 * Le centre est exactement sur le cartilage de croissance
 * Excentrées
@@ -68,6 +78,7 @@ Aspect radiologique :
 
 **Dysplasie fibreuse :** 
 Tumeur métaphysodiaphysaire, touchant en premier lieu les os longs (le col fémoral ou les côtes ++) ; elle est en général de découverte fortuite.
+
 Présentation radiologique : 
 * Image centrale
 * Très allongée (normalement pas ronde ou ovale )
