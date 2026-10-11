@@ -65,6 +65,7 @@ Présentation radiologique :
 * Contient un « verre dépoli »
 * Liseré de condensation périphérique
 * Scinti +
+
 L’atteinte osseuse peut être monostotique ou polyostotique
 Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « café au lait » et manifestations endocriniennes (notamment diabète phosphaté par sécrétion inappropriée de FGF-23). Elle peut dégénérer dans de très rares cas.
 
