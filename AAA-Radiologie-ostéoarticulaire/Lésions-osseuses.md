@@ -5,9 +5,9 @@
 * **Pseudo-tumeurs :**
 
 **Géodes d'arthropathie** : arthrose, CCA => regarder l'articulation ! 
+**Kyste mucoïde épiphysaire à clapet ostéochondral :** kyste mucoïde ou géode dans l'épiphyse contenant du liquide synovial qui ne peut pas sortir a cause du clapet. => Rechercher la solution de continuité de la corticale. 
 **Erosions**
 **Infections** : Surtout avant 10 ans
-**Kyste mucoïde épiphysaire à clapet ostéochondral :** kyste mucoïde dans l'épiphyse
 
 * **Métastases :**
 Pas vraiment ici : Leur centre géométrique est souvent métaphysaire puis extension  à l’épiphyse
@@ -53,9 +53,22 @@ Sous-type rare et agressif de cancer des os caractérisé par des cellules tumor
 
 * **Tumeurs osseuses primitives bénignes :**
 
-**Kyste osseux essentiel :** Tumeur osseuse bénigne la plus fréquente (90 % des cas dans les deux premières décennies de la vie). Il s’agit d’une dystrophie osseuse kystique uni- ou pluriloculaire, localisée le plus souvent sur la métaphyse/épiphyse des os longs (humérus dans plus 50 % des cas, calcanéum dans 3 % des cas). Lacune diaphysaire ou métaphysaire centrée, sans matrice interne (ou fragments des bords qui se sont fracturés et qui sont à l'intérieur), bords nets sans condensation périphérique, pôle inférieur en "fond de coquetier", encoches endostées, soufflures et ruptures corticales. 
+**Kyste osseux essentiel :** Tumeur osseuse bénigne la plus fréquente (90 % des cas dans les deux premières décennies de la vie). Il s’agit d’une dystrophie osseuse kystique uni- ou pluriloculaire, localisée le plus souvent sur la métaphyse/épiphyse des os longs (humérus dans plus 50 % des cas, calcanéum dans 3 % des cas). 
 
-**Fibrome non ossifiant :** Le fibrome non ossifiant, ou « cortical defect », est une lésion corticale, excentrée, rencontrée chez les enfants et les adultes jeunes. Elle est cernée d’un liseré de condensation périphérique et régresse en se calcifiant avec l’âge.
+Aspect : 
+* Lacune diaphysaire ou métaphysaire centrée
+* Pas de matrice interne (ou fragments des bords qui se sont fracturés et qui sont à l'intérieur)
+* Bords nets sans condensation périphérique
+* Pôle inférieur en "fond de coquetier"
+* Encoches endostées
+* Soufflures et ruptures corticales. 
+
+**Fibrome non ossifiant :** Le fibrome non ossifiant, ou « cortical defect », est une lésion corticale, rencontrée chez les enfants et les adultes jeunes. Elle régresse en se calcifiant avec l’âge.
+
+Aspect : 
+* Lacune collée à un endoste donc excentrée (mais il faut deux incidences pour le voir)
+* Polylobée
+* Limitée par de la condensation à bords nets sur ses deux versants = cerclée 
 
 **Exostose (ou ostéochondrome) :** Tumeur sessile ou pédiculée réalisant une image d’addition, naît perpendiculairement à la métaphyse et se dirige vers la diaphyse. Elle est dotée d’une coiffe cartilagineuse parfois calcifiée. Elle est asymptomatique. La survenue de douleurs inflammatoires doit faire craindre une dégénérescence sarcomateuse qui ne se produit guère que dans les formes multiples.
 
