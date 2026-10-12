@@ -376,6 +376,10 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Pied/Piedplatvalgus.md"
       },
       {
+        "name": "Plan = Rechercher des signes d'activité et d'agressivité",
+        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
+      },
+      {
         "name": "Poignet",
         "file": "AAA-Radiologie-ostéoarticulaire/Poignet.md"
       },
@@ -422,10 +426,6 @@
       {
         "name": "Radiographie",
         "file": "AAA-Radiologie-ostéoarticulaire/RhumPso.md"
-      },
-      {
-        "name": "Rechercher des signes d'activité et d'agressivité",
-        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
       },
       {
         "name": "Rhumatisme psoriasique",
