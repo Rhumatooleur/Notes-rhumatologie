@@ -15,6 +15,7 @@
 ## Plan = Rechercher des signes d'activité et d'agressivité dans ces 4 catégories
 ### 1) Limites
 Est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
+Classification de Lodwick
 ### 2) Corticale et réaction périostée :
   * Hyperostose :
     * Epaississement de la corticale de l'os
