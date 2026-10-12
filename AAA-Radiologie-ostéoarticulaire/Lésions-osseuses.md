@@ -1,7 +1,33 @@
-# Lésions osseuses
 
-## Images lacunaires 
-### Epiphysaires : 
+
+</details>
+<details> <summary><h1>Plan d'interprétation d'une lésion osseuse unique radiotransparente </h1></summary> 
+
+## Rechercher des signes d'activité et d'agressivité 
+### 4 signes d'agressivité 
+**Limites**
+| Caractéristique | 1A1 | 1A2 | 1B  | 1C  | 2   | 3   |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Aspect radiologique** | Lacune unique à limites nettes, cerclée d'un liseré de condensation net sur ses 2 versants | Lacune unique à limites nettes, entourée d'une condensation progressivement dégressive vers l'os normal | Lacune unique à limites nettes, non condensées | Lacune unique à limites floues avec zone de transition avec l'os normal | Lacunes multiples confluentes à limites floues, aspect d'os mité ("moth-eaten") en spongieux et cortical | Cortical feuilletée ("perméative") |
+| **Mécanisme** | —   | Réaction condensante péri-lésionnelle | Absence de réaction de l'os environnant | Infiltration lésionnelle | Infiltration lésionnelle diffuse | Augmentation de calibre des canaux de Havers (hypervascularisation ou infiltration) |
+| **Diagnostics évoqués** | Lésion quiescente fibreuse, kystes et lipomes intra-osseux | Ostéite infectieuse (abcès de Brodie), ostéite aseptique, ostéome ostéoïde, ostéoblastome, chondroblastome | Kyste essentiel | Lésion tumorale ou infectieuse infiltrante | Processus agressif infiltrant | Processus agressif infiltrant |
+| **Activité** | Quiescente | Quiescente | Quiescente | Active | Active | Active |
+**Réaction de l'os adjecent**
+  * Réaction périostée
+  * Réaction de l'endoste
+
+**Soufflure**
+**Envahissement des parties molles**
+
+### 3 signes d'activité 
+**
+
+
+</details>
+<details> <summary><h1>Principales images lacunaires uniques en fonction de leur localisation </h1></summary> 
+
+
+## Lacunes épiphysaires : 
 * **Pseudo-tumeurs :**
 
 **Géodes d'arthropathie** : arthrose, CCA => regarder l'articulation ! 
@@ -40,7 +66,7 @@ Lésions ostéolytiques bien délimitées, souvent localisées à l'épi-métaph
 **Ostéosarcome chondroblastique :**
 Sous-type rare et agressif de cancer des os caractérisé par des cellules tumorales malignes qui fabriquent à la fois du tissu osseux et une matrice semblable à du cartilage (tissu chondroïde). Il touche préférentiellement les adolescents et les jeunes adultes au niveau des os longs. 
   
-### Metaphysaires : 
+## Lacunes métaphysaires : 
 * **Pseudo-tumeurs :**
 
 **Ostéomyélite**
@@ -109,7 +135,7 @@ Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « c
 **Chondrosarcome**
 **Ostéosarcome** 
 
-### Diaphysaires  : 
+## Lacunes diaphysaires  : 
 * **Pseudo-tumeurs :**
 
 **Ostéomyélite infectieuse :** Lacune diaphysaire excentrée, matrice interne hyper T1 spontané, bords nets sans condensation périphérique, oedème osseux périphérique, rupture corticale et masse des parties molle. 
@@ -149,13 +175,14 @@ Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « c
 
 **Angiosarcome**
 
-## Images condensantes
+</details>
+<details> <summary><h1>Plan d'interprétation d'une lésion osseuse unique condensante </h1></summary> 
 
-### Condensation bénigne au scanner :
+## Condensation bénigne au scanner :
 
 - parfaitement homogène, très dense (autant que la corticale osseuse)
 
-### Condensation suspecte :**
+## Condensation suspecte :**
 
 - Densité inférieure à celle de la corticale
 - Densité inférieure à 980 UH
@@ -163,12 +190,19 @@ Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « c
 - Irrégularités de la corticale
 - T2 DIXON permet de voir la graisse en hypersignal
 
-## Remplacement médullaire diffus en IRM rachidienne  :
+</details>
+<details> <summary><h1>Principales images condensantes uniques
+</h1></summary> 
+
+</details>
+<details> <summary><h1>Remplacement médullaire </h1></summary> 
+
+## Aspect en IRM rachidienne  :
 
 Égalisation du signal entre les vertèbres et les disques (alors que normalement les disques sont moins intenses que la moelle osseuse), voire hyposignal médullaire comparé aux disques. 
 => Surtout avec l'âge 80% graisse dans la moelle donc hyperintense normalement
 
-### Causes de remplacement médullaire diffus :
+## Causes de remplacement médullaire diffus :
 - Néoplasies
   - Myélome et lymphomes (et n'épargnent pas l'épiphyse fémorale)
   - LLC, LMC, LAM, LAL
@@ -183,19 +217,20 @@ Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « c
   - Personnes vivant en altitude (hypoxie)
   - ...
 
-## Angiomes
+</details>
+<details> <summary><h1>Angiomes </h1></summary> 
 
-### Angiomes simples  :
+## Angiomes simples  :
 
 - Aspect grillagé, avec travées osseuses visibles en T1
 - Bords nets
 
-### Petit angiome :
+## Petit angiome :
 
 - A proximité des veines au milieu de la vertèbre
 - Composante graisseuse
 
-### Angiome agressif :
+## Angiome agressif :
 
 - Interruption corticale
 - Augmentation rapide de la taille
