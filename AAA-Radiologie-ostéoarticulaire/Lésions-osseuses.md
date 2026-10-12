@@ -8,11 +8,13 @@
 **Limites** = est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
 **Corticale et réaction périostée**
   * Hyperostose :
-    * Elargissement de l'os
-    * Encoches endostées
-  * Réaction périostée lamellaire
-  * Soufflure corticale
-  * Rupture corticale
+    * Epaississement de la corticale de l'os
+    * Epaississement + Encoches endostées
+* Réaction périostée lamellaire :
+  * Unique
+  * Multiple
+* Soufflure corticale
+* Rupture corticale
 **Condensation**
 **Envahissement des parties molles**
 
@@ -35,6 +37,25 @@
 ![image](.attachments/5b467241de89004cb9ab6737b243d7d3f1e326a1.png) 
 
 ## 2) Corticale et réaction périostée 
+### Hyperostose :
+Si simple épaississement de la corticale de l'os avec **respect de l'endoste** alors c'est un processus plutôt quiescent. 
+
+Si épaississement associé à des **encoches endostées** ou un **élargissement de la cavité médullaire** : **Signe d'agressivité** ou du moins d'un processus "lentement actif"
+### Réaction périostée lamellaire : 
+Toutes les réaction périostées lamellaires témoignent d'un processsus récent (actif). 
+L'important pour l'agressivité c'est le caractère uni ou plurilamellaire. 
+#### Unilamellaire = actif mais principalement bénin :
+**Pseudotumeurs :** 
+* Ostéomyélite aigue
+* Granulome éosinophile
+* Fissure osseuse
+* Infarctus osseux
+  
+**Tumeurs primitives bénignes :** Ostéome-ostéoïde
+#### Plurilamellaires = agressif : 
+#### Perpendiculaires à la corticale en "feu d'herbe" = agressif : 
+### Soufflure corticale : 
+### Rupture corticale : 
 ## 3) Condensation
 ## 4) Envahissement des parties molles
 </details>
@@ -146,7 +167,11 @@ Elle peut faire partie du syndrome de McCune-Albright avec taches cutanées « c
 
 * **Tumeurs osseuses primitives malignes :**
 
-**Chondrosarcome**
+**Chondrosarcome:**
+Groupe hétérogène de tumeurs cartilagineuses malignes qui touchent le plus souvent les patients âgés. Ils peuvent apparaître de novo ou à la suite d'une néoplasie cartilagineuse bénigne préexistante. 
+
+Présentation radiologique : la clé pour les reconnaître est l'élargissement de la cavité médullaire ou les encoches endostées car les autres signes d'activité sont peu présents (lésions d'évolution lente) 
+
 **Ostéosarcome** 
 
 ## Lacunes diaphysaires  : 
