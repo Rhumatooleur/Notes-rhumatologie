@@ -81,7 +81,7 @@ Encore plus si la lésion osseuse est très peu visible et qu'il n'y a pas de ru
 ### Soufflure corticale : 
 Amincissement = agressif 
 Amincissement + destruction = très agressif
-
+#### Gamme des lésions soufflantes
 **Pseudotumeurs :** 
 * Infections : tuberculose
 * Oses : angiomatose, angiome
