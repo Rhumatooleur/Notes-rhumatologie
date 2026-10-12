@@ -212,6 +212,10 @@
     "collapsed": true,
     "pages": [
       {
+        "name": "4 signes d'agressivité",
+        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
+      },
+      {
         "name": "Anatomie",
         "file": "AAA-Radiologie-ostéoarticulaire/Genou.md"
       },
@@ -374,10 +378,6 @@
       {
         "name": "Pied plat valgus",
         "file": "AAA-Radiologie-ostéoarticulaire/Pied/Piedplatvalgus.md"
-      },
-      {
-        "name": "Plan = Rechercher des signes d'activité et d'agressivité dans ces 4 catégories",
-        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
       },
       {
         "name": "Poignet",
