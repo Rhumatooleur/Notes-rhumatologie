@@ -320,10 +320,6 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Lésions-musculaires-traumatiques.md"
       },
       {
-        "name": "Lésions osseuses",
-        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
-      },
-      {
         "name": "Maladie de Forestier",
         "file": "AAA-Radiologie-ostéoarticulaire/Maladie-de-Forestier.md"
       },
@@ -426,6 +422,10 @@
       {
         "name": "Radiographie",
         "file": "AAA-Radiologie-ostéoarticulaire/RhumPso.md"
+      },
+      {
+        "name": "Rechercher des signes d'activité et d'agressivité",
+        "file": "AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md"
       },
       {
         "name": "Rhumatisme psoriasique",
