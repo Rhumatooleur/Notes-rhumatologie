@@ -3,6 +3,15 @@
 </details>
 <details> <summary><h1>Plan d'interprétation d'une lésion osseuse unique radiotransparente </h1></summary> 
 
+## 4 signes d'agressivité
+* Limites floues, mitées, perméatives, = types 1C, 2 et 3 de la classification de Lodwick.
+* Réaction périostée plurilamellaire, spiculée en feu d'herbe
+* Soufflure corticale avec rupture / Destruction corticale
+* Envahissement des tissus voisons
+## 3 signes d'activité 
+* Réaction périostée unilamellaire
+* Encoches endostées
+* Soufflure corticale (sans destruction)
 ## Plan = Rechercher des signes d'activité et d'agressivité dans ces 4 catégories
 ### 1) Limites
 Est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
@@ -22,23 +31,18 @@ Est-ce que je peux savoir où la lésion s'arrête exactement sur tout son conto
 * Tissus mous
 * Articulations
 
-## 4 signes d'agressivité
-* Limites floues, mitées, perméatives, = types 1C, 2 et 3 de la classification de Lodwick.
-* Réaction périostée plurilamellaire, spiculée en feu d'herbe
-* Soufflure corticale avec rupture / Destruction corticale
-* Envahissement des tissus voisons
-## 3 signes d'activité 
-* Réaction périostée unilamellaire
-* Encoches endostées
-* Soufflure corticale (sans destruction)
+## Prise de décision : 
+### Si au moins 1 signe d'activité ou d'agressivité = biopsie !!!
+Sauf si arguments francs pour une cause infectieuse évidente bien sûr ou autre site + accessible. 
+### Si aucun signe d'activité ou d'agressivité + clinique, ATCDs et biologie normale = surveillance 
 
 ## 1) Limites 
   **Classification de Lodwick adaptée par JD Laredo**
 ![image](.attachments/20e4ea0a5b64eebb030961f9f26ddad43110a9ce.png) 
 | Type | Aspect radiologique | Signification / diagnostics évoqués | Activité |
 | --- | --- | --- | --- |
-| **1A1** | Lacune unique (géographique) à **limites nettes**, condensées, cerclées d'un liseré de condensation net sur ses 2 versants | Lésion quiescente fibreuse, kystes et lipomes intra-osseux | Quiescente |
-| **1A2** | Lacune unique (géographique) à **limites nettes**, entourée d'une condensation progressivement dégressive vers l'os normal | Lacune inflammatoire : ostéite infectieuse (abcès de Brodie), ostéite aseptique, ostéome ostéoïde, ostéoblastome, chondroblastome | Quiescente |
+| **1A1** | Lacune unique (géographique) à **limites nettes**, condensées, cerclées d'un liseré de condensation net sur ses 2 versants | Lésions quiescentes fibreuses (dysplasie fibreuse, fibrome non ossifian), kystes et lipomes intra-osseux | Quiescente |
+| **1A2** | Lacune unique (géographique) à **limites nettes**, entourée d'une condensation progressivement dégressive vers l'os normal | Lacune **inflammatoire** : Pseudo-tumeurs (ostéite infectieuse = abcès de Brodie, ostéite aseptique, histiocytose langheransienne), métastases, hémopathies (myélome, lymphome), tumeurs primitives bénignes (ostéome ostéoïde, ostéoblastome, chondroblastome) tumeurs primitives malignes (ostéosarcome) | Quiescente |
 | **1B** | Lacune unique (géographique) à **limites nettes**, non condensées | Processus quiescent sans réaction de l'os environnant (ex. kyste essentiel) | Quiescente |
 | **1C** | Lacune unique (géographique) à **limites floues**, progressives, avec zone de transition avec l'os normal | Lésion infiltrante tumorale ou infectieuse | Active |
 | **2** | Lacunes multiples confluentes à **limites floues**, aspect d'os mité ("moth-eaten") en os spongieux et cortical | Processus agressif (infiltration) | Active |
