@@ -282,6 +282,7 @@ Présentation radiologique :
 - Bords flous mal délimités
 - Irrégularités de la corticale
 - T2 DIXON permet de voir la graisse en hypersignal
+## 
 
 </details>
 <details> <summary><h1>Principales images condensantes uniques
