@@ -240,11 +240,10 @@ Présentation radiologique :
 
 **Infarctus osseux** Scinti + 
 
-**Fissures longitudinales :**
+**Fissures longitudinales**
 
 * **Hémopathies :**
 
-  
 **Myélome**
 
 **Plasmocytome solitaire**
