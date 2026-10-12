@@ -28,7 +28,7 @@ Classification de Lodwick
 * Rupture corticale
 
 ### 3) Condensation
-### 4) Envahissement des tissus voisons
+### 4) Envahissement des tissus voisins
 * Tissus mous
 * Articulations
 
