@@ -3,26 +3,40 @@
 </details>
 <details> <summary><h1>Plan d'interprétation d'une lésion osseuse unique radiotransparente </h1></summary> 
 
-## Rechercher des signes d'activité et d'agressivité 
+## Plan = Rechercher des signes d'activité et d'agressivité 
 ### 4 signes d'agressivité 
-**Limites**
-| Caractéristique | 1A1 | 1A2 | 1B  | 1C  | 2   | 3   |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Aspect radiologique** | Lacune unique à limites nettes, cerclée d'un liseré de condensation net sur ses 2 versants | Lacune unique à limites nettes, entourée d'une condensation progressivement dégressive vers l'os normal | Lacune unique à limites nettes, non condensées | Lacune unique à limites floues avec zone de transition avec l'os normal | Lacunes multiples confluentes à limites floues, aspect d'os mité ("moth-eaten") en spongieux et cortical | Cortical feuilletée ("perméative") |
-| **Mécanisme** | —   | Réaction condensante péri-lésionnelle | Absence de réaction de l'os environnant | Infiltration lésionnelle | Infiltration lésionnelle diffuse | Augmentation de calibre des canaux de Havers (hypervascularisation ou infiltration) |
-| **Diagnostics évoqués** | Lésion quiescente fibreuse, kystes et lipomes intra-osseux | Ostéite infectieuse (abcès de Brodie), ostéite aseptique, ostéome ostéoïde, ostéoblastome, chondroblastome | Kyste essentiel | Lésion tumorale ou infectieuse infiltrante | Processus agressif infiltrant | Processus agressif infiltrant |
-| **Activité** | Quiescente | Quiescente | Quiescente | Active | Active | Active |
-**Réaction de l'os adjecent**
-  * Réaction périostée
-  * Réaction de l'endoste
-
-**Soufflure**
+**Limites** = est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
+**Corticale et réaction périostée**
+  * Hyperostose :
+    * Elargissement de l'os
+    * Encoches endostées
+  * Réaction périostée lamellaire
+  * Soufflure corticale
+  * Rupture corticale
+**Condensation**
 **Envahissement des parties molles**
 
 ### 3 signes d'activité 
 **
 
+## 1) Limites 
+  **Classification de Lodwick adaptée par JD Laredo**
+![image](.attachments/20e4ea0a5b64eebb030961f9f26ddad43110a9ce.png) 
+| Type | Aspect radiologique | Signification / diagnostics évoqués | Activité |
+| --- | --- | --- | --- |
+| **1A1** | Lacune unique (géographique) à **limites nettes**, condensées, cerclées d'un liseré de condensation net sur ses 2 versants | Lésion quiescente fibreuse, kystes et lipomes intra-osseux | Quiescente |
+| **1A2** | Lacune unique (géographique) à **limites nettes**, entourée d'une condensation progressivement dégressive vers l'os normal | Lacune inflammatoire : ostéite infectieuse (abcès de Brodie), ostéite aseptique, ostéome ostéoïde, ostéoblastome, chondroblastome | Quiescente |
+| **1B** | Lacune unique (géographique) à **limites nettes**, non condensées | Processus quiescent sans réaction de l'os environnant (ex. kyste essentiel) | Quiescente |
+| **1C** | Lacune unique (géographique) à **limites floues**, progressives, avec zone de transition avec l'os normal | Lésion infiltrante tumorale ou infectieuse | Active |
+| **2** | Lacunes multiples confluentes à **limites floues**, aspect d'os mité ("moth-eaten") en os spongieux et cortical | Processus agressif (infiltration) | Active |
+| **3** | Cortical feuilletée ("perméative") par augmentation de calibre des canaux de Havers | Hypervascularisation ou infiltration lésionnelle | Active |
 
+
+![image](.attachments/5b467241de89004cb9ab6737b243d7d3f1e326a1.png) 
+
+## 2) Corticale et réaction périostée 
+## 3) Condensation
+## 4) Envahissement des parties molles
 </details>
 <details> <summary><h1>Principales images lacunaires uniques en fonction de leur localisation </h1></summary> 
 
