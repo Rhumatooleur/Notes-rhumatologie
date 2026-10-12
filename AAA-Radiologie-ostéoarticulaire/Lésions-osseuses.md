@@ -3,23 +3,34 @@
 </details>
 <details> <summary><h1>Plan d'interprétation d'une lésion osseuse unique radiotransparente </h1></summary> 
 
-## Plan = Rechercher des signes d'activité et d'agressivité 
-### 4 signes d'agressivité 
-**Limites** = est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
-**Corticale et réaction périostée**
+## Plan = Rechercher des signes d'activité et d'agressivité dans ces 4 catégories
+### 1) Limites
+Est-ce que je peux savoir où la lésion s'arrête exactement sur tout son contour ou pas ? 
+### 2) Corticale et réaction périostée :
   * Hyperostose :
     * Epaississement de la corticale de l'os
     * Epaississement + Encoches endostées
 * Réaction périostée lamellaire :
   * Unique
   * Multiple
+  * En feu d'herbe
 * Soufflure corticale
 * Rupture corticale
-**Condensation**
-**Envahissement des parties molles**
 
-### 3 signes d'activité 
-**
+### 3) Condensation
+### 4) Envahissement des tissus voisons
+* Tissus mous
+* Articulations
+
+## 4 signes d'agressivité
+* Limites floues, mitées, perméatives, = types 1C, 2 et 3 de la classification de Lodwick.
+* Réaction périostée plurilamellaire, spiculée en feu d'herbe
+* Soufflure corticale avec rupture / Destruction corticale
+* Envahissement des tissus voisons
+## 3 signes d'activité 
+* Réaction périostée unilamellaire
+* Encoches endostées
+* Soufflure corticale (sans destruction)
 
 ## 1) Limites 
   **Classification de Lodwick adaptée par JD Laredo**
@@ -54,10 +65,42 @@ L'important pour l'agressivité c'est le caractère uni ou plurilamellaire.
 **Tumeurs primitives bénignes :** Ostéome-ostéoïde
 #### Plurilamellaires = agressif : 
 #### Perpendiculaires à la corticale en "feu d'herbe" = agressif : 
+Encore plus si la lésion osseuse est très peu visible et qu'il n'y a pas de rupture corticale  => aspect **tumeur in / tumeur out** c'est à dire tellement agressif et infiltratif que n'a pas le temps de détruire l'os. 
+=> l'image la plus agressive c'est celle qu'on ne voit pas ! 
+
+**Tumeurs primitives :** 
+* Sarcomes d'Ewing
+* Certains ostéosarcomes.
+  
+**Hémopathies** : Lymphomes
 ### Soufflure corticale : 
+Amincissement = agressif 
+Amincissement + destruction = très agressif
+
+**Pseudotumeurs :** 
+* Infections : tuberculose
+* Oses : angiomatose, angiome
+* Scinti + : dysplasie fibreuse des os
+* Tumeurs brunes (hyperparathyroïdie)
+  
+**Métastases :** Rein, thyroïde
+**Hémopathies** : myélome
+**Tumeurs primitives :** 
+* TCG
+* Ostéoblastome
+* Chrondrome
+* Chondrosarcome
+
 ### Rupture corticale : 
+**Réflexe numéro 1 = Infections**
+
+**+/- Tumeurs primitives agressives**
 ## 3) Condensation
-## 4) Envahissement des parties molles
+## 4) Envahissement des tissus voisins
+
+* Tissus mous
+* Articulations
+
 </details>
 <details> <summary><h1>Principales images lacunaires uniques en fonction de leur localisation </h1></summary> 
 
@@ -181,7 +224,14 @@ Présentation radiologique : la clé pour les reconnaître est l'élargissement 
 
 **Ostéomyélite aseptique :** Rare dans le SAPHO, bcp plus fréquent dans l'ostéomyélite aseptique multifocale de l'enfant. 
 
-**Histiocytose liée à l'X = langerhansienne :** Maladie systémique rare caractérisée par l'accumulation (généralement organisée en granulomes) de macrophages présentant les caractéristiques des cellules de Langerhans dans divers tissus. Lacune diaphysaire excentrée, à bords nets sans condensation périphérique, oedème osseux péri lésionnel, encoches endostées et amincissement cortical. 
+**Histiocytose liée à l'X = langerhansienne :** Maladie systémique rare caractérisée par l'accumulation (généralement organisée en **granulomes à éosinophiles**) de macrophages présentant les caractéristiques des cellules de Langerhans dans divers tissus. 
+
+Présentation radiologique : 
+* Lacune diaphysaire excentrée
+* Bords nets sans condensation périphérique
+* Oedème osseux péri lésionnel
+* Réaction périostée unilamellaire
+* Encoches endostées et amincissement cortical. 
 
 **Infarctus osseux** Scinti + 
 
