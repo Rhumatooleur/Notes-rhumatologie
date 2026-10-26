@@ -28,11 +28,11 @@ Colchicine au long cours
 </details>
 
 </details>
-<details> <summary><h1> Hydoxyapathite </h1></summary> 
+<details> <summary><h1> Rhumatisme à apathite </h1></summary> 
 
 ## Formes cliniques 
 ### Primitives
-### Secondaires : 
+### Secondaires à : 
 **Insuffisance rénale terminale avec hyperphosphorémie**
 **Hypophosphatasie** : 
 * Une hypophosphatasie doit être cherchée chez les patients présentant une maladie des calcifications tendineuses multiples et des déchaussages de dents ou des anomalies osseuses telles que rachitisme ou ostéomalacie
