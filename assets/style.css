@@ -164,7 +164,7 @@ body {
     margin-left: var(--sidebar-width);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start; ;
 }
 
 .content-header {
