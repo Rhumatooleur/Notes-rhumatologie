@@ -1,15 +1,22 @@
-# Goutte
-## Objectif 
+</details>
+<details> <summary><h1>Goutte  </h1></summary> 
+  
+## Objectifs du traitement  
 Goutte classique : 300 micromol/l 
 Goutte tophacée sévère : 240 micromol/l 
 ## Traitement 
+### Goutte et DFG normal
 ### Goutte et DFG < 30 
 Traitement de crise => anakinra
 Prophylaxie par colchicine 0.5mg 1 jour sur 2 
 Traitement de fond par febuxostat 
 ![image](.attachments/9526c898224bf927d1384cd58ae152427cb36d92.jpg) 
 
-# CCA
+</details>
+
+</details>
+<details> <summary><h1>Rhumatisme à PPC  </h1></summary> 
+
 ## Traitement 
 ### Formes classiques
 ### Formes chroniques persistantes 
@@ -17,7 +24,12 @@ Colchicine au long cours
 +/- Prednisone faible dose au long cours 
 +/- Tocilizumab 
 (Anakinra ne fonctionne pas)
-# Hydroxyapatite
+
+</details>
+
+</details>
+<details> <summary><h1> Hydoxyapathite </h1></summary> 
+
 ## Formes cliniques 
 ### Primitives
 ### Secondaires : 
@@ -44,3 +56,4 @@ Mais parfois possibilité de **formes chroniques** => tendinite chronique ou ép
 5) **En dernier recours = Chirurgie :**
       - Formes invalidentes résistantes aux autres traitements depuis 1 an
       - Exérèse +/- résection du ligament acromiocoracoïdien et acromioplastie
+</details>
