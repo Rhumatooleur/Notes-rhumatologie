@@ -42,6 +42,11 @@ Colchicine au long cours
 ### Formes chroniques : 
 **Normalement les crises aigues évoluent favorablement**
 Mais parfois possibilité de **formes chroniques** => tendinite chronique ou épaississement du tendon → conflit antérosupérieur
+### Milwaukee shoulder
+Chez une patiente âgée → apparition progressive d’une tuméfaction douloureuse de l’épaule avec perte de fonction et épanchement articulaire hémorragique. => arthropathie destructrice (avec microcristaux d’hydroxy-apatite).
+Une bilatéralité est retrouvée dans plus de la moitié des cas. 
+Synonyme = épaule hémorragique sénile
+
 ## Prise en charge 
 ### Traitement des calcifications de l'épaule
 1) **Médical seul (AINS)** => normalement évolution spontanément favorable
