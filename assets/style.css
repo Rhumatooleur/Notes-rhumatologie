@@ -13,6 +13,24 @@
     --color-sidebar: #f6f8fa;
     --sidebar-width: 280px;
     --transition: 0.3s ease-in-out;
+    --color-code-bg: rgba(175, 184, 193, 0.2);
+    --color-pre-bg: #f6f8fa;
+    --color-scrollbar: #d0d7de;
+    --color-scrollbar-hover: #8c959f;
+}
+
+/* Mode sombre */
+html[data-theme="dark"] {
+    --color-primary: #4493f8;
+    --color-bg: #0d1117;
+    --color-border: #30363d;
+    --color-text: #e6edf3;
+    --color-text-light: #8b949e;
+    --color-sidebar: #161b22;
+    --color-code-bg: rgba(110, 118, 129, 0.4);
+    --color-pre-bg: #161b22;
+    --color-scrollbar: #30363d;
+    --color-scrollbar-hover: #484f58;
 }
 
 body {
@@ -65,6 +83,8 @@ body {
     border-radius: 6px;
     font-size: 0.875rem;
     font-family: inherit;
+    color: var(--color-text);
+    background-color: var(--color-bg);
 }
 
 .search-box input:focus {
@@ -214,14 +234,14 @@ body {
 }
 
 #content code {
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: var(--color-code-bg);
     padding: 0.2em 0.4em;
     border-radius: 3px;
     font-size: 0.85em;
 }
 
 #content pre {
-    background-color: #f6f8fa;
+    background-color: var(--color-pre-bg);
     border: 1px solid var(--color-border);
     border-radius: 6px;
     padding: 1rem;
@@ -340,10 +360,64 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #d0d7de;
+    background-color: var(--color-scrollbar);
     border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #8c959f;
+    background-color: var(--color-scrollbar-hover);
+}
+
+
+/* Boutons d'en-tête (retour, thème) */
+.header-actions {
+    margin-left: auto;
+    display: flex;
+    gap: 0.25rem;
+}
+
+.header-btn {
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    font-size: 1rem;
+    padding: 0.35rem 0.6rem;
+    cursor: pointer;
+    color: var(--color-text);
+    line-height: 1;
+    transition: all var(--transition);
+}
+
+.header-btn:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+}
+
+/* Ajustements du contenu markdown en mode sombre */
+html[data-theme="dark"] .markdown-body {
+    color: var(--color-text);
+    background-color: transparent;
+}
+
+html[data-theme="dark"] .markdown-body table th,
+html[data-theme="dark"] .markdown-body table td {
+    background-color: transparent;
+    border-color: var(--color-border);
+    color: var(--color-text);
+}
+
+html[data-theme="dark"] .markdown-body pre {
+    background-color: var(--color-pre-bg);
+    border-color: var(--color-border);
+}
+
+html[data-theme="dark"] .markdown-body code {
+    background-color: var(--color-code-bg);
+}
+
+html[data-theme="dark"] .markdown-body blockquote,
+html[data-theme="dark"] .markdown-body h1,
+html[data-theme="dark"] .markdown-body h2 {
+    border-color: var(--color-border);
+    color: var(--color-text);
 }
