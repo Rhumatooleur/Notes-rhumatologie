@@ -13,8 +13,70 @@ let navStructure = [];
 let currentFile = null;
 let filterText = '';
 
+// Fichier par défaut (sommaire)
+const DEFAULT_FILE = 'Notes-rhumatologie.md';
+
+// Historique de navigation pour le bouton retour
+let pageHistory = [];
+
+// ===== Thème clair / sombre =====
+const THEME_KEY = 'rhumato-theme';
+
+function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    const hljsLight = document.getElementById('hljs-light');
+    const hljsDark = document.getElementById('hljs-dark');
+    if (hljsLight && hljsDark) {
+        hljsLight.disabled = (theme === 'dark');
+        hljsDark.disabled = (theme !== 'dark');
+    }
+    const themeBtn = document.getElementById('themeBtn');
+    if (themeBtn) {
+        themeBtn.textContent = (theme === 'dark') ? '☀️' : '🌙';
+        themeBtn.title = (theme === 'dark') ? 'Mode clair' : 'Mode sombre';
+    }
+}
+
+function initTheme() {
+    let saved = null;
+    try { saved = localStorage.getItem(THEME_KEY); } catch (err) {}
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(saved || (prefersDark ? 'dark' : 'light'));
+}
+
+function toggleTheme() {
+    const current = (document.documentElement.getAttribute('data-theme') === 'dark') ? 'dark' : 'light';
+    const next = (current === 'dark') ? 'light' : 'dark';
+    try { localStorage.setItem(THEME_KEY, next); } catch (err) {}
+    applyTheme(next);
+}
+
+// ===== Navigation (bouton retour) =====
+function updateBackButton() {
+    const backBtn = document.getElementById('backBtn');
+    if (backBtn) {
+        backBtn.style.visibility = (pageHistory.length > 0) ? 'visible' : 'hidden';
+    }
+}
+
+function goBack() {
+    if (pageHistory.length > 0) {
+        history.back();
+    } else {
+        loadPage(DEFAULT_FILE, 'Sommaire');
+    }
+}
+
+function handlePopState(event) {
+    const file = (event.state && event.state.file) ? event.state.file : DEFAULT_FILE;
+    if (pageHistory.length > 0) { pageHistory.pop(); }
+    loadPage(file, null, true);
+}
+
 // Initialisation
 document.addEventListener('DOMContentLoaded', () => {
+    // Initialiser le thème (clair/sombre)
+    initTheme();
     // Charger la structure de navigation d'abord
     loadNavStructure();
 });
@@ -130,8 +192,17 @@ function toggleGroup(groupDiv, index) {
 }
 
 // Charger une page
-async function loadPage(file, displayName = null) {
+async function loadPage(file, displayName = null, fromPop = false) {
+    if (!fromPop) {
+        if (currentFile && currentFile !== file) {
+            pageHistory.push(currentFile);
+            try { history.pushState({ file: file }, '', '#' + encodeURIComponent(file)); } catch (err) {}
+        } else if (!currentFile) {
+            try { history.replaceState({ file: file }, '', '#' + encodeURIComponent(file)); } catch (err) {}
+        }
+    }
     currentFile = file;
+    updateBackButton();
     const contentDiv = document.getElementById('content');
 
     // Mise à jour de l'état actif dans la navigation
@@ -224,6 +295,15 @@ function setupEventListeners() {
         filterText = e.target.value.toLowerCase();
         filterNavigation();
     });
+
+    // Bascule du thème clair/sombre
+    document.getElementById('themeBtn').addEventListener('click', toggleTheme);
+
+    // Bouton retour (flèche en haut à droite)
+    document.getElementById('backBtn').addEventListener('click', goBack);
+
+    // Bouton retour du navigateur
+    window.addEventListener('popstate', handlePopState);
 
     // Fermer la sidebar quand on clique sur le contenu principal (mobile)
     document.getElementById('content').addEventListener('click', () => {
