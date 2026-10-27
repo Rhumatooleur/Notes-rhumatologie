@@ -18,6 +18,31 @@ Une scoliose est une déformation tridimensionnelle permanente du rachis. Elle p
 |     | **Neuromusculaires** : myopathies, maladie de Charcot-Marie |
 |     | **Infectieuses** : mal de Pott (spondylodiscite tuberculeuse) |
 |     | **Autres** : neurofibromatoses, dystrophiques, génétiques |
+## Interrogatoire 
+**Assymptomatique** ou accompagnée de douleurs mécaniques
+**Eliminer une cause secondaire** : infectieuse, tumorale => AEG, fièvre, horaire inflammatoire
+## Examen physique 
+Taille en position debout / en position assise
+**Recherche d'une gibbosité**
+**Examen en position assise** => disparition de l'attitude scoliotique mais pas de la scoliose
+**Rechercher une ILMI** via asymétrie de hauteur des crêtes iliaques
+**Rechercher une rétraction des adducteurs**
+**Eliminer une cause secondaire** : neurologique, examen cutané (laxité cutanée = Marfan, tâches café au lait = neurofibromatose, fossette sacrococcygienne ou pilosité ectopique = anomalie médullaire), examen ophtalmo (strabisme, ophtalmoplégie)
+## Examens complémentaires 
+* Télérachis et système EOS + télémétrie des membres inférieurs si suspicion d'attitude scoliotique :
+  * **Angle de Cobb** : angle formé par la tangente au bord supérieur de la vertèbre limite supérieure (vertèbre proximale la plus inclinée) et la tangente au bord inférieur de la vertèbre limite inférieure (vertèbre distale la plus inclinée).
+  * **Le côté de la courbure est défini par le côté convexe**, ainsi la scoliose est thoracique droite, si la convexité de la courbure thoracique se situe à droite.
+* IRM en cas :
+  * de rachialgies chroniques associées
+  * d'anomalies de l'examen (suspicion cause médullaire, tâches café au lait)
+* En pré-opératoire : Scanner et IRM
+
+A noter pour les radios simples : La rotation vertébrale s’apprécie sur la radiographie par l’asymétrie de taille des pédicules vertébraux et le positionnement excentré de l’épineuse par rapport au corps vertébral
+## Traitement 
+**Rééducation** : pas d'efficacité démontrée mais rôle d'accompagnement et PEC des troubles posturaux associés
+**Corset**:  uniquement indiqué **avant la fin de la croissance** pour éviter une aggravation ! 
+**Arthrodèse** : en cas d'échec du corset ou d'emblée si courbure importante (35-45°)
+
 # Attitude scoliotique
 
 ## Etiologies des attitudes scoliotiques
@@ -30,3 +55,7 @@ Une scoliose est une déformation tridimensionnelle permanente du rachis. Elle p
 **Toute affection douloureuse autour de la colonne vertébrale** : fracture de côte, pyélonéphrite, douleurs du cou ou de la ceinture scapulaire,... 
 **Des causes oculaires sont décrites :** strabisme, défaut de convergence, paralysie oculomotrice. Celles-ci entraînent un torticolis et de ce fait une attitude scoliotique de cause haute.
 **Causes psychiatriques**
+## Traitement
+Traiter les causes. 
+Rééducation pour l'ILMI et la rétraction des adducteurs. 
+Pour l'ILMI : compensation par semelle orthopédique si > 2cm 
