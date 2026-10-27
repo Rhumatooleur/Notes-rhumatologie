@@ -20,6 +20,7 @@
 [Hypo et hypercalcémie](AAA-Notes-rhumatologie/Hypo_et_hypercalcémie.md)
 **Mécanique**
 [Arthrose](AAA-Notes-rhumatologie/Arthrose.md)
+[Scoliose et attitude scoliotique](AAA-Notes-rhumatologie/Scoliose.md)
 [Syndrome de la traversée cervico-thoraco-brachiale](AAA-Notes-rhumatologie/syndrome-de-la-traversée-cervico-thoraco-brachiale.md)
 [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md)
 [Névralgie pudendale](AAA-Notes-rhumatologie/Névralgie-pudendale.md)
