@@ -20,7 +20,7 @@ La voie IM ou IV **n'améliore pas l'efficacité !** mais permet une rapidité d
 -   Ibuprofène (200mg = antalgique, 400 = anti-inflammatoire)
 -   Naproxène
 -   Kétoprofène
--   Diclofénac : ! risque cardiovasculaire plus important, similaire aux COXIBs !
+-   Diclofénac : **! risque cardiovasculaire plus important**, similaire aux COXIBs !
 -   Flurbiprofène 
 ### Oxicams (énoliques)
 => demi vie longue 
