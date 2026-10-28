@@ -2,27 +2,6 @@
 ## Radiologie ☢ 
 [Radiologie ostéo articulaire ](Radiologie-ostéoarticulaire.md)
 
-### Correspondances notes cliniques ↔ imagerie
-
-| Note clinique | Imagerie correspondante |
-|---|---|
-| [Polyarthrite rhumatoïde (PR)](AAA-Notes-rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md) | [Imagerie de la polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md) |
-| [PPR](AAA-Notes-rhumatologie/PPR%201d545f5988be80ebaec8d04995865623.md) | [Indications de l’échographie (PPR)](AAA-Radiologie-ostéoarticulaire/Echographie/Indicationsecho.md) · [Protocole échographie épaule](AAA-Radiologie-ostéoarticulaire/Echographie/Epauleecho.md) |
-| [Rhumatisme psoriasique](AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md) | [Échographie du rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md) · [Radiographie du rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/RhumPso.md) · [Protocole échographie pré-rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Echographie/PSAecho.md) · [SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md) |
-| [Arthrites réactionnelles](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md) | [Imagerie des spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md) · [Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md) |
-| [Microcristaux](AAA-Notes-rhumatologie/Microcristaux%2014645f5988be80858fedd6533df900e2.md) | [Imagerie des cristaux](AAA-Radiologie-ostéoarticulaire/Cristaux.md) · [Goutte](AAA-Radiologie-ostéoarticulaire/Goutte.md) · [Chondrocalcinose](AAA-Radiologie-ostéoarticulaire/Chondrocalcinose.md) · [Hydroxyapatite](AAA-Radiologie-ostéoarticulaire/Hydroxyapatite.md) · [Hémochromatose](AAA-Radiologie-ostéoarticulaire/Hemochromatose.md) · [Écho du rhumatisme à PPC](AAA-Radiologie-ostéoarticulaire/Echographie/PPCecho.md.md) |
-| [Osteoporose](AAA-Notes-rhumatologie/Osteoporose%2017745f5988be80deb86af4289bb8373e.md) | [Fractures vertébrales](AAA-Radiologie-ostéoarticulaire/Rachis/Fractures-vertébrales.md) · [Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
-| [Hypo et hypercalcémie](AAA-Notes-rhumatologie/Hypo_et_hypercalcémie.md) | [Pathologies osseuses hors tumeurs (hyperparathyroïdie, ostéomalacie)](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
-| [Maladie de Paget](AAA-Notes-rhumatologie/Maladie%20de%20Paget%2020a45f5988be80558275cf095100bef1.md) | [Lésions osseuses](AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md) · [Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
-| [Arthrose](AAA-Notes-rhumatologie/Arthrose.md) | [Imagerie de l’arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md) · [Écho patte d’oie](AAA-Radiologie-ostéoarticulaire/Echographie/PattedOie.md) |
-| [Scoliose](AAA-Notes-rhumatologie/Scoliose.md) | [Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md) · [Anomalies de forme des vertèbres](AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md) · [Maladie de Scheuermann](AAA-Radiologie-ostéoarticulaire/Ostéochondrites-ou-ostéochondroses/Scheuermann.md) |
-| [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md) | [Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md) · [Rachis IRM lombosciatique (diagnostics différentiels)](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md) |
-| [Épaule (Parsonage-Turner…)](AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md) | [Imagerie de l’épaule](AAA-Radiologie-ostéoarticulaire/Épaule.md) · [Épaule IRM](AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md) · [Protocole échographie épaule](AAA-Radiologie-ostéoarticulaire/Echographie/Epauleecho.md) · [Parsonage-Turner (imagerie)](AAA-Radiologie-ostéoarticulaire/Épaule/Syndrome-de-parsonage-et-turner.md) |
-| [Gestes échoguidés](AAA-Notes-rhumatologie/GestesEcho.md) | [Gestes sous écho en pratique](AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md) · [Échographie](AAA-Radiologie-ostéoarticulaire/Echographie.md) |
-| [Efficacité des infiltrations](AAA-Notes-rhumatologie/Effets_des_infiltrations.md) | [Gestes sous écho en pratique](AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md) |
-| [Gestes rachis](AAA-Notes-rhumatologie/Injectables/Gestes-rachis.md) | [Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md) · [Rachis IRM lombosciatique](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md) |
-| [Infectiologie](AAA-Notes-rhumatologie/Infectiologie%201eb45f5988be80f4b51cff25377a24bf.md) | [Imagerie des spondylodiscites](AAA-Radiologie-ostéoarticulaire/Spondylodiscite.md) |
-
 ## Maladies 👨‍⚕️ 
 ### Général
 **Inflammatoire**
@@ -83,3 +62,25 @@
 - « On ne tire pas sur une mouche avec un Bazooka » — S. Carré
 - « Une épine calcanéenne c'est un fossile de dinosaure » — P. Beaudoin
 - « Envoyez moi votre manuscrit que je puisse phosphorer un peu dessus » — A. Baillet
+
+
+## Correspondances notes cliniques ↔ imagerie
+
+| Note clinique | Imagerie correspondante |
+|---|---|
+| [Polyarthrite rhumatoïde (PR)](AAA-Notes-rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md) | [Imagerie de la polyarthrite rhumatoïde](AAA-Radiologie-ostéoarticulaire/Polyarthrite-rhumatoïde.md) |
+| [PPR](AAA-Notes-rhumatologie/PPR%201d545f5988be80ebaec8d04995865623.md) | [Indications de l’échographie (PPR)](AAA-Radiologie-ostéoarticulaire/Echographie/Indicationsecho.md) · [Protocole échographie épaule](AAA-Radiologie-ostéoarticulaire/Echographie/Epauleecho.md) |
+| [Rhumatisme psoriasique](AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md) | [Échographie du rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md) · [Radiographie du rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/RhumPso.md) · [Protocole échographie pré-rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Echographie/PSAecho.md) · [SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md) |
+| [Arthrites réactionnelles](AAA-Notes-rhumatologie/Arthrites-réactionnelles.md) | [Imagerie des spondyloarthrites](AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md) · [Sacro-iliaques](AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md) |
+| [Microcristaux](AAA-Notes-rhumatologie/Microcristaux%2014645f5988be80858fedd6533df900e2.md) | [Imagerie des cristaux](AAA-Radiologie-ostéoarticulaire/Cristaux.md) · [Goutte](AAA-Radiologie-ostéoarticulaire/Goutte.md) · [Chondrocalcinose](AAA-Radiologie-ostéoarticulaire/Chondrocalcinose.md) · [Hydroxyapatite](AAA-Radiologie-ostéoarticulaire/Hydroxyapatite.md) · [Hémochromatose](AAA-Radiologie-ostéoarticulaire/Hemochromatose.md) · [Écho du rhumatisme à PPC](AAA-Radiologie-ostéoarticulaire/Echographie/PPCecho.md.md) |
+| [Osteoporose](AAA-Notes-rhumatologie/Osteoporose%2017745f5988be80deb86af4289bb8373e.md) | [Fractures vertébrales](AAA-Radiologie-ostéoarticulaire/Rachis/Fractures-vertébrales.md) · [Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
+| [Hypo et hypercalcémie](AAA-Notes-rhumatologie/Hypo_et_hypercalcémie.md) | [Pathologies osseuses hors tumeurs (hyperparathyroïdie, ostéomalacie)](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
+| [Maladie de Paget](AAA-Notes-rhumatologie/Maladie%20de%20Paget%2020a45f5988be80558275cf095100bef1.md) | [Lésions osseuses](AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md) · [Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md) |
+| [Arthrose](AAA-Notes-rhumatologie/Arthrose.md) | [Imagerie de l’arthrose](AAA-Radiologie-ostéoarticulaire/Arthrose.md) · [Écho patte d’oie](AAA-Radiologie-ostéoarticulaire/Echographie/PattedOie.md) |
+| [Scoliose](AAA-Notes-rhumatologie/Scoliose.md) | [Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md) · [Anomalies de forme des vertèbres](AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md) · [Maladie de Scheuermann](AAA-Radiologie-ostéoarticulaire/Ostéochondrites-ou-ostéochondroses/Scheuermann.md) |
+| [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md) | [Hanches](AAA-Radiologie-ostéoarticulaire/Hanches.md) · [Rachis IRM lombosciatique (diagnostics différentiels)](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md) |
+| [Épaule (Parsonage-Turner…)](AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md) | [Imagerie de l’épaule](AAA-Radiologie-ostéoarticulaire/Épaule.md) · [Épaule IRM](AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md) · [Protocole échographie épaule](AAA-Radiologie-ostéoarticulaire/Echographie/Epauleecho.md) · [Parsonage-Turner (imagerie)](AAA-Radiologie-ostéoarticulaire/Épaule/Syndrome-de-parsonage-et-turner.md) |
+| [Gestes échoguidés](AAA-Notes-rhumatologie/GestesEcho.md) | [Gestes sous écho en pratique](AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md) · [Échographie](AAA-Radiologie-ostéoarticulaire/Echographie.md) |
+| [Efficacité des infiltrations](AAA-Notes-rhumatologie/Effets_des_infiltrations.md) | [Gestes sous écho en pratique](AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md) |
+| [Gestes rachis](AAA-Notes-rhumatologie/Injectables/Gestes-rachis.md) | [Rachis](AAA-Radiologie-ostéoarticulaire/Rachis.md) · [Rachis IRM lombosciatique](AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md) |
+| [Infectiologie](AAA-Notes-rhumatologie/Infectiologie%201eb45f5988be80f4b51cff25377a24bf.md) | [Imagerie des spondylodiscites](AAA-Radiologie-ostéoarticulaire/Spondylodiscite.md) |
