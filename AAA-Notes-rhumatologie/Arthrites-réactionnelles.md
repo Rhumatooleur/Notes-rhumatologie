@@ -37,3 +37,6 @@ Traitement :
 **Arthrites liées à des agents infectieux mais inclassables** 
 
 [Borréliose de Lyme ](Arthrites-réactionnelles/Borr%C3%A9liose%20de%20Lyme%201d045f5988be806d8e81f06de5cf0dec.md)
+
+---
+**Voir aussi (imagerie)** : [Imagerie des spondyloarthrites](../AAA-Radiologie-ostéoarticulaire/Spondyloarthrites.md) · [Sacro-iliaques](../AAA-Radiologie-ostéoarticulaire/Sacro-iliaques.md)

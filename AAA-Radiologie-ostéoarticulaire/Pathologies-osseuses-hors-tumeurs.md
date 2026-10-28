@@ -24,3 +24,6 @@ Propriétaire: quentin campeol
 ## Thallasémies 
 
 - Vertèbre en H
+
+---
+**Voir aussi (notes cliniques)** : [Osteoporose](../AAA-Notes-rhumatologie/Osteoporose%2017745f5988be80deb86af4289bb8373e.md) · [Hypo et hypercalcémie](../AAA-Notes-rhumatologie/Hypo_et_hypercalcémie.md) · [Maladie de Paget](../AAA-Notes-rhumatologie/Maladie%20de%20Paget%2020a45f5988be80558275cf095100bef1.md)

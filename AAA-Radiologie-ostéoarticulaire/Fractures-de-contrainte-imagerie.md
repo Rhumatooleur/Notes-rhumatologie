@@ -37,3 +37,6 @@ Attention ! chez le sportif, des hyperfixations osseuses focales peuvent être o
 ## Echographie 
 Pour les localisations superficielles : tibia, métatarses
 => épaississement périosté, irrégularité corticale, un début de cal douloureux lors du passage de la sonde.
+
+---
+**Voir aussi (notes cliniques)** : [Fractures de contrainte (clinique et prise en charge)](../AAA-Notes-rhumatologie/Fractures%20de%20contrainte%201d045f5988be80948c53da402fe947f2.md)

@@ -129,3 +129,6 @@ Bursite calcique sub-acromiodeltoïdienne traduisant la résorption de la calcif
 ### Traitement 
 Si un fragment => immobilisation 
 Si au moins 2 fragments => PEC chir 
+
+---
+**Voir aussi (notes cliniques)** : [Épaule (Parsonage-Turner…)](../AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md)

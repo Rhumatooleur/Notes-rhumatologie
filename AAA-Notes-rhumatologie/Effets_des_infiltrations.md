@@ -25,3 +25,6 @@ Aucune différence significative à 1 mois ou 6 mois.
 ## Tendinopathies mécaniques
 ## Bursites mécaniques
 # Inflammatoire 
+
+---
+**Voir aussi (imagerie)** : [Gestes sous écho en pratique](../AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md)

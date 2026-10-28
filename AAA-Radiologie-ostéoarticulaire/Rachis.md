@@ -171,3 +171,6 @@ Signe important = douleur sacrée à la station assise
 **Spondylodiscite infectieuse :**
 
 - Meilleure séquence IRM pour l’étudier = T1 simple ⇒ pour voir les érosions des plateaux vertébraux
+
+---
+**Voir aussi (notes cliniques)** : [Scoliose](../AAA-Notes-rhumatologie/Scoliose.md) · [Gestes rachis](../AAA-Notes-rhumatologie/Injectables/Gestes-rachis.md)

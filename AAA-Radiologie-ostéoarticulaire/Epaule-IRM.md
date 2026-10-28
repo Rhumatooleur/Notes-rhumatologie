@@ -37,3 +37,6 @@ Pour le long biceps = Plan Axial
 **Récessus normaux de la gléno-humérale :** 
 
 ![image](.attachments/d2d08433428cac2ce2a9a3eff75c27184ec3b9ad.png) 
+
+---
+**Voir aussi (notes cliniques)** : [Épaule (Parsonage-Turner…)](../AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md)

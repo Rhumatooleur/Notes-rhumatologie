@@ -82,3 +82,6 @@
 -   **Diminution des entrées de calcium dans la circulation**
     -   malabsorption intestinale
     -   diminution de la résorption osseuse
+
+---
+**Voir aussi (imagerie)** : [Pathologies osseuses hors tumeurs (hyperparathyroïdie, ostéomalacie)](../AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)

@@ -16,3 +16,6 @@ Tube vert long = cytologie
 Tube petit rouge = bactériologie 
 
 Prendre de l’alcool modifié pour stériliser les tubes avant de mettre dedans
+
+---
+**Voir aussi (notes cliniques)** : [Gestes échoguidés](../../AAA-Notes-rhumatologie/GestesEcho.md) · [Efficacité des infiltrations](../../AAA-Notes-rhumatologie/Effets_des_infiltrations.md)

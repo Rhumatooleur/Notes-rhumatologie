@@ -43,3 +43,6 @@ Injecter dans la calcanéo-naviculaire car communique systématiquement avec la 
 Bien repérer avant infiltrations car bcp d'artères et de veines + trouver l'articulation la + accessible 
 
 Toujours passer hors plan pour éviter les osteophytes. 
+
+---
+**Voir aussi (imagerie)** : [Gestes sous écho en pratique](../AAA-Radiologie-ostéoarticulaire/Echographie/Gestesecho.md) · [Échographie](../AAA-Radiologie-ostéoarticulaire/Echographie.md)

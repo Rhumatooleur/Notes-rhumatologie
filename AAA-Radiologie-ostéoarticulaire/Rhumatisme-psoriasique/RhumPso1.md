@@ -88,3 +88,6 @@ Forme destructrice sévère :
 -   Distribution souvent **asymétrique**
 -   Peuvent être volumineuses et ne pas suivre parfaitement le bord externe de l’annulus.
    ![image](.attachments/a25210dfc711a2e4b02e03efa895cbd96630ed5a.png) 
+
+---
+**Voir aussi (notes cliniques)** : [Rhumatisme psoriasique](../../AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)

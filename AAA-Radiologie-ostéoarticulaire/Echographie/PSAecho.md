@@ -14,3 +14,6 @@ Propriétaire: quentin campeol
 – Ténosynovite des tendons fléchisseurs : gaine, épaisseur tendineuse, Doppler.
 – Poulies A1–A5 : épaississement focal, hypervascularisation
 – Plaques palmaires : normale = géométrie triangulaire intacte, échostructure non hypoéchogène ; rechercher enthésopathie à leur insertion (épaississement, Doppler)
+
+---
+**Voir aussi (notes cliniques)** : [Rhumatisme psoriasique](../../AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)

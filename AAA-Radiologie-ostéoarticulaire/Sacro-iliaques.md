@@ -4,3 +4,6 @@ Atteinte des sacro-iliaques :
 - Atteinte dégénérative = antérieure, pas d’érosions
 - Différence entre dégénérative et infectieuse en IRM :
     - Infectieux = atteinte des parties molles avec diffusion +/- abcès surtout sur vers le bas ⇒ faire des biopsies osseuses (plus de sensibilité par rapport a la ponction de liquide articulaire)
+
+---
+**Voir aussi (notes cliniques)** : [Arthrites réactionnelles](../AAA-Notes-rhumatologie/Arthrites-réactionnelles.md)

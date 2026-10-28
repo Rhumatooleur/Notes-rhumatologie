@@ -22,3 +22,6 @@ Les radiographies dans l’hémochromatose peuvent révéler plusieurs types d�
 4. **Évolution** :
     - L’arthropathie évolue **lentement**, contrairement à la maladie à CPP, qui peut présenter une fragmentation osseuse rapide.
     - Malgré cette progression lente, l’arthropathie hémochromatosique peut devenir sévère et nécessiter des remplacements prothétiques.
+
+---
+**Voir aussi (notes cliniques)** : [Microcristaux](../AAA-Notes-rhumatologie/Microcristaux%2014645f5988be80858fedd6533df900e2.md)

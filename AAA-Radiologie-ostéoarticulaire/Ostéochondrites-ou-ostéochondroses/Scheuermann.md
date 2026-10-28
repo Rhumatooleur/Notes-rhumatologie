@@ -12,3 +12,6 @@ Diagnostic sur clichés radiographiques de profil :
 - possible tassement discal.
 
 Le diagnostic de la forme classique est porté devant la mise en évidence radiologique d'**une cunéiformisation de 5 degrés ou plus d'au moins trois vertèbres adjacentes situées à l'apex de la cyphose.**
+
+---
+**Voir aussi (notes cliniques)** : [Scoliose](../../AAA-Notes-rhumatologie/Scoliose.md)

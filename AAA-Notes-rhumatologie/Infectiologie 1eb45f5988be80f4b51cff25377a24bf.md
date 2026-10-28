@@ -10,3 +10,6 @@ Levofloxacine :
     - Gros poids : 500 x 2
 
 Zoonoses
+
+---
+**Voir aussi (imagerie)** : [Imagerie des spondylodiscites](../AAA-Radiologie-ostéoarticulaire/Spondylodiscite.md)

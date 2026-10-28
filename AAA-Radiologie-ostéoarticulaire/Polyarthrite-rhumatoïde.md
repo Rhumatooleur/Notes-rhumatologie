@@ -125,3 +125,6 @@ Atteinte surtout du rachis cervical, et principalement le rachis cervical haut
 - Pincements discaux sévères
 - Articulations temporo-mandibulaires
 - Articulations du larynx
+
+---
+**Voir aussi (notes cliniques)** : [Polyarthrite rhumatoïde (PR)](../AAA-Notes-rhumatologie/PR%2014c45f5988be8081b248ecff7e4ab0c8.md)

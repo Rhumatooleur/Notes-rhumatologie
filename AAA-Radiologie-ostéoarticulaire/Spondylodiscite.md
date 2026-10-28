@@ -36,3 +36,6 @@ Propriétaire: quentin campeol
 | PPC | Calcifications intra-discales |
 | SPA | Distribution multifocalédes lésions  <br>Érosions périphériques (coins vertébraux) ou au contraire très centrales  <br>Preservation de la hauteur du disque  <br>Fusion des articulaires postérieures  <br>syndesmophytes |
 | Tumeurs | Respect du disque |
+
+---
+**Voir aussi (notes cliniques)** : [Infectiologie](../AAA-Notes-rhumatologie/Infectiologie%201eb45f5988be80f4b51cff25377a24bf.md)

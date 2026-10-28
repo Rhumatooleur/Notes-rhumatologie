@@ -26,3 +26,6 @@ Dépression de la plaque terminale centrale nettement délimitée
 
 - Environ 10 % des patients atteints de drépanocytose
 - Maladie de Gaucher
+
+---
+**Voir aussi (notes cliniques)** : [Scoliose](../../AAA-Notes-rhumatologie/Scoliose.md)

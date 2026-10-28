@@ -78,3 +78,6 @@ Forme destructrice sévère :
    ![image](.attachments/a25210dfc711a2e4b02e03efa895cbd96630ed5a.png) 
     
     
+
+---
+**Voir aussi (notes cliniques)** : [Rhumatisme psoriasique](../AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)

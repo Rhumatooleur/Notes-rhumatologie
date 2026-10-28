@@ -329,3 +329,6 @@ Présentation radiologique :
 - Interruption corticale
 - Augmentation rapide de la taille
 - Oedème périphérique
+
+---
+**Voir aussi (notes cliniques)** : [Maladie de Paget](../AAA-Notes-rhumatologie/Maladie%20de%20Paget%2020a45f5988be80558275cf095100bef1.md)

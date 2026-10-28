@@ -19,3 +19,6 @@ Ostéite pouvant être diffuse donnant un aspect de vertèbre ivoire
 Avec inflammation, hyperostose, cyphose et destruction vertébrale 
 
 Syndesmophytes et parasyndesmophytes
+
+---
+**Voir aussi (notes cliniques)** : [Rhumatisme psoriasique](../AAA-Notes-rhumatologie/Rhumatisme%20psoriasique.md)

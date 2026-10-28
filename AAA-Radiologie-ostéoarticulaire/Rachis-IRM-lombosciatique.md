@@ -48,3 +48,6 @@ Arthrose articulaire postérieure :
 
 - Jus dans l’articulation
 - Oedème des parties molles = poussée congestive
+
+---
+**Voir aussi (notes cliniques)** : [Syndrome du piriforme](../AAA-Notes-rhumatologie/Piriforme.md) · [Gestes rachis](../AAA-Notes-rhumatologie/Injectables/Gestes-rachis.md)

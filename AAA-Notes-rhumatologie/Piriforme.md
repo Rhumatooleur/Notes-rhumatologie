@@ -29,3 +29,6 @@ travail myotensif guidé des muscles pelvi-trochantériens
 travail « proprioceptif pelvi-fémoral 
 ### Injections de toxine botulique
 ### Chirurgie (en dernier recours).
+
+---
+**Voir aussi (imagerie)** : [Hanches](../AAA-Radiologie-ostéoarticulaire/Hanches.md) · [Rachis IRM lombosciatique (diagnostics différentiels)](../AAA-Radiologie-ostéoarticulaire/Rachis-IRM-lombosciatique.md)

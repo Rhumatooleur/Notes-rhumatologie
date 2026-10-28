@@ -48,7 +48,7 @@
 [Rhumatisme psoriasique](AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md)
 [SAPHO](AAA-Radiologie-ostéoarticulaire/SAPHO.md)
 ### Osseux 
-[Fractures de contrainte](Fractures-de-contrainte-imagerie.md) 
+[Fractures de contrainte](AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md) 
 [Lésions osseuses](AAA-Radiologie-ostéoarticulaire/Lésions-osseuses.md)
 [Pathologies osseuses hors tumeurs](AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)
 [Ostéochondrites ou ostéochondroses](AAA-Radiologie-ostéoarticulaire/Ostéochondrites-ou-ostéochondroses.md)
@@ -58,3 +58,8 @@
 [Maladie de Forestier](AAA-Radiologie-ostéoarticulaire/Maladie-de-Forestier.md)
 [Pseudo tumeurs et tumeurs musculaires](AAA-Radiologie-ostéoarticulaire/Pseudo-tumeurs-et-tumeurs-musculaires.md)
 [Ostéochondromes / chrondromatose synoviale](AAA-Radiologie-ostéoarticulaire/Ostéochondromes-chrondromatose-synoviale.md)
+
+# Notes cliniques associées 🩺 
+[Retour au sommaire des notes de rhumatologie](Notes-rhumatologie.md)
+
+Les correspondances page par page sont listées dans [Correspondances notes cliniques ↔ imagerie](Notes-rhumatologie.md).

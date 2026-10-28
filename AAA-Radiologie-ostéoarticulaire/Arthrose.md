@@ -389,6 +389,5 @@ Aspect comme SNAC mais pas de pincement avec le pôle proximal du scaphoïde
 
 </details>
 
-
-
-
+---
+**Voir aussi (notes cliniques)** : [Arthrose](../AAA-Notes-rhumatologie/Arthrose.md)

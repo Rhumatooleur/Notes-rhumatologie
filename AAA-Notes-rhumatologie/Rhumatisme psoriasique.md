@@ -11,3 +11,6 @@ Traitements :
 - Axial = anti il 17 (études en cours pour il-23)
 - Périph = cs dmards puis IL-17, 23 +++ ou TNF
 - anti il 23 marche le mieux, 12/23, et aussi  il-17 et anti TNF
+
+---
+**Voir aussi (imagerie)** : [Échographie du rhumatisme psoriasique](../AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md) · [Radiographie du rhumatisme psoriasique](../AAA-Radiologie-ostéoarticulaire/RhumPso.md) · [Protocole échographie pré-rhumatisme psoriasique](../AAA-Radiologie-ostéoarticulaire/Echographie/PSAecho.md) · [SAPHO](../AAA-Radiologie-ostéoarticulaire/SAPHO.md)

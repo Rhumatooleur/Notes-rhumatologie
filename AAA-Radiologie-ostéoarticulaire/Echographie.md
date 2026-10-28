@@ -19,3 +19,6 @@ Pour confirmer le double contour : il faut bouger l’articulation du patient af
 ![IMG_0762.jpeg](Echographie/IMG_0762.jpeg)
 
 ![IMG_0763.jpeg](Echographie/IMG_0763.jpeg)
+
+---
+**Voir aussi (notes cliniques)** : [Gestes échoguidés](../AAA-Notes-rhumatologie/GestesEcho.md)

@@ -20,3 +20,6 @@ Troubles sensitifs discrets : Hypoesthésie localisée au moignon de l’épaule
 **Examen clé : ENMG**  
 **Traitement : antalgiques + corticothérapie 1mg/Kg**  
 **Rééducation précoce indispensable.**
+
+---
+**Voir aussi (notes cliniques)** : [Épaule (Parsonage-Turner…)](../../AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md)

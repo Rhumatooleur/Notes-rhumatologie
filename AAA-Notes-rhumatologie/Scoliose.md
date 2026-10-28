@@ -59,3 +59,6 @@ A noter pour les radios simples : La rotation vertébrale s’apprécie sur la r
 Traiter les causes. 
 Rééducation pour l'ILMI et la rétraction des adducteurs. 
 Pour l'ILMI : compensation par semelle orthopédique si > 2cm 
+
+---
+**Voir aussi (imagerie)** : [Rachis](../AAA-Radiologie-ostéoarticulaire/Rachis.md) · [Anomalies de forme des vertèbres](../AAA-Radiologie-ostéoarticulaire/Rachis/Anomalies-formes-vertèbres.md) · [Maladie de Scheuermann](../AAA-Radiologie-ostéoarticulaire/Ostéochondrites-ou-ostéochondroses/Scheuermann.md)

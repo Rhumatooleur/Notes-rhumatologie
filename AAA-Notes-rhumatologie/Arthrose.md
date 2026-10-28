@@ -40,3 +40,6 @@ Problèmes : à court terme = si on rate le nerf et à long terme repousse du ne
 Fonctionne mieux que percutané 
 ### Recommandations 
 Radiofréquence percutanée retenue en cas d'échec du ttt medical dans les recos belges et anglaises.
+
+---
+**Voir aussi (imagerie)** : [Imagerie de l’arthrose](../AAA-Radiologie-ostéoarticulaire/Arthrose.md) · [Écho patte d’oie](../AAA-Radiologie-ostéoarticulaire/Echographie/PattedOie.md)

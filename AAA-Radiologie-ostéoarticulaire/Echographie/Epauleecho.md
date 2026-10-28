@@ -100,3 +100,6 @@ Globalement :
 - Stade 3 = épaisseur diminuée sans discontinuité
 - Stades 4/5 = rupture mineur / majeure
 ![image](.attachments/2ed47a0f9059cfce8b8a14bd11c0d20d40ec47b0.png) 
+
+---
+**Voir aussi (notes cliniques)** : [PPR](../../AAA-Notes-rhumatologie/PPR%201d545f5988be80ebaec8d04995865623.md) · [Épaule (Parsonage-Turner…)](../../AAA-Notes-rhumatologie/Épaule%2014645f5988be8016ac96de4a1303f885.md)

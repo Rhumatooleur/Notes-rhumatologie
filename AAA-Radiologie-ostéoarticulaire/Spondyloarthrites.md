@@ -122,3 +122,6 @@ Interprétation d’une IRM rachidienne de suspicion de SPA :
 - Costo transversaire
 - Articulaires postérieures
 - Inter épineux (bursites)
+
+---
+**Voir aussi (notes cliniques)** : [Arthrites réactionnelles](../AAA-Notes-rhumatologie/Arthrites-réactionnelles.md) · [Biothérapies et tsDMARDs](../AAA-Notes-rhumatologie/Biothérapies%20et%20tsDMARDs%2014945f5988be804f8c7acd60734c1a9a.md)
