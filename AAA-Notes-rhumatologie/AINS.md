@@ -5,7 +5,7 @@ Les AINS inhibent la **cyclooxygénase (COX)**, enzyme responsable de la convers
 -   **COX-2** : enzyme inductible lors de l'inflammation
 
 Efficacité rapide (1h)
-La voie IM ou IV **n'améliore pas l'efficacité !** 
+La voie IM ou IV **n'améliore pas l'efficacité !** mais permet une rapidité d'action pour la voie IV.  
 
   ## Propriétés 
   Anti-inflammatoires **à posologie élevée** 
@@ -24,6 +24,7 @@ La voie IM ou IV **n'améliore pas l'efficacité !**
 -   Flurbiprofène 
 ### Oxicams (énoliques)
 => demi vie longue 
+=> **risque cardiovasculaire ++** : contre indiqués si cardiopathie ischémique, artériopathie et AVC/AIT
 -   Méloxicam : inhibe préférentiellement la COX-2 
 -   Piroxicam
 -   Ténoxicam
@@ -44,7 +45,7 @@ anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
 -   Acide niflumique
 
 ## 2) Inhibiteurs sélectifs COX-2 (coxibs)
-=> Moins de risque d'ulcère (sans supprimer le risque) mais **plus de risque cardiovasculaire** (même si c'est discuté dans la littérature)
+=> Moins de risque d'ulcère (sans supprimer le risque) mais **plus de risque cardiovasculaire** (même si c'est discuté dans la littérature) : contre indiqués si cardiopathie ischémique, artériopathie et AVC/AIT
 -   Célécoxib — seul coxib couramment utilisé (voie orale)
 -   Étoricoxib — disponible dans certains pays européens, pas aux USA
 -   Parecoxib — prodrogue injectable du valdécoxib (voie IV)
@@ -106,3 +107,13 @@ Tous ne le sont pas forcément.
 ## Pour l'ibuprofene => méningite aseptique 
 Causée par une réaction d'hypersensibilité de type III ou IV, dans les minutes jusqu'à 48h après la prise. 
 Plus de risque chez les patients lupiques ou atteints d'autres maladies du tissus conjonctif. 
+# Indications 
+# Contre indications 
+Ulcère gastro-duodénal en poussée ou diverticulose colique en poussée. 
+Insuffisance cardiaque / rénale / hépatique sévère
+Grossesse après 24SA = à partir du 6ème mois (**CELECOXIB contre indiqué pour toute la grossesse car tératogène**)
+Association de plusieurs AINS
+Allaergie et syndrome de Widal
+Pour les Coxibs et les Oxicams : **cardiopathie ischémique, artériopathie et AVC/AIT**
+ 
+
