@@ -27,10 +27,7 @@ La voie IM ou IV **n'améliore pas l'efficacité !**
 -   Méloxicam : inhibe préférentiellement la COX-2 
 -   Piroxicam
 -   Ténoxicam
--   Ténoxicam
--   Tenoxicam
 -   Lornoxicam
--   Meloxicam
 
 ### Acide acétylsalicylique (aspirine)
 anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
@@ -69,7 +66,7 @@ anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
 
 ### Ulcères
 => tout le tube digestif est concerné (pas seulement l'estomac)
-Causes/facteurs favorisants les ulcères sous AINS :
+**Facteurs favorisants les ulcères sous AINS :**
 -   Âge > 65 ans
 -   Antécédent d'ulcère gastro-duodénal et d'hémorragie digestive
 -  Infection à Helicobacter pylori
@@ -81,11 +78,29 @@ Causes/facteurs favorisants les ulcères sous AINS :
 -   Dose élevée d'AINS et traitement prolongé
 
 ## Toxicité rénale 
-Causes multiples : 
-* 
+### Causes multiples : 
+- IRA fonctionnelle par vasoconstriction afférente
+- IRAs organiques :
+  * **Nécrose tubulaire aigue** par toxicité tubulaire directe
+  * NTIA immunoallergiques
+- Syndrome néphrotique (SNLGM et GEM secondaire)
+- Néphrites interstitielles chroniques
+### Conséquences 
+**Insuffisance rénale aigue** réversible en 7j à l'arrêt sauf si nécrose capillaire + **hyperkaliémie et protéinurie**
+**Conséquences cardiovasculaires** => décompensation d'une IC, augmentation de la tension. 
+### Facteurs favorisants le risque rénal sous AINS : 
+-   Âge > 65 ans
+-   Cardiopathie ou insuffisance rénale préexistante (DFG < 60 mL/min)
+-   Hypovolémie / déshydratation
+-   Association aux IEC/sartans/diurétiques
+## Allergies
+Choc anaphylactique, toxidermies, urticaire, syndrome de Widal (asthme + polypose nasale + allergie AINS ou aspirine
+## Hépatiques
+Hépatites médicamenteuses immuno-allergiques (1/10 000)
 ## Augmentation du risque infectieux
 Inhibition de certaines fonctions des PNNs 
 Par exemple aggravation d'une angine en phlegmon. 
++ aggravation d'une varicelle (syndrome de Reye)
 ## AAP 
 Tous ne le sont pas forcément. 
 ## Pour l'ibuprofene => méningite aseptique 
