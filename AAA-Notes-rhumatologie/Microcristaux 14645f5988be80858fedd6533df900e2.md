@@ -28,6 +28,10 @@ Traitement de fond par febuxostat
 **On peu discuter quand même un dosage systématique calcémie et PTH** peut importe l'âge. 
 ## Traitement 
 ### Formes classiques
+Colchicine 
+AINS (à éviter chez les sujets âgés)
+Corticothérapie orale (30–40 mg/j pendant 3–5 jours puis dégressif)
++/- Infiltration si monoarticulaire et cause septique éliminée
 ### Formes chroniques persistantes 
 Colchicine au long cours 
 +/- Prednisone faible dose au long cours 
