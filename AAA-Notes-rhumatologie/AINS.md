@@ -35,7 +35,7 @@ anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
 
 ### Dérivés indoliques / indéniques
 => Demie vie intermédiaire
--   Indométacine (CHRONO-INDOCID) 
+-   Indométacine (CHRONO-INDOCID) : ! mais **effets indésirables neurologiques** (céphalées, vertiges, somnolence)
 -   Sulindac
 
 ### Fénamates
