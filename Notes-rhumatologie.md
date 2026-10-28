@@ -39,7 +39,9 @@
 [Corticothérapie orale](AAA-Notes-rhumatologie/Corticoth%C3%A9rapie%20orale%201bf45f5988be80f0a065ff59aea27690.md)
 [AINS](AAA-Notes-rhumatologie/AINS.md)
 
-## Gestes et médicaments injectables 🤺 
+## Thérapeutiques non médicamenteuses
+[Ondes de choc](AAA-Notes-rhumatologie/Ondes_de_choc.md)
+### Gestes et médicaments injectables 🤺 
 
 [Gestes écho guidés](AAA-Notes-rhumatologie/GestesEcho.md)
 [Injectables](AAA-Notes-rhumatologie/Injectables%201bf45f5988be806abe3cccf567c77d00.md)
