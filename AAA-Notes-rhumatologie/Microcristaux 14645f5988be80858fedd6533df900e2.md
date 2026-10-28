@@ -17,6 +17,15 @@ Traitement de fond par febuxostat
 </details>
 <details> <summary><h1>Rhumatisme à PPC  </h1></summary> 
 
+## Bilan étiologique
+* **Avant 55 ans ou lorsque la maladie est sévère**, il faut chercher un facteur de risque :
+  * ATCD de traumatisme articulaire ; en moyenne 20 ans après une méniscectomie
+  * ATCDs familiaux / début très jeune : Mutation activatrice du gène HANK (très rares formes fam)
+  * Hyperparathyroïdie
+  * Hypomagnésémie
+  * Hémochromatose
+
+**On peu discuter quand même un dosage systématique calcémie et PTH** peut importe l'âge. 
 ## Traitement 
 ### Formes classiques
 ### Formes chroniques persistantes 
