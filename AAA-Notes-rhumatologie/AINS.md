@@ -4,12 +4,20 @@ Les AINS inhibent la **cyclooxygénase (COX)**, enzyme responsable de la convers
 -   **COX-1** : enzyme constitutive (protection gastrique, fonction rénale, agrégation plaquettaire)
 -   **COX-2** : enzyme inductible lors de l'inflammation
 
+Efficacité rapide (1h)
+La voie IM ou IV **n'améliore pas l'efficacité !** 
+
+  ## Propriétés 
+  Anti-inflammatoires **à posologie élevée** 
+  Antalgiques à dose plus faible (ibuprofene 200mg par ex)
+  Antipyrétiques.
+
 # Types d'AINS
 ## 1️) Inhibiteurs non sélectifs COX-1 / COX-2
 
 ### Dérivés arylcarboxyliques 
 => Les plus utilisés
--   Ibuprofène
+-   Ibuprofène (200mg = antalgique, 400 = anti-inflammatoire)
 -   Naproxène
 -   Kétoprofène
 -   Diclofénac : ! risque cardiovasculaire plus important, similaire aux COXIBs !
@@ -39,7 +47,7 @@ anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
 -   Acide niflumique
 
 ## 2) Inhibiteurs sélectifs COX-2 (coxibs)
-=> Moins de risque digestif mais **plus de risque cardiovasculaire** (même si c'est discuté dans la littérature)
+=> Moins de risque d'ulcère (sans supprimer le risque) mais **plus de risque cardiovasculaire** (même si c'est discuté dans la littérature)
 -   Célécoxib — seul coxib couramment utilisé (voie orale)
 -   Étoricoxib — disponible dans certains pays européens, pas aux USA
 -   Parecoxib — prodrogue injectable du valdécoxib (voie IV)
@@ -48,7 +56,38 @@ anti-inflammatoire > 500mg par jour (utilisée à 3g dans la péricardite)
 
 -   Licoféone — inhibition double COX + 5-lipoxygénase (peu utilisé, disponibilité limitée)
 
-# Effets indésirables 
+# Effets indésirables
+## Digestifs 
+### Troubles fonctionnels digestifs 
+=> fréquents (10 à 25% des cas)
+=> indépendants du risque d'ulcère
+* Dyspepsie
+* Epigastralgies
+* Nausées
+* Diarrhées
+* Anorexie
+
+### Ulcères
+=> tout le tube digestif est concerné (pas seulement l'estomac)
+Causes/facteurs favorisants les ulcères sous AINS :
+-   Âge > 65 ans
+-   Antécédent d'ulcère gastro-duodénal et d'hémorragie digestive
+-  Infection à Helicobacter pylori
+-  Intoxication éthylique
+-  Médicaments associés :
+    * Antiagrégant / Anticoagulant
+    * Corticoïdes
+    * ISRS 
+-   Dose élevée d'AINS et traitement prolongé
+
+## Toxicité rénale 
+Causes multiples : 
+* 
+## Augmentation du risque infectieux
+Inhibition de certaines fonctions des PNNs 
+Par exemple aggravation d'une angine en phlegmon. 
+## AAP 
+Tous ne le sont pas forcément. 
 ## Pour l'ibuprofene => méningite aseptique 
 Causée par une réaction d'hypersensibilité de type III ou IV, dans les minutes jusqu'à 48h après la prise. 
 Plus de risque chez les patients lupiques ou atteints d'autres maladies du tissus conjonctif. 
