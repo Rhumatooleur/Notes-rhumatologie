@@ -1,9 +1,12 @@
-# 2 technologies 
-## Focales 
-Agissent en profondeur
-Peuvent être guidées par échographie
-## Radiales
-Plus superficielles, mais faisable par tout le monde comme les kinés
+# Principe et réalisation 
+## 2 technologies 
+* Focales : Agissent en profondeur. Peuvent être guidées par échographie. 
+
+* Radiales : Plus superficielles, mais faisable par tout le monde comme les kinés
+
+## Protocole 
+3 à 6 séances pour obtenir une efficacité. 
+
 # Efficacité
 Efficacité inférieure à 1 mois à une injection de cortisone, mais supérieure à 4 mois. Donc effet probablement plus prolongé. 
 
