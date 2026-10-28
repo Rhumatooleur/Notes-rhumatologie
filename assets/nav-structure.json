@@ -22,10 +22,6 @@
     "collapsed": true,
     "pages": [
       {
-        "name": "2 technologies",
-        "file": "AAA-Notes-rhumatologie/Ondes_de_choc.md"
-      },
-      {
         "name": "Acide hyaluronique",
         "file": "AAA-Notes-rhumatologie/Injectables/Acide hyaluronique 1b645f5988be8074a217f4186e01bd20.md"
       },
@@ -164,6 +160,10 @@
       {
         "name": "PR",
         "file": "AAA-Notes-rhumatologie/PR 14c45f5988be8081b248ecff7e4ab0c8.md"
+      },
+      {
+        "name": "Principe et réalisation",
+        "file": "AAA-Notes-rhumatologie/Ondes_de_choc.md"
       },
       {
         "name": "Prise en charge",
