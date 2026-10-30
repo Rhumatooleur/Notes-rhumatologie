@@ -25,7 +25,7 @@
 -   Calcémie normale : 2,2 – 2,55/2,60 mmol/L
 -   Hypercalcémie = ↗ du Ca **ionisé** (seuil > 1,30 mmol/L)
 -   Asymptomatique en général < 3 mmol/L
--   **Sévère = symptomatique OU > 3 mmol/L** → PEC en urgence en USC/réa
+-   **Sévère = symptomatique OU > 3 mmol/L** → PEC en urgence en USC/réa (en théorie, en pratique non)
 -   Hypercalcémie maligne (crise aiguë) : Ca > 3,5 mmol/L
   
 
