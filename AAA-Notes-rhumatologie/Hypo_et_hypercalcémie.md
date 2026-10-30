@@ -15,7 +15,7 @@
 -   **CaSR** (récepteur sensible au Ca ionisé) :
     -   sur la parathyroïde : Ca ↘ → PTH ↗ ; Ca ↗ → PTH ↘ (rétrocontrôle)
     -   sur le tubule rénal : inhibe la réabsorption de Ca (↗ calciurie) et de Na
-
+![image](.attachments/b38d966128426fcf2a9fde3e4036725224fc6f8e.jpg) 
 **Fractions du calcium plasmatique**
 
 -   Lié à l’albumine (40 %), aux anions (5 %)
