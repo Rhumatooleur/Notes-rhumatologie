@@ -130,7 +130,7 @@ _Rappel_ :
          - 60 mg si calcémie comprise entre 3 et 3,5 mmol/L
          - 90 mg si calcémie supérieure à 3,5 mmol/L.    
     * **Dénosumab** (anti-RANKL) en 2ᵉ intention
-    * **Calcimimétiques** possibles dans les hypercalcémies sans traitement étiologique accessible
+    * **Calcimimétiques = CINACALCET** possibles dans les hypercalcémies sans traitement étiologique accessible
     *  **Corticoïdes** (↓ absorption digestive du Ca) : myélome, autres hémopathies, granulomatoses et en particulier la sarcoïdose
     * La **Calcitonine** n’est pratiquement plus utilisée  car l’effet est très transitoire.
     
