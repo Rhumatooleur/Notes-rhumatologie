@@ -38,11 +38,16 @@ Sinon recherche génétique.
 # Prise en charge d'une hypomagnésémie 
 ## 1) Traitement de la cause
 ## 2) ET Supplémentation
-* Si hypomagnésémie profonde symptomatique => traitement IV (2 à 4 g de sulfate de magnésium IV sur 5 à 10 minutes) , sinon per os.
+### Quand supplémenter
+* Si hypomagnésémie profonde symptomatique grave (convulsions ou autres) => traitement IV (2 à 4 g de sulfate de magnésium IV sur 5 à 10 minutes)
+* Si symptomatique (chondrocalinose) ou sévère (<0,5mmol/l) mais non grave => traitement per os
+* Si asymptomatique et < 0,5mmol/l : pas de traitement
+
+### Comment supplémenter 
 
 * **La supplémentation en Mg doit être prolongée** après normalisation de la magnésémie, même en cas de traitement de la cause de cette dernière.
 
-* Seule forme pouvant être remboursée :
+* Seule forme orale pouvant être remboursée :
 
   * Pidolate de Mg = **Mag 2®** en sachet de 184 mg ou sous forme d’ampoule à 122 mg per os 2 à 3 fois par jour
 
@@ -50,5 +55,5 @@ Sinon recherche génétique.
  
   * **Attention si DFG < 30** supplémentation moins importante et plus lente (risque hyper)
 
-* On peu aussi proposer une alimentation riche en Mg ou des eaux telles que Hepar et Rozana
+* On peut aussi proposer une alimentation riche en Mg ou des eaux telles que Hepar et Rozana
 
