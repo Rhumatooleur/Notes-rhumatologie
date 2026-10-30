@@ -86,7 +86,7 @@ _Rappel_ :
 
 ## Bilan étiologique
 
-**Bilan de confirmation (toujours 2 dosages)**
+### Bilan de confirmation (toujours 2 dosages)
 
 -   Albuminémie → calcémie corrigée
 -   Ca ionisé au moindre doute (examen de référence)
@@ -96,7 +96,7 @@ _Rappel_ :
 -   PTH élevée ou « anormalement normale » (inadaptée) → hypercalcémie **centrale** (PTH-dépendante)
 -   PTH basse (adaptée) → hypercalcémie **périphérique** (PTH-indépendante)
 
-**Profil biologique de l’HPT primaire**
+### Profil biologique de l’HPT primaire
 
 -   Hypercalcémie + PTH haute ou inappropriée
 -   Hypercalciurie (moindre que ne le voudrait la calcémie, car réabsorption de Ca)
@@ -104,7 +104,7 @@ _Rappel_ :
 
 **Calciurie** : distingue l’HPT primaire (calciurie élevée) de l’hypercalcémie-hypocalciurie familiale (calciurie basse).
 
-**Bilan d’une hypercalcémie périphérique**
+### Bilan d’une hypercalcémie périphérique
 
 -   Hémogramme, CRP
 -   Ionogramme sanguin, phosphatémie, créatininémie
@@ -123,7 +123,7 @@ _Rappel_ :
     -   **Digitaliques** (potentialisent la toxicité cardiaque)
 2.  **Réhydratation** par NaCl 0,9 % IV : 1 L la première heure, puis 4 L sur 24 h
 3.  **Traitement hypocalcémiant**
-    -   **Biphosphonates** : action retardée (début à 48 h, efficacité maximale à 1 semaine)
+    -   **Biphosphonates** (ZOMETA = acide zoledronique 4mg): action retardée (début à 48 h, efficacité maximale à 1 semaine)
     -   **Dénosumab** (anti-RANKL) en 2ᵉ intention
     -   Calcimimétiques possibles dans les hypercalcémies sans traitement étiologique accessible
 4.  **Corticoïdes** (↓ absorption digestive du Ca) : myélome et autres hémopathies, sarcoïdose
