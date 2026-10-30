@@ -7,20 +7,6 @@
 </details>
 <details> <summary><h1> Hypercalcémie </h1></summary> 
 
-## Physiopathologie à retenir
-
-**Régulation normale**
--   **PTH** : stimule la 1α-hydroxylase rénale (→ calcitriol), augmente la résorption osseuse, augmente la réabsorption rénale de Ca (TCD) et **inhibe la réabsorption du phosphore** (TCP).
--   **Calcitriol (1,25-OH vit. D)** : augmente l’absorption intestinale de Ca et de PO₄.
--   **CaSR** (récepteur sensible au Ca ionisé) :
-    -   sur la parathyroïde : Ca ↘ → PTH ↗ ; Ca ↗ → PTH ↘ (rétrocontrôle)
-    -   sur le tubule rénal : inhibe la réabsorption de Ca (↗ calciurie) et de Na
-![image](.attachments/b38d966128426fcf2a9fde3e4036725224fc6f8e.jpg) 
-**Fractions du calcium plasmatique**
-
--   Lié à l’albumine (40 %), aux anions (5 %)
--   **Ca libre ionisé (55 %) = forme active**
-
 ## Définitions et seuils
 
 -   Calcémie normale : 2,2 – 2,55/2,60 mmol/L
