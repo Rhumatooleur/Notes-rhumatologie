@@ -80,7 +80,7 @@ _Rappel_ :
 -   **Affections malignes** :
     -   lyse osseuse (métastases, myélome, lymphomes)
     -   paranéoplasique : **PTH-rp** (poumon, sein, rein, ovaire ; possible dans le myélome) ou production de calcitriol par certains lymphomes
--   **Granulomatoses** (hydroxylation de la 25-OH vit. D) : sarcoïdose, tuberculose, lèpre, histoplasmose, lymphomes
+-   **Granulomatoses** (hydroxylation de la 25-OH vit. D) : sarcoïdose, tuberculose, lèpre, histoplasmose, pneumocystose, lymphomes
 -   **Iatrogènes** : vitamine D et dérivés, rétinoïdes, tériparatide, lithium, diurétiques thiazidiques, immobilisation (↗ résorption osseuse)
 -   **Endocrinopathies** : hyperthyroïdie, insuffisance surrénale aiguë, phéochromocytome, acromégalie
 
