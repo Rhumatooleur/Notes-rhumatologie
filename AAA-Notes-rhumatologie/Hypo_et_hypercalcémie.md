@@ -57,7 +57,7 @@
 - Onde T plate
 - Allongement PR
 - Troubles du rythme (TV, bradycardie, asystolie)
-- sous-ST et ébauche de cupule QT (comme digitaliques)
++ Hors moyen mnémotechnique => sous-ST et ébauche de cupule QT (comme digitaliques)
 ## Principales causes
 
 **Deux étiologies = 90 % des cas** : HPT primaire (60 %) et cancers (30 %).
