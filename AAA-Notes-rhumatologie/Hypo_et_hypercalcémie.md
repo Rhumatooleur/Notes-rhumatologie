@@ -48,9 +48,17 @@
 -   Digestifs : anorexie, nausées/vomissements, constipation, douleurs abdominales ; rarement pancréatite aiguë
 -   Rénaux : polyuro-polydipsie, déshydratation EC, IRA, lithiases récidivantes
 -   Cardiovasculaires : HTA (hypotension si déshydratation majeure), anomalies ECG
--   
+  
 **Penser à doser la calcémie devant** : troubles de la vigilance, AEG, troubles digestifs inexpliqués.
 
+## ECG 
+**Ta raquette plate perd son rythme :**
+- Tachycardie
+- Raccourcissement du QT
+- Onde T plate
+- Allongement PR
+- Troubles du rythme (TV, bradycardie, asystolie)
+- sous-ST et ébauche de cupule QT (comme digitaliques)
 ## Principales causes
 
 **Deux étiologies = 90 % des cas** : HPT primaire (60 %) et cancers (30 %).
