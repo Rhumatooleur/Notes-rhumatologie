@@ -1,8 +1,18 @@
-# Dosage du calcium 
+</details>
+<details> <summary><h1> Dosage du calcium </h1></summary> 
 
-# Hypercalcémie
 
-# Hypocalcémie 
+</details>
+
+</details>
+<details> <summary><h1> Hypercalcémie </h1></summary> 
+
+
+
+</details>
+
+
+<details> <summary><h1> Hypocalcémie </h1></summary> 
 
 ## Physiopathologie à retenir
 
@@ -85,3 +95,7 @@
 
 ---
 **Voir aussi (imagerie)** : [Pathologies osseuses hors tumeurs (hyperparathyroïdie, ostéomalacie)](../AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)
+
+
+</details>
+
