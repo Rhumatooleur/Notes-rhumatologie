@@ -22,7 +22,7 @@ Traitement de fond par febuxostat
   * ATCD de traumatisme articulaire ; en moyenne 20 ans après une méniscectomie
   * ATCDs familiaux / début très jeune : Mutation activatrice du gène HANK (très rares formes fam)
   * Hyperparathyroïdie
-  * Hypomagnésémie => [Exploration d'une hypomagnésémie](AAA-Notes-rhumatologie/Exploration_hypomagnésémie.md)
+  * Hypomagnésémie => [Exploration d'une hypomagnésémie](Exploration_hypomagnésémie.md)
   * Hémochromatose
 
 **On peu discuter quand même un dosage systématique calcémie et PTH** peut importe l'âge. 
