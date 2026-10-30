@@ -123,7 +123,7 @@ _Rappel_ :
     -   **Digitaliques** (potentialisent la toxicité cardiaque)
 2.  **Réhydratation** par NaCl 0,9 % IV : 1 L la première heure, puis 4 L sur 24 h
 3.  **Traitement hypocalcémiant**
-    -   **Biphosphonates** (ZOMETA = acide zoledronique 4mg): action retardée (début à 48 h, efficacité maximale à 1 semaine)
+    -   **Biphosphonates** (ZOMETA = acide zoledronique 4mg ou pamidronate): action retardée (début à 48 h, efficacité maximale à 1 semaine)
     -   **Dénosumab** (anti-RANKL) en 2ᵉ intention
     -   Calcimimétiques possibles dans les hypercalcémies sans traitement étiologique accessible
 4.  **Corticoïdes** (↓ absorption digestive du Ca) : myélome et autres hémopathies, sarcoïdose
