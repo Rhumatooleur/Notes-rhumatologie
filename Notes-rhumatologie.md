@@ -67,6 +67,8 @@
 - « On ne tire pas sur une mouche avec un Bazooka » — S. Carré
 - « Une épine calcanéenne c'est un fossile de dinosaure » — P. Beaudoin
 - « Envoyez moi votre manuscrit que je puisse phosphorer un peu dessus » — A. Baillet
+- « Le mal vient à cheval, il repart à pied. »  — un patient d'Uriage le 22/08/2024
+
 
 
 ## Correspondances notes cliniques ↔ imagerie
