@@ -115,7 +115,7 @@ _Rappel_ :
 
 ## Prise en charge
 
-**Hypercalcémie sévère (symptomatique ou > 3 mmol/L)** : urgence, USC ou réanimation.
+**Hypercalcémie sévère (symptomatique ou > 3 mmol/L)** : urgence, USC ou réanimation en théorie, en pratique c'est > 3.5 ou symptomatique. 
 
 1.  **Arrêter les traitements à risque**
     -   Hypercalcémiants : calcium, vitamine D et dérivés, thiazidiques, lithium
@@ -123,15 +123,22 @@ _Rappel_ :
     -   **Digitaliques** (potentialisent la toxicité cardiaque)
 2.  **Réhydratation** par NaCl 0,9 % IV : 1 L la première heure, puis 4 L sur 24 h
 3.  **Traitement hypocalcémiant**
-    -   **Biphosphonates** (ZOMETA = acide zoledronique 4mg ou pamidronate): action retardée (début à 48 h, efficacité maximale à 1 semaine)
-    -   **Dénosumab** (anti-RANKL) en 2ᵉ intention
-    -   Calcimimétiques possibles dans les hypercalcémies sans traitement étiologique accessible
-4.  **Corticoïdes** (↓ absorption digestive du Ca) : myélome et autres hémopathies, sarcoïdose
-5.  **Épuration extra-rénale** si :
+     - **Biphosphonates** (action retardée = début à 48 h, efficacité maximale à 1 semaine) :
+       - ZOMETA = acide zoledronique 4mg
+       - pamidronate :
+         - 30 mg si calcémie inférieure à 3 mmol/L
+         - 60 mg si calcémie comprise entre 3 et 3,5 mmol/L
+         - 90 mg si calcémie supérieure à 3,5 mmol/L.    
+    * **Dénosumab** (anti-RANKL) en 2ᵉ intention
+    * **Calcimimétiques** possibles dans les hypercalcémies sans traitement étiologique accessible
+    *  **Corticoïdes** (↓ absorption digestive du Ca) : myélome, autres hémopathies, granulomatoses et en particulier la sarcoïdose
+    * La **Calcitonine** n’est pratiquement plus utilisée  car l’effet est très transitoire.
+    
+6.  **Épuration extra-rénale** si :
     -   hypercalcémie sévère engageant immédiatement le pronostic vital (troubles du rythme)
     -   hypercalcémie sévère avec IRA organique oligo/anurique
-6.  **Surveillance quotidienne** : ionogramme, fonction rénale, ECG
-7.  **Bilan et traitement étiologique**
+7.  **Surveillance quotidienne** : ionogramme, fonction rénale, ECG
+8.  **Bilan et traitement étiologique**
     -   HPT primaire : chirurgie (après imagerie préopératoire)
     -   Autres causes : traiter la cause (cancer, granulomatose, arrêt du médicament en cause, etc.)
 
