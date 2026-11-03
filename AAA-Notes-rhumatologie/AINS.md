@@ -100,7 +100,8 @@ Choc anaphylactique, toxidermies, urticaire, syndrome de Widal (asthme + polypos
 Hépatites médicamenteuses immuno-allergiques (1/10 000)
 ## Augmentation du risque infectieux
 Inhibition de certaines fonctions des PNNs 
-Par exemple aggravation d'une angine en phlegmon. 
+Par exemple : 
++ aggravation d'une angine en phlegmon. 
 + aggravation d'une varicelle (syndrome de Reye)
 ## AAP 
 Tous ne le sont pas forcément. 
