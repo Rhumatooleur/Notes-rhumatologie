@@ -50,10 +50,6 @@
         "file": "AAA-Notes-rhumatologie/Injectables/Corticoïdes.md"
       },
       {
-        "name": "Corticothérapie orale",
-        "file": "AAA-Notes-rhumatologie/Corticothérapie orale 1bf45f5988be80f0a065ff59aea27690.md"
-      },
-      {
         "name": "Diabète et corticoïdes",
         "file": "AAA-Notes-rhumatologie/Corticothérapie/Diabète et corticoïdes 14645f5988be809492f7d287fa135243.md"
       },
@@ -124,6 +120,10 @@
       {
         "name": "Injectables",
         "file": "AAA-Notes-rhumatologie/Injectables 1bf45f5988be806abe3cccf567c77d00.md"
+      },
+      {
+        "name": "Insuffisance corticotrope",
+        "file": "AAA-Notes-rhumatologie/Corticothérapie orale 1bf45f5988be80f0a065ff59aea27690.md"
       },
       {
         "name": "Leflunomide",
