@@ -28,6 +28,7 @@
 [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md)
 [Névralgie pudendale](AAA-Notes-rhumatologie/Névralgie-pudendale.md)
 **Autres**
+[Bursites](AAA-Notes-rhumatologie/bursites.md)
 [Sclerose laterale amyotrophique ](AAA-Notes-rhumatologie/Sclerose-laterale-amyotrophique.md)
 [Camptocormie](AAA-Notes-rhumatologie/Camptocormie.md)
 
