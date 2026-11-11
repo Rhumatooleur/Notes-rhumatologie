@@ -46,3 +46,54 @@ Goutte
 2.  **Immunodépression ?** diabète (++), corticothérapie > 20 mg/j ≥ 4 sem, immunosuppresseurs, cancer actif, VIH, transplantation, cirrhose, alcoolisme chronique, neutropénie.
 3.  **Échec du traitement initial ?** bursite présumée banale qui ne cède pas ou s'aggrave sous traitement symptomatique.
 4. **Porte d'entrée cutanée ?** plaie, écorchure, folliculite, grattage, griffure/morsure animale, piqûre végétale, injection.
+
+## Indications de ponction
+Si absence d'éléments en faveur d'une cause septique. 
+## Indications d'hospitalisation (un ou plusieurs critères doivent faire considérer hospit)
+| Indication d'hospitalisation | Critère |
+|---|---|
+| **Signes locaux** | cellulite péribursique étendue |
+| **Signes généraux** | fièvre, frissons, hyperleucocytose, CRP ↑ ; sepsis : **qSOFA ≥ 2** (FR > 22/min, confusion, PAS < 100 mmHg) |
+| **Terrain** | diabète · alcoolisme chronique · hypogammaglobulinémie · neutropénie ≤ 500/mm³ · corticoïdes > 20 mg/j ≥ 4 sem ou maladie auto-immune sous corticothérapie au long cours · cancer actif · VIH · transplantation · cirrhose Child-Pugh B/C |
+| **Évolution** | échec à J3–J5 d'un traitement ambulatoire bien conduit |
+
+## Antibiothérapie 
+**Cible :** _S. aureus_ (62–88 %) et streptocoques β-hémolytiques (10–20 %) ; > 95 % de cocci Gram+.
+
+| Situation | Molécule | Posologie |
+| --- | --- | --- |
+| Ambulatoire — 10 j | Amoxicilline-clavulanate PO | 50–100 mg/kg/j en 3 prises (≤ 6 g/j d'amox, ≤ 600 mg/j de clavulanate) → _en pratique 1 g × 3/j, jusqu'à 2 g × 3/j_ |
+|     | Pristinamycine PO | 3 g/j en 3 prises (1 g × 3) |
+| Allergie pénicilline | Clindamycine PO | 600 mg × 3/j (moins cher que la pristinamycine) |
+|     | Céfalexine PO (si SAMS) | 3–4,5 g/j en 3 prises, à distance des repas, sans produits laitiers  |
+| Hospitalisé sévère — IV | Céfazoline | 2 g en 1 h puis 60–80 mg/kg/j /6 h (≈ 5 g/j si < 70 kg ; 6–7 g/j si > 70 kg) en 4 perfusions de 1–2 h |
+|     | Cloxacilline | 2 g en 1 h puis 100 mg/kg/j /6 h |
+| Relais oral | Amox-clav ou pristinamycine | dès l'amélioration clinique |
+
+
+**Durées :** 
+- ambulatoire 10 j (→ 14 j si évolution défavorable)
+- hospitalisé 14–21 j au total, avec relai une fois amélioration clinique
+- post-chirurgical 7–10 j
+
+## Suivi 
+
+-   Réévaluation clinique J3–J5 (la stérilisation du liquide prend 4 j) → si favorable, poursuivre jusqu'à 10 j.
+-   Si défavorable malgré une molécule et une dose adaptées → hospitalisation puis avis chirurgical.
+-   Consignes au patient : reconsulter si extension de l'érythème, fièvre persistante, douleur croissante, écoulement/fistulisation.
+
+## Ponctions itératives
+Non recommandées, passer à la chir si mauvaise évolution malgré ttt médical bien conduit
+
+## Chirurgie 
+**D'emblée :** abcès, nécrose, fistulisation, ostéite, corps étranger, infection osseuse ou articulaire contiguë.
+**Secondairement :** échec à 3–5 j d'ATB bien conduite ; bursopathie symptomatique persistante après guérison.
+## Mesures associées
+* Repos antalgique
+* orthèse amovible
+* bandage compressif
+* statut antitétanique si plaie
+* pas de pansement alcoolisé
+* **prévention :** genouillères pour les travailleurs à genoux (et prêtres/religieuses), soins cutanés chez les sujets à risque.
+* Hygroma aigu et bursopathie chronique : **maladie professionnelle, tableau 57.**
+
