@@ -1,29 +1,4 @@
-# Pièges
-## Bursites vs arthrite
-### Genou
-|     | Arthrite  | Bursite  |
-| --- | --- | --- |
-| Siège du gonflement | sus-rotulien | infra-rotulien |
-| Choc rotulien | présent | absent |
-| Signes cutanés inflammatoires | habituellement absents | souvent présents |
-| Flessum | souvent présent | absent |
-| Lésion cutanée | rarement | souvent |
-
-### Coude
-
-|     | Arthrite  | Bursite |
-| --- | --- | --- |
-| Siège du gonflement | latéral | postérieur |
-| Signes cutanés inflammatoires | généralement absents | souvent présents |
-| Flessum | présent | absent |
-| Lésion cutanée | rarement | souvent |
-
-## Bursites vs Hygroma
-**Hygroma = mécanique** 
--> microtrraumatismes (bâtiment, religieux,...)
--> peut se compliquer d'une bursite 
-
-# Etiologies des bursites
+# 1)Etiologies des bursites
 | Étiologie | Arguments | Liquide bursique |
 |---|---|---|
 | **Septique** (⅓ des bursites) | porte d'entrée (plaie/folliculite/griffure/piqûre) ; cellulite 28–93 % ; fièvre 17–77 % ; peau chaude 29–94 % ; ADP inguinale 26 % | trouble ou purulent, > 2 000 NE/mm³  |
@@ -34,9 +9,8 @@
 | **Diagnostic différentiel => Hydroxyapatite** (phase résorptive) | calcification en écho | ?|
 
 ![image](.attachments/32f5daa1905abbf6f8184e218d8e10dfc5a53ba8.png) 
-# Bursites septiques
-![image](.attachments/6a0b335cc79d75c3ab14fcfdfb78ded4041c9e5e.png) 
-## Interrogatoire 
+# 2) Interrogatoire et examen clinique 
+## Interrogatoire
 ### Terrain = Bursopathie préexistante ? 
 Hygroma chronique (microtraumatismes répétés)
 PR
@@ -47,6 +21,32 @@ Goutte
 2.  **Immunodépression ?** diabète (++), corticothérapie > 20 mg/j ≥ 4 sem, immunosuppresseurs, cancer actif, VIH, transplantation, cirrhose, alcoolisme chronique, neutropénie.
 3.  **Échec du traitement initial ?** bursite présumée banale qui ne cède pas ou s'aggrave sous traitement symptomatique.
 4. **Porte d'entrée cutanée ?** plaie, écorchure, folliculite, grattage, griffure/morsure animale, piqûre végétale, injection.
+## Pièges
+### Bursites vs arthrite
+#### Genou
+|     | Arthrite  | Bursite  |
+| --- | --- | --- |
+| Siège du gonflement | sus-rotulien | infra-rotulien |
+| Choc rotulien | présent | absent |
+| Signes cutanés inflammatoires | habituellement absents | souvent présents |
+| Flessum | souvent présent | absent |
+| Lésion cutanée | rarement | souvent |
+
+#### Coude
+
+|     | Arthrite  | Bursite |
+| --- | --- | --- |
+| Siège du gonflement | latéral | postérieur |
+| Signes cutanés inflammatoires | généralement absents | souvent présents |
+| Flessum | présent | absent |
+| Lésion cutanée | rarement | souvent |
+
+### Bursites vs Hygroma
+**Hygroma = mécanique** 
+-> microtrraumatismes (bâtiment, religieux,...)
+-> peut se compliquer d'une bursite 
+# 3) Prise en charge des bursites septiques
+![image](.attachments/6a0b335cc79d75c3ab14fcfdfb78ded4041c9e5e.png) 
 
 ## Indications de ponction
 Si absence d'éléments en faveur d'une cause septique. 
