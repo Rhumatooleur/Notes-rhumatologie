@@ -33,8 +33,9 @@
 | **Hygroma chronique** (microtraumatismes pro) | métier à genoux, bursopathie ancienne | < 2 000 NE/mm³, sans cristaux |
 | **Diagnostic différentiel => Hydroxyapatite** (phase résorptive) | calcification en écho | ?|
 
-
+![image](.attachments/32f5daa1905abbf6f8184e218d8e10dfc5a53ba8.png) 
 # Bursites septiques
+![image](.attachments/6a0b335cc79d75c3ab14fcfdfb78ded4041c9e5e.png) 
 ## Interrogatoire 
 ### Terrain = Bursopathie préexistante ? 
 Hygroma chronique (microtraumatismes répétés)
