@@ -140,6 +140,8 @@ Zolédronate : OK si DFG>30 avec perfusion lente (1h) ; Une étude avec DFG<30, 
 Alendronate et Risédronate possibles si DFG 15-30 uniquement dû à l’âge sans pathologie rénale ? _Miller PD, Roux C, Boonen S, et al. Safety and efficacy of risedronate in patients with age-related reduced renal function as estimated by the Cockcroft and Gault method : a pooled analysis of nine clinical trials. J Bone Miner Res 2005;20:2105-15._
 
 ## Ostéoporose masculine 
+## Ostéoporose et cancer de prostate
 
+![image](.attachments/a157ceb75778951571fad03f331c485a965ec6ba.png) 
 ---
 **Voir aussi (imagerie)** : [Fractures vertébrales](../AAA-Radiologie-ostéoarticulaire/Rachis/Fractures-vertébrales.md) · [Pathologies osseuses hors tumeurs](../AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)
