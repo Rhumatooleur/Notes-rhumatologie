@@ -48,8 +48,11 @@ Goutte
 # 3) Prise en charge des bursites septiques
 ![image](.attachments/6a0b335cc79d75c3ab14fcfdfb78ded4041c9e5e.png) 
 
-## Indications de ponction
-Si absence d'éléments en faveur d'une cause septique. 
+## Ponction
+**Indication** : Si absence d'éléments en faveur d'une cause septique. 
+**Réalisation** : 
+- écho reperage : vérifier absence d'arthrite associée et que épanchement ponctionnable (pas tissulaire)
+- partir de la zone seine et passer sous la peau jusqu'à la bursite. 
 ## Indications d'hospitalisation (un ou plusieurs critères doivent faire considérer hospit)
 | Indication d'hospitalisation | Critère |
 |---|---|
