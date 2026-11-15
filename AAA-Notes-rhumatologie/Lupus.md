@@ -2,17 +2,31 @@
 Maladie rare
 9 femmes pour 1 homme 
 période d'activité ovarienne (max entre 30 et 39 ans)
+# Interrogatoire
+### Contexte
+- Antécédents personnels et/ou familiaux de maladies auto-immunes ou de déficits immunitaires
+- Antécédents de manifestations cliniques compatibles avec un LS et/ou un SAPL
+- Prise de médicaments potentiellement inducteurs
+### Symptomes généraux
+* Fièvre
+* Asthénie • Anorexie • Amaigrissement
 # Clinique
 ### Cutané 
 Photosensibilité
-Éruption des zones photo-exposées
+Éruption des zones photo-exposées : 
+- Lupus aigu
+- Lupus subaigu
+- Lupus discoïde
+Ulcérations buccales 
 ### Articulaire
 Arthralgies inflammatoires, ± arthrites
+=> polyarthrite ou arthralgies
 ### Sérites
 ### Atteinte rénale
 Protéinurie
 ### Atteinte hématologique
 Cytopénie(s)
+Adénomégalie et hépatosplénomégalie
 ### Hypocomplémentémie 
 Diminution du CH50, des fractions C3 et C4
 ### Atteinte neurologique
