@@ -1,3 +1,38 @@
+# Epidémio
+# Clinique
+### Cutané 
+Photosensibilité
+Éruption des zones photo-exposées
+### Articulaire
+Arthralgies inflammatoires, ± arthrites
+### Sérites
+### Atteinte rénale
+Protéinurie
+### Atteinte hématologique
+Cytopénie(s)
+### Hypocomplémentémie 
+Diminution du CH50, des fractions C3 et C4
+### Atteinte neurologique
+### SAPL
+# Paraclinique
+## Biologie 
+### Dissociation VS/CRP
+élévation de la VS alors que la CRP reste normale
+### Anticorps 
+* Antinucléaires (ou anti-noyaux)
+* Anti-ADN natif
+* Anti-Sm
+* SAPL = antiphospholipides : 
+  - anticoagulant circulant
+  - anticardiolipine
+  - anti-bêta2-glycoprotéine de type I (β2GPI)
+* FR
+
+# Diagnostic
+## Lupus
+## SAPL
+Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'intervalle.
+
 # Traitement
 **Traitement de crise :**
 Prednisone
