@@ -1,4 +1,7 @@
 # Epidémio
+Maladie rare
+9 femmes pour 1 homme 
+période d'activité ovarienne (max entre 30 et 39 ans)
 # Clinique
 ### Cutané 
 Photosensibilité
@@ -29,7 +32,41 @@ Diminution du CH50, des fractions C3 et C4
 * FR
 
 # Diagnostic
-## Lupus
+## Critères EULAR/ACR 2019 - Lupus Systémique
+
+**Critère d'entrée obligatoire** : ANA ≥ 1/80 (HEp2 ou équivalent)
+
+**Règles** : 
+- Ne pas compter comme critère, si une autre explication que le LS est plus probable
+- Une seule occurrence du critère est suffisante pour qu’il soit comptabilisé
+- Il n’est pas nécessaire que les critères soient présents simultanément
+- Pour chaque domaine c’est le critère au score le plus élevé qui est comptabilisé
+
+| Domaine | Critère | Points |
+|---------|---------|--------|
+| Constitutionnel | Fièvre | 2 |
+| Hématologique | Leucopénie | 3 |
+| Hématologique | Thrombopénie | 4 |
+| Hématologique | Hémolyse auto-immune | 4 |
+| Neuro-psychiatrique | Délire | 2 |
+| Neuro-psychiatrique | Psychose | 3 |
+| Neuro-psychiatrique | Convulsions | 5 |
+| Cutanéo-muqueux | Alopécie non cicatricielle | 2 |
+| Cutanéo-muqueux | Érosion buccale | 2 |
+| Cutanéo-muqueux | Lupus discoïde/sous-aigu | 4 |
+| Cutanéo-muqueux | Lupus aigu | 6 |
+| Sérites | Épanchement pleural/péricardique | 5 |
+| Sérites | Péricardite aiguë | 6 |
+| Articulaire | Atteinte articulaire | 6 |
+| Rénal | Protéinurie > 0,5 g/24h | 4 |
+| Rénal | Glomérulonéphrite classe II/V | 8 |
+| Rénal | Glomérulonéphrite classe III/IV | 10 |
+| Immunologique | aCL / anti-β2GP1 / anticoagulant circulant | 2 |
+| Immunologique | C3 bas **ou** C4 bas | 3 |
+| Immunologique | C3 bas **et** C4 bas | 4 |
+| Immunologique | Anti-ADN natif **ou** anti-Sm | 6 |
+
+**Classification LS** : ≥ 1 critère clinique **+ score total ≥ 10** (Se 96 % / Sp 93 %)
 ## SAPL
 Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'intervalle.
 
