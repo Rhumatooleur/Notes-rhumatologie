@@ -117,3 +117,6 @@ Chirurgie uniquement pour les type 2
 **Sciatique S1**
 ## Pied plat valgus
 [Pied plat valgus](Pied/Piedplatvalgus.md)
+## Atteintes du Lisfranc
+### Arthropathies mécaniques 
+**Débutent souvent par une atteinte C2-M2**
