@@ -98,10 +98,6 @@
         "file": "AAA-Notes-rhumatologie/PPR 1d545f5988be80ebaec8d04995865623.md"
       },
       {
-        "name": "Epidémio",
-        "file": "AAA-Notes-rhumatologie/Lupus.md"
-      },
-      {
         "name": "Epidémiologie",
         "file": "AAA-Notes-rhumatologie/PR 14c45f5988be8081b248ecff7e4ab0c8.md"
       },
@@ -140,6 +136,14 @@
       {
         "name": "Leflunomide",
         "file": "AAA-Notes-rhumatologie/csDMARDs/Leflunomide 2b545f5988be80618a9efa5a91f8043f.md"
+      },
+      {
+        "name": "Lupus",
+        "file": "AAA-Notes-rhumatologie/Lupus.md"
+      },
+      {
+        "name": "Lupus systémique — v2 (PNDS 2024)",
+        "file": "AAA-Notes-rhumatologie/Lupus_v2.md"
       },
       {
         "name": "Maladie de Paget",
