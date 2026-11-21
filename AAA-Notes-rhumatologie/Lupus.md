@@ -211,7 +211,8 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 ## Traitement médicamenteux
 ### Traitement de crise 
 **Prednisone :** 
-* dose initiale  :
+* Bolus initiaux 500 à 1000mg par jour de methylprednisolone
+* Relai per os avec dose initiale  :
   * 0.5 mg/Kg la plupart du temps
   * 1mg/Kg sans dépasser 60 à 80mg par jour selon le poids si :
     * patients afro-américains
@@ -224,6 +225,7 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
   * 7,5 mg de la semaine 19 à M6
   * 5mg de M6 à M12
   * Arrêt à discuter à M12
+![image](.attachments/b88423ea7f0a26a12c997823b45af829642ef61b.png) 
   
 **AINS :**
 * PAS ibuprofène car risque de méningite aseptique
@@ -263,7 +265,6 @@ déconseillée.
 * **Rituximab ou Abatacept** si Rhupus
 ### Traitement des manifestations cutanées
 
- 
 ## Mesures associées
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
 * Photoprotection (comme en population générale)
@@ -274,7 +275,7 @@ déconseillée.
 * Prévention infectieuse (pneumocoque +/- zona selon ttts)
 * Aspirine en prévention primaire si triple positif des ac SAPL
 * Orthèses et rééducation de la main de Jaccoud
-
+* Contraception si traitement de fond tératogène (pilule microprogestative ; COP possible si pas de complication cardiovasc du lupus ou FDR thromboemboliques)
 ![image](.attachments/acf6025094811dfeb85a911ee120208fd0868f5b.jpg) 
 ![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
 ![image](.attachments/02c8ca577e1f8f1deeea1cffc73b7c7a52fdae98.jpg)
@@ -310,8 +311,15 @@ déconseillée.
 => Augmentationdu risque de rechute < 750 ng/ml
 
 # Grossesse
+Circonstances déconseillant temporairement ou définitivement la planification d’une grossesse : 
+* poussée lupique récente 
+* corticodépendance (> 10 mg/j)
+* débit de filtration glomérulaire < 40 mL/min/1,73m²
+* HTA sévère
+* hypertension pulmonaire imparfaitement contrôlée
+* valvulopathie mal tolérée.
 
-Pas contre indiqué
-Mais maladie en rémission depuis 6 mois (1 an si maladie rénale)
+=> **Maladie en rémission depuis 6 mois (1 an si maladie rénale)**
+
 Stop MTX 
 
