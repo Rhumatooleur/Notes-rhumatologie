@@ -208,14 +208,37 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 - **Score requis pour la classification** : au moins 3 points dans les domaines cliniques et 3 points dans les domaines biologiques
 
 # Traitement
-**Traitement de crise :**
-Prednisone
-AINS (PAS ibuprofène car risque de méningite aseptique)
+## Traitement médicamenteux
+### Traitement de crise 
+**Prednisone :** 
+* dose initiale  :
+  * 0.5 mg/Kg la plupart du temps
+  * 1mg/Kg sans dépasser 60 à 80mg par jour selon le poids si :
+    * patients afro-américains
+    * Atteinte rénale : 
+      * présence de croissants glomérulaires
+      * insuffisance rénale aigue
+      * activité histologique > 50%
+    * atteinte sévère neurologique centrale ou myocardique
+* Objectifs de la décroissance :
+  * 7,5 mg de la semaine 19 à M6
+  * 5mg de M6 à M12
+  * Arrêt à discuter à M12
+  
+**AINS :**
+* PAS ibuprofène car risque de méningite aseptique
+* L’utilisation des AINS en cas d’atteinte rénale, neurologique ou vasculaire est
+déconseillée.
 
-**Traitement de fond**
-Hydroxychloroquine pour tout le monde : 
+### Traitement de fond
+
+**Hydroxychloroquine pour tout le monde :**
 * 5-6,5mg/kg
-* En général ça fait 300mg => 1 cp jours impairs et 2 cps jours pairs
+* En général ça fait 300mg
+  * => 1 cp de 200mg jours impairs et 2 cps jours pairs
+  * => ou 2 comprimés par jour
+* Adapter à fonction rénale ou hépatique
+* Son délai d’efficacité sur les signes articulaires est de 2 à 12 semaines.
 * Effets secondaires :
   * Digestifs transitoires : ttt symptomatique
   * Allergie cutanée rare => cs allergo
@@ -223,18 +246,34 @@ Hydroxychloroquine pour tout le monde :
   * "Jambes de plaquenil" = purpura
   * Cardiopathie => ECG Si lipothymies
 
-MTX
-MFM
-Inhibiteurs des calcineurines (ciclosporine et tacrolimus)
-Belimumab
-Anifrolumab
+**+ MTX hors AMM :** 
+* Indications :
+  * en cas d'inefficacité de l'HCQ seule sur les manifestations articulaires
+  * d'emblée si polyarthralgie invalidante
+  * si corticodépendance
+* 15-25mg/Kg par semaine
+
+**MFM :**
+* Efficacité articulaire non démontrée 
+
+**Inhibiteurs des calcineurines** (ciclosporine et tacrolimus)
+**Biothérapies**
+* **Belimumab**
+* **Anifrolumab**
+* **Rituximab ou Abatacept** si Rhupus
+### Traitement des manifestations cutanées
+
  
-**Mesures associées**
+## Mesures associées
 * Stop tabac (moins de poussées et meilleure efficacité du tttt)
-* Photo protection (comme en population générale)
-* Exercice physique
+* Photoprotection (comme en population générale)
+* Exercice physique **pour lutter contre la fatigue et l'ostéporose**
+* Prévention de l'ostéoporose cortico-induite :
+  * Supplémentation vitaminocalcique
+  * Pas de traitement spécifique < 50 ans en général (sauf gros facteurs de risque ou #)
 * Prévention infectieuse (pneumocoque +/- zona selon ttts)
 * Aspirine en prévention primaire si triple positif des ac SAPL
+* Orthèses et rééducation de la main de Jaccoud
 
 ![image](.attachments/acf6025094811dfeb85a911ee120208fd0868f5b.jpg) 
 ![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
@@ -266,8 +305,9 @@ Anifrolumab
 
 **1 examen ophtalmologique de base** puis un tous les 5 ans après 5 ans de ttt
 
-**Observance :**
-  => dosage HCQ > 200ng/ml sinon inobservance (dosage non remboursé en ville => forfait hôpital)
+**Dosage sanguin du taux d'HCQ**
+=> Inobservance si dosage < 200ng/ml (dosage non remboursé en ville => forfait hôpital)
+=> Augmentationdu risque de rechute < 750 ng/ml
 
 # Grossesse
 
