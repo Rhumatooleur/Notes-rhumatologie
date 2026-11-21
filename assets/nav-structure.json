@@ -22,6 +22,10 @@
     "collapsed": true,
     "pages": [
       {
+        "name": "1)Etiologies des bursites",
+        "file": "AAA-Notes-rhumatologie/bursites.md"
+      },
+      {
         "name": "Acide hyaluronique",
         "file": "AAA-Notes-rhumatologie/Injectables/Acide hyaluronique 1b645f5988be8074a217f4186e01bd20.md"
       },
@@ -94,6 +98,14 @@
         "file": "AAA-Notes-rhumatologie/PPR 1d545f5988be80ebaec8d04995865623.md"
       },
       {
+        "name": "Epidémio",
+        "file": "AAA-Notes-rhumatologie/Lupus.md"
+      },
+      {
+        "name": "Epidémiologie",
+        "file": "AAA-Notes-rhumatologie/PR 14c45f5988be8081b248ecff7e4ab0c8.md"
+      },
+      {
         "name": "Fibromyalgie et troubles somatiques fonctionnels",
         "file": "AAA-Notes-rhumatologie/Fibromyalgie et troubles somatiques fonctionnels 18545f5988be802fbf71d3a2dbf61d05.md"
       },
@@ -162,10 +174,6 @@
         "file": "AAA-Notes-rhumatologie/Osteoporose 17745f5988be80deb86af4289bb8373e.md"
       },
       {
-        "name": "PR",
-        "file": "AAA-Notes-rhumatologie/PR 14c45f5988be8081b248ecff7e4ab0c8.md"
-      },
-      {
         "name": "Principe et réalisation",
         "file": "AAA-Notes-rhumatologie/Ondes_de_choc.md"
       },
@@ -204,10 +212,6 @@
       {
         "name": "Traitement",
         "file": "AAA-Notes-rhumatologie/Gougerot.md"
-      },
-      {
-        "name": "Traitement",
-        "file": "AAA-Notes-rhumatologie/Lupus.md"
       },
       {
         "name": "Traitement de l'arthrose",

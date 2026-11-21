@@ -1,7 +1,5 @@
 # Métatarsalgies
 
-Propriétaire: quentin campeol
-
 ### Métatarsalgies mécaniques :
 
 1. **Bursites inter-capito métatarsiennes** 

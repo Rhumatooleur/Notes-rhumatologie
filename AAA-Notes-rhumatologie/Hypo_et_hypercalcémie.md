@@ -227,6 +227,17 @@ _Rappel_ :
 -   **Diminution des entrées de calcium dans la circulation**
     -   malabsorption intestinale
     -   diminution de la résorption osseuse
+## Traitement symptomatique d’une hypocalcémie chronique
+
+Traitements visant à la restauration rapide de la calcémie:
+
+-   Supplémentation en calcium : 500 à 2000 mg/j en 3-4 prises en dehors des repas
+-   Max 500 mg/j si insuffisance rénale.
+-   Suspension des traitements allongeant l’espace QT
+-   Supplémentation en vitamine D
+-   Si hypomagnésémie : supplémentation en magnésium
+-   Si insuffisance rénale sévère avec carence en calcitriol: supplémentation en 1-α OH-vitamine D (Alfacalcidiol, Un Alfa®, Un-Alfa®) ou 1, 25 OH vitamine D (Rocaltrol®)
+-   Si hypoparathyroïdie: supplémentation en calcium et vitamine D (1-α ou 1, 25) avec pour cible l’absence de symptômes (et non une normocalcémie).
 
 ---
 **Voir aussi (imagerie)** : [Pathologies osseuses hors tumeurs (hyperparathyroïdie, ostéomalacie)](../AAA-Radiologie-ostéoarticulaire/Pathologies-osseuses-hors-tumeurs.md)

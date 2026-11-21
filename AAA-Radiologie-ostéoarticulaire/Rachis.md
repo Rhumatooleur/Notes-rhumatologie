@@ -152,6 +152,7 @@ Se voit sur la coupe pédiculo-lamaire dans laquelle normalement on voit l’int
   * Post traumatique
   * Pathologique
   * Post-opératoire
+
 ### Kystes de Tarlov
 
 Kystes entre la pie mère et l’arachnoïde au niveau des racines nerveuses surtout sacrées 
@@ -161,6 +162,8 @@ Prévalence 4%
 11mm en moyenne
 
 La plupart du temps asymptomatiques mais peuvent entrainer des douleurs lombaires, sacrées, radiculalgies, problèmes urinaires, gyneco et sexuels,…
+
+Il serait décrit que seulement 5% seraient symptomatiques mais c'est débattu. 
 
 Signe important = douleur sacrée à la station assise 
 
