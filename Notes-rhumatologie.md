@@ -42,6 +42,12 @@
 [Corticothérapie](AAA-Notes-rhumatologie/Corticoth%C3%A9rapie%20orale%201bf45f5988be80f0a065ff59aea27690.md)
 [AINS](AAA-Notes-rhumatologie/AINS.md)
 
+### Initiation des traitements
+
+[Bilan à l'initiation d'une probable corticothérapie prolongée](AAA-Notes-rhumatologie/Initiation%20corticoth%C3%A9rapie%20prolong%C3%A9e.md)
+[Initiation colchicine et hypo-uricémiants](AAA-Notes-rhumatologie/Initiation%20colchicine%20et%20hypo-uric%C3%A9miants.md)
+[Vitamine D](AAA-Notes-rhumatologie/Vitamine%20D.md)
+
 ## Thérapeutiques non médicamenteuses
 [Ondes de choc](AAA-Notes-rhumatologie/Ondes_de_choc.md)
 ### Gestes et médicaments injectables 🤺 
