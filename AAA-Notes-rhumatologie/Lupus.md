@@ -36,15 +36,63 @@ Diminution du CH50, des fractions C3 et C4
 ## Biologie 
 ### Dissociation VS/CRP
 élévation de la VS alors que la CRP reste normale
+### Anomalies de l'hémogramme
+Anémie : 
+* Centrale normocytaire
+* Hémolytique auto-immune : Test direct à l’antiglobuline (= test de Coombs direct)
+Lymphopénie 
+Neutropénie 
+Thrombopénie
+Syndrome d'Evans = Thrombopénie, anémie hémolytique ± leuconeutropénie auto-immunes
 ### Anticorps 
-* Antinucléaires (ou anti-noyaux)
-* Anti-ADN natif
-* Anti-Sm
+* Antinucléaires (ou anti-noyaux) => sensibles mais peu spécifiques
+* Anti-ADN natif => spécifiques mais moins sensibles
+* Anti ENA :
+  * Anti-Sm
+  * Anti-Ro60/SSA, et anti-La/SSB 
+  * Anti-RNP
 * SAPL = antiphospholipides : 
   - anticoagulant circulant
   - anticardiolipine
   - anti-bêta2-glycoprotéine de type I (β2GPI)
+* D’autres anticorps peuvent être retrouvés au cours du lupus mais ne sont pas à rechercher de façon systématique : anti-nucléosomes, anti-protéines P ribosomales, anti-ku, anti-C1q.
 * FR
+### Hypocomplémentémie
+La présence d’une « hypocomplémentémie » est un argument en faveur du diagnostic de LS mais : 
+* Les baisses du CH50 et du C4 sont très sensibles et peu spécifiques.
+* Seule la baisse du C3 est un biomarqueur plus spécifique du LS. 
+### Recherche d'atteinte rénale
+Recherche de protéinurie, leucocyturie, hématurie
+Créatinine sérique
+### Autres examens biologiques 
+Électrophorèse des protéines sériques
+....
+## Biopsie cutanée 
+Pas systématique. 
+Uniquement si doute sur des lésions. 
+Notamment en cas de purpura pour éliminer des diagnostics différentiels (SAPL vs vascularite)
+## Radiologie
+### Radiographies 
+Normales => à faire pour éliminer diag différentiels
+### Echographie
+Pour donner des arguments au diagnostic (synovites, tenosynovites)
+### Ostéodensitométrie 
+Si 3 mois de corticos ou autres facteurs de risques (remboursée uniquement si > 3 mois > 7.5mg/j)
+## Biopsie rénale 
+### Indiquée en cas : 
+* de protéinurie ≥ 0.5g/g ou 0.05 g/mmol sur échantillon ou 0.5g/24h
+* une protéinurie persistante (en l’absence d’une infection urinaire associée ou des menstruations) à des taux inférieurs à ces seuils
+* une insuffisance rénale inexpliquée.
+### Interprétation : 
+-   Escalade thérapeutique : **classes III(A)/IV(A)** (prolifératives actives, focales ou diffuses) et **III(A)/IV(A) + V** (même valeur péjorative).
+  
+-   Pas d'escalade :
+    * classes I–II (mésangiales, pronostic favorable
+    * III(C)/IV(C) pures (lésions chroniques séquellaires — attention : chronicité élevée = risque d'IRC).
+-   Hors glomérule :
+    * tubulo-interstitiel = valeur pronostique, rarement traité agressivement
+    * vasculaire lupique avec vascularite = même valeur qu'une lésion active (escalade)
+    * vasculaire thrombotique = traiter l'entité associée (SAPL, SHU atypique, HTA maligne), pas le lupus.
 
 # Diagnostic
 ## Critères EULAR/ACR 2019 - Lupus Systémique
@@ -84,6 +132,36 @@ Diminution du CH50, des fractions C3 et C4
 **Classification LS** : ≥ 1 critère clinique **+ score total ≥ 10** (Se 96 % / Sp 93 %)
 ## SAPL
 Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'intervalle.
+
+**Critères de classification ACR EULAR 2023 du SAPL**
+*(D'après Barbhaiya et al. Ann Rheum Dis ; Oct 2023)*
+
+| Domaines | Levels | Score |
+|---|---|---|
+| **Cliniques** | | |
+| 1 : Macrovasculaire, maladie thrombo-embolique veineuse | MTEV provoquée | 1 |
+| | MTEV non provoquée | 3 |
+| 2 : Macrovasculaire, thrombose artérielle | TA avec FDR CV majeurs | 2 |
+| | TA sans FDR CV majeurs | 4 |
+| 3 : Atteinte microvasculaire | Suspectée | 2 |
+| | Confirmée | 5 |
+| 4 : Manifestations obstétricales | ≥ 3 fausses couches spontanées (< 10 sem) ou perte fœtale | 1 |
+| | Prééclampsie (PEC) sévère ou insuffisance placentaire sévère (< 34 sem) avec ou sans perte fœtale | 3 |
+| | PEC sévère et insuffisance placentaire sévère (< 34 sem) avec ou sans perte fœtale | 4 |
+| 5 : Atteinte valvulaire cardiaque | Épaississement valvulaire | 2 |
+| | Végétation | 4 |
+| 6 : Manifestation hématologique | Thrombocytopénie (20-130 G/L) | 2 |
+| **Biologiques** | | |
+| 7 : Lupus Anticoagulant | Présent à une seule reprise | 1 |
+| | Positif persistant | 5 |
+| 8 : ELISA Anticardiolipine et Anti-β2-Glycoprotéine-I IgG/M ELISA (persistant) | (IgM seule, concentration moyenne ou élevée) (aCL et/ou aβ2GPI) | 1 |
+| | Concentration moyenne (IgG) (aCL ou aβ2GPI) | 4 |
+| | Concentration élevée (IgG) (aCL ou aβ2GPI) | 5 |
+| | Concentration élevée (IgG) (aCL et aβ2GPI) | 7 |
+
+**Classification selon le score**
+- **Score total** : ne compter que le critère avec la plus haute pondération dans chaque domaine (0-34)
+- **Score requis pour la classification** : au moins 3 points dans les domaines cliniques et 3 points dans les domaines biologiques
 
 # Traitement
 **Traitement de crise :**
