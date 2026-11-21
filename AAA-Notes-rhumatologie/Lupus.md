@@ -10,6 +10,7 @@ période d'activité ovarienne (max entre 30 et 39 ans)
 ### Symptomes généraux
 * Fièvre
 * Asthénie • Anorexie • Amaigrissement
+* Fatigue 
 # Clinique
 ### Cutané 
 Photosensibilité
