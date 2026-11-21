@@ -38,8 +38,12 @@ Diminution du CH50, des fractions C3 et C4
 élévation de la VS alors que la CRP reste normale
 ### Anomalies de l'hémogramme
 Anémie : 
-* Centrale normocytaire
-* Hémolytique auto-immune : Test direct à l’antiglobuline (= test de Coombs direct)
+* Centrale normocytaire :
+  * Myélogramme +/- BOM
+* Hémolytique auto-immune :
+  * Frottis sanguin à la recherche de schizocytes
+  * Test direct à l’antiglobuline (= test de Coombs direct)
+  * Haptoglobine, LDH, bilirubine libre
 Lymphopénie 
 Neutropénie 
 Thrombopénie
@@ -62,22 +66,62 @@ La présence d’une « hypocomplémentémie » est un argument en faveur du dia
 * Les baisses du CH50 et du C4 sont très sensibles et peu spécifiques.
 * Seule la baisse du C3 est un biomarqueur plus spécifique du LS. 
 ### Recherche d'atteinte rénale
-Recherche de protéinurie, leucocyturie, hématurie
-Créatinine sérique
+* Recherche de protéinurie, leucocyturie, hématurie
+* Créatinine sérique
+### Bilan cardiovasculaire 
+EAL
+Glycémie à jeun 
 ### Autres examens biologiques 
-Électrophorèse des protéines sériques
-....
+* Électrophorèse des protéines sériques
+* ASAT, ALAT, gamma GT, Phosphatases alcalines, bilirubine, amylase, lipase
+* Diagnostic différentiel :
+  * Sérologies VIH, VHC, parvovirus B19 pour l’exclusion d’une infection virale simulant
+parfois initialement un LS
+  * Anticorps antiprotéines citrulinées (anti-CCP)
+  * Selon la symptomatologie, autres auto-anticorps : anti-mitochondries, anti-LKM, anti-
+actine, anticytoplasme des polynucléaires (liste non exhaustive).
+* Examens selon les manifestations :
+  * CPK
+  * Les anticorps anti-AQP4 et anti-MOG doivent être recherchés en urgence en cas de myélite
+et/ou de névrite optique.
+  * Une cryoglobulinémie et une immunoglobuline monoclonale doivent être recherchées en cas de mononeuropathie simple ou multiple.
+* Examens en fonction du contexte clinique et des options thérapeutiques
+envisagées :
+  * Ionogramme sanguin, glycémie, albuminémie
+  * Électrophorèse des protéines plasmatiques
+  * Calcémie – phosphorémie
+  * CPK
+  * TP, TCA
+  * Dosage des IgA sériques : recherche d’un déficit associé
+  * Recherche d’un déficit en fractions C1q, C1r, C1s, C2 du complément dans les LS avec
+activité effondrée du CH50 persistante pendant les périodes prolongées de rémission
+  * Test de grossesse
+  * Avant instauration d’une corticothérapie à dose immunosuppressive, d’un
+immunosuppresseur ou d’une biothérapie : sérologie VIH, hépatite C et B (AgHBs, AcHBs
+et Ac HBc) et radiographie de thorax
+
 ## Biopsie cutanée 
 Pas systématique. 
 Uniquement si doute sur des lésions. 
 Notamment en cas de purpura pour éliminer des diagnostics différentiels (SAPL vs vascularite)
 ## Radiologie
 ### Radiographies 
-Normales => à faire pour éliminer diag différentiels
+* Articulaires => normales => à faire pour éliminer diag différentiels
+* Thorax de face + profil 
 ### Echographie
 Pour donner des arguments au diagnostic (synovites, tenosynovites)
 ### Ostéodensitométrie 
 Si 3 mois de corticos ou autres facteurs de risques (remboursée uniquement si > 3 mois > 7.5mg/j)
+## Autres examens complémentaires 
+### Bilan ophtalmologique 
+Lors de la mise sous HCQ, ce bilan pouvant être fait dans les mois
+suivant la mise en route du traitement. 
+=> Examen ophtalmologique, champ visuel central automatisé 10° et OCT-SD.
+### ECG
+### echographie trans-thoracique de référence 
+### IPS et écho-doppler artériel de référence
+### Scanner thoracique 
+En cas de suspicion d'atteinte respiratoire ou radio anormale. 
 ## Biopsie rénale 
 ### Indiquée en cas : 
 * de protéinurie ≥ 0.5g/g ou 0.05 g/mmol sur échantillon ou 0.5g/24h
@@ -166,7 +210,7 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 # Traitement
 **Traitement de crise :**
 Prednisone
-AINS (PAS ibuprofen car risque de méningite aseptique)
+AINS (PAS ibuprofène car risque de méningite aseptique)
 
 **Traitement de fond**
 Hydroxychloroquine pour tout le monde : 
@@ -196,10 +240,25 @@ Anifrolumab
 ![image](.attachments/35eca1059226b1471f881015baf981d1d57235a8.jpg) 
 ![image](.attachments/02c8ca577e1f8f1deeea1cffc73b7c7a52fdae98.jpg)
 # Objectif
-SLEDAI < 5
-CTC < 7.5mg/j
-PGA (physician general assessment) < 1 
-= LLDAS 
+## Faible activité (_Lupus Low Disease Activity State_)
+* **SLEDAI :**
+  * Score SLEDAI-2K ≤ 4 5
+  * Pas d'activité dans les systèmes d'organes majeurs (rein, système nerveux central, cœur, vascularite et fièvre)
+  * Pas anémie hémolytique ni activité gastro-intestinale
+* **Prednisone ≤ 7,5 mg/j**
+* **PGA (physician general assessment)  ≤ 1** (sur une échelle visuelle analogique de 0 à 3)
+## Rémission
+* **SLEDAI = 0**
+* **Prednisone ≤ 5 mg/j**
+* **PGA (physician global assessment) < 0,5** (sur une échelle visuelle analogique de 0 à 3)
+## Score PGA 
+|     |     |
+| --- | --- |
+| Disease Status | PGA |
+| 0   | no activity |
+| 1   | mild |
+| 2   | moderate |
+| 3   | severe |
 # Suivi
 **Recherche de protéinurie :**
 * BU ou RAC à chaque poussée et tous les 3-6 mois en systématique
