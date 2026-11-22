@@ -24,6 +24,7 @@
 **Mécanique**
 [Arthrose](AAA-Notes-rhumatologie/Arthrose.md)
 [Tendinopathies](AAA-Notes-rhumatologie/Tendinopathies.md)
+[Épaule raide non traumatique (arbre décisionnel)](AAA-Notes-rhumatologie/%C3%89paule-raide-non-traumatique.md)
 [Scoliose et attitude scoliotique](AAA-Notes-rhumatologie/Scoliose.md)
 [Syndrome de la traversée cervico-thoraco-brachiale](AAA-Notes-rhumatologie/syndrome-de-la-traversée-cervico-thoraco-brachiale.md)
 [Syndrome du piriforme](AAA-Notes-rhumatologie/Piriforme.md)
