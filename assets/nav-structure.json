@@ -292,10 +292,6 @@
         "file": "AAA-Radiologie-ostéoarticulaire/Echographie/PPCecho.md"
       },
       {
-        "name": "Echographie du pré-rhumatisme psoriasique",
-        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md"
-      },
-      {
         "name": "Epaule IRM",
         "file": "AAA-Radiologie-ostéoarticulaire/Epaule-IRM.md"
       },
@@ -350,6 +346,10 @@
       {
         "name": "Imagerie des fractures de contrainte",
         "file": "AAA-Radiologie-ostéoarticulaire/Fractures-de-contrainte-imagerie.md"
+      },
+      {
+        "name": "Imagerie du Rhulatisme psoriasique",
+        "file": "AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/RhumPso1.md"
       },
       {
         "name": "Indications de l’échographie en rhumatologie",
