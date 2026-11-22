@@ -1,6 +1,4 @@
-# **Lupus — v2 (PNDS 2024)**
-
-*Base : fiche « Lupus » (version complète) conservée. Ajouts : PNDS lupus systémique (HAS, janvier 2024).*
+# **Lupus**
 
 # Epidémio
 Maladie rare
@@ -32,24 +30,23 @@ Photosensibilité
 Éruption des zones photo-exposées :
 - Lupus aigu (vespertilio)
 - Lupus subaigu (annulaire/psoriasiforme, **anti-SSA/Ro**)
-- Lupus discoïde (chronique, **cicatriciel** — alopécie définitive)
-Ulcérations buccales
-* Formes chroniques : lupus engelure, panniculite lupique, lupus tumidus
-* Lésions **thrombotiques** (livedo ramifié, purpura nécrotique, micro-infarctus) → **chercher un SAPL**
-* Penser au **lupus médicamenteux** : IC, IEC/ARA2, IS, biothérapies, IPP, statines, anti-checkpoints…
+- Lupus discoïde (chronique, **cicatriciel** — erythème avec telangiectasies, squames bouchant les follicules pilleux, cicatrice, alopécie définitive)
+- Ulcérations buccales
+- Formes chroniques : lupus engelure, panniculite lupique, lupus tumidus
+- Lésions **thrombotiques** (livedo ramifié, purpura nécrotique, micro-infarctus) → **chercher un SAPL**
+- Penser au **lupus médicamenteux** surtout si subaigu : IC, IEC/ARA2, IS, biothérapies, IPP, statines, anti-checkpoints…
 ### Articulaire
 Arthralgies inflammatoires, ± arthrites
 => polyarthrite ou arthralgies
-* > 80 % des cas, souvent **inaugurales** — mains et poignets, symétriques
+*  plus de 80 % des cas, souvent **inaugurales** — mains et poignets, symétriques
 * **Non destructrices, non déformantes**
 * **Discordance** entre l'intensité des douleurs et les signes objectifs ; caractère **fugace**
 * Ténosynovites, tendinites, enthésites → **échographie** (même pré-cliniques)
 * **Rhumatisme de Jaccoud** : subluxations MCP, déviation ulnaire, laxité — déformations **réductibles**
 * **Rhupus** = polyarthrite érosive + **anti-CCP**
-* **Monoarthrite = infection** jusqu'à preuve du contraire
 * Piège : Raynaud + doigts boudinés mimant une polyarthrite œdémateuse
 ### Os
-* **Ostéoporose** : > 16 %, os trabéculaire — **fracture de hanche** ↑ (activité, carence en vit. D, insuffisance ovarienne, corticoïdes)
+* **Ostéoporose** : fréquence > 16 %, os trabéculaire — **fracture de hanche** ↑ (activité, carence en vit. D, insuffisance ovarienne, corticoïdes)
 * **Ostéonécrose** : **têtes fémorales** ++, souvent **bilatérale et asymptomatique**
   * Favorisée par les **corticoïdes**, l'activité de la maladie et les aPL
   * Possible dès les **premiers mois** d'évolution
@@ -71,7 +68,7 @@ Adénomégalie et hépatosplénomégalie
 ### Hypocomplémentémie
 Diminution du CH50, des fractions C3 et C4
 ### Atteinte neurologique
-* Convulsions · psychose · syndrome confusionnel aigu
+* Convulsions · syndrome dépressif, psychose · syndrome confusionnel aigu
 * Mononévrite multiple · atteinte des paires crâniennes · myélite · neuropathie périphérique
 * **Aucun auto-anticorps spécifique** ; les marqueurs d'activité classiques ne sont pas corrélés
 * À éliminer : cause infectieuse, métabolique, médicamenteuse
@@ -82,11 +79,12 @@ Diminution du CH50, des fractions C3 et C4
 * **Thromboses** artérielles et/ou veineuses
 * **Manifestations obstétricales** (≥ 3 FCS < 10 SA, mort fœtale, pré-éclampsie/insuffisance placentaire sévère < 34 SA)
 * Atteinte **microvasculaire** (néphropathie, livedo, ulcérations)
-* Critères de classification ACR/EULAR 2023 → cf. Diagnostic
 ### Maladies associées
-* Thyroïdite auto-immune (Hashimoto)
-* **Sjögren** (syndrome sec, 15-30 %)
+* **Thyroïdite auto-immune**(Hashimoto)
+* **Sjögren secondaire** (syndrome sec, 15-30 %)
 * **SAPL**
+* **PR** (rhupus)
+* **Myosite de chevauchement** = connectivites mixtes (syndrome de sharp)
 
 # Paraclinique
 ## Biologie
@@ -100,6 +98,7 @@ Anémie :
   * Frottis sanguin à la recherche de schizocytes
   * Test direct à l'antiglobuline (= test de Coombs direct)
   * Haptoglobine, LDH, bilirubine libre
+
 Lymphopénie
 Neutropénie
 Thrombopénie
@@ -108,7 +107,7 @@ Syndrome d'Evans = Thrombopénie, anémie hémolytique ± leuconeutropénie auto
 * Antinucléaires (ou anti-noyaux) => sensibles mais peu spécifiques
   * IFI sur cellules **HEp-2** (méthode de référence) ; un titre **< 1/80** rend le LS très improbable
 * Anti-ADN natif => spécifiques mais moins sensibles
-  * Isotype **IgG** ; ordre de spécificité : test de **Farr** > IFI sur *Crithidia luciliæ* > méthodes quantitatives
+  * Isotype **IgG** 
   * L'**absence** d'anti-ADN natif n'exclut pas le LS
 * Anti ENA :
   * Anti-Sm (rare, très spécifique)
@@ -121,7 +120,7 @@ Syndrome d'Evans = Thrombopénie, anémie hémolytique ± leuconeutropénie auto
 * D'autres anticorps peuvent être retrouvés au cours du lupus mais ne sont pas à rechercher de façon systématique : anti-nucléosomes, anti-protéines P ribosomales, anti-ku, anti-C1q.
 * FR
 * Sans valeur diagnostique : anti-PCNA, anti-DFS70 isolé, anti-ADN dénaturé (simple brin)
-* **Les AAN ne sont pas des marqueurs d'évolutivité** → ne pas les répéter systématiquement
+
 ### Hypocomplémentémie
 La présence d'une « hypocomplémentémie » est un argument en faveur du diagnostic de LS mais :
 * Les baisses du CH50 et du C4 sont très sensibles et peu spécifiques.
@@ -171,9 +170,10 @@ Si 3 mois de corticos ou autres facteurs de risques (remboursée uniquement si >
 ### Bilan ophtalmologique
 Lors de la mise sous HCQ, ce bilan pouvant être fait dans les mois suivant la mise en route du traitement.
 => Examen ophtalmologique, champ visuel central automatisé 10° et OCT-SD.
-### ECG
-### echographie trans-thoracique de référence
-### IPS et écho-doppler artériel de référence
+### Bilan cardiovasculaire 
+ECG
+Echographie trans-thoracique de référence
+IPS et écho-doppler artériel de référence
 ### Scanner thoracique
 En cas de suspicion d'atteinte respiratoire ou radio anormale.
 ## Biopsie rénale
@@ -265,23 +265,9 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 # Traitement
 ## Traitement médicamenteux
 ### Traitement de crise
-**Prednisone :**
-* Bolus initiaux 500 à 1000mg par jour de methylprednisolone
-* Relai per os avec dose initiale :
-  * 0.5 mg/Kg la plupart du temps
-  * 1mg/Kg sans dépasser 60 à 80mg par jour selon le poids si :
-    * patients afro-américains
-    * Atteinte rénale :
-      * présence de croissants glomérulaires
-      * insuffisance rénale aigue
-      * activité histologique > 50%
-    * atteinte sévère neurologique centrale ou myocardique
-* Objectifs de la décroissance :
-  * 7,5 mg de la semaine 19 à M6
-  * 5mg de M6 à M12
-  * Arrêt à discuter à M12
-* Viser la **dose minimale ≤ 5 mg/j puis le sevrage complet**, avec adjonction d'un IS à visée d'**épargne cortisonique** (après vérification de l'adhésion)
-![image](.attachments/b88423ea7f0a26a12c997823b45af829642ef61b.png)
+**Prednisone :** 
+* 0.3mg/Kg initialement si atteinte articulaire isolée.
+* Plus forte dose si atteinte rénale ou autres atteintes sévères (cf PNDS)
 
 **AINS :**
 * PAS ibuprofène car risque de méningite aseptique
@@ -298,7 +284,7 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 * Adapter à fonction rénale ou hépatique
 * Son délai d'efficacité sur les signes articulaires est de 2 à 12 semaines.
 * **EULAR 2019 : ne pas dépasser 5 mg/kg/j** — rétinopathie **dose-dépendante et cumulative** (> 5 ans)
-* **Ne pas sous-doser** : une dose réduite expose à un **risque de poussée majoré** → dosage sanguin de l'HCQ
+* **Ne pas sous-doser** : une dose réduite expose à un **risque de poussée majoré** → dosage sanguin de l'HCQ (non remboursé -> forfait hospitalier)
 * Effets secondaires :
   * Digestifs transitoires : ttt symptomatique
   * Allergie cutanée rare => cs allergo
