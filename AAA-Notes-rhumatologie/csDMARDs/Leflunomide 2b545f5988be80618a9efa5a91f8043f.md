@@ -1,4 +1,4 @@
-# Leflunomide
+# **Leflunomide**
 
 **Mécanisme d’action du leflunomide :**
 

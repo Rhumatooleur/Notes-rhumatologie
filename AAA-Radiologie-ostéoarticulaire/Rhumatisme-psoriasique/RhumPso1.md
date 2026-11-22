@@ -1,4 +1,4 @@
-# Echographie du pré-rhumatisme psoriasique
+# **Echographie du pré-rhumatisme psoriasique**
 [Echographie du pré-rhumatisme psoriasique](Imagerieprerhumpso.md) 
 
 # Echographie du rhumatisme psoriasique

@@ -1,4 +1,4 @@
-# Syndrome de la traversée cervico-thoraco-brachiale (STCTB)
+# **Syndrome de la traversée cervico-thoraco-brachiale (STCTB)**
 
 ## Définition
 Syndrome canalaire **dynamique** lié à la compression intermittente des éléments du paquet vasculo-nerveux au niveau du défilé cervico-thoraco-brachial.

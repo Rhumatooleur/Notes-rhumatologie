@@ -1,10 +1,10 @@
-# Rhumatisme psoriasique
+# **Rhumatisme psoriasique**
 
 Moyen mnémotechnique pour les anomalies des dactylites du rhum pso :
 
-![1000012023.jpg](Rhumatisme%20psoriasique/1000012023.jpg)
+![1000012023.jpg](../AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/1000012023.jpg)
 
-[Imagerie dans le pré rhumatisme psoriasique ](Rhumatisme%20psoriasique/Imagerieprerhumpso.md)
+[Imagerie dans le pré rhumatisme psoriasique ](../AAA-Radiologie-ostéoarticulaire/Rhumatisme-psoriasique/Imagerieprerhumpso.md)
 
 Traitements :
 

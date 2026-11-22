@@ -1,4 +1,4 @@
-# Traitement des SPA en fonction des manifestations extra articulaires
+# **Traitement des SPA en fonction des manifestations extra articulaires**
 
 # Cours de Xavier séminaire DES mars 2024
 

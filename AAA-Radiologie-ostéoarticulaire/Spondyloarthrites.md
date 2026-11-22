@@ -1,4 +1,4 @@
-# Spondyloarthrites
+# **Spondyloarthrites**
 
 ## Atteinte rachidienne des SPA
 

@@ -1,4 +1,4 @@
-# Indications de l’échographie en rhumatologie
+# **Indications de l’échographie en rhumatologie**
 
 
 PPR :

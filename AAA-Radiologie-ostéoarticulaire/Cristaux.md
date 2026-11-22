@@ -1,4 +1,4 @@
-# Cristaux
+# **Cristaux**
 
 [Chondrocalcinose](Chondrocalcinose.md)
 

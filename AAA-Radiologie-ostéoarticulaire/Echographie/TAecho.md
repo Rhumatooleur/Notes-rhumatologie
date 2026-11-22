@@ -1,4 +1,4 @@
-# Protocole tendinopathie d’achille
+# **Protocole tendinopathie d’Achille**
 
 Étudier le tendon tendu avec le patient sur le ventre les pieds non pas pendant au sol mais reposant sur la pointe des pieds sur le plan horizontal
 

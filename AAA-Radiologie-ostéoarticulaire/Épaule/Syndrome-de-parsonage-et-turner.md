@@ -1,4 +1,4 @@
-# Syndrome de Parsonage-Turner (névralgie amyotrophique)
+# **Syndrome de Parsonage-Turner (névralgie amyotrophique)**
 
 **Plexopathie aiguë, souvent déclenchée par : traumatisme, chirurgie, grossesse, vaccination, infection, maladie systémique.**
 

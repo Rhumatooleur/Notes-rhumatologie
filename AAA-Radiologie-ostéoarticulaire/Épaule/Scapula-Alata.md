@@ -1,5 +1,5 @@
 
-# Scapula alata & dyskinésies scapulaires 
+# **Scapula alata & dyskinésies scapulaires**
 
 ## 1) Scapula alata
 -   Décollement du bord médial de la scapula → aspect « aile d’ange ».

@@ -1,4 +1,4 @@
-# Borréliose de Lyme
+# **Borréliose de Lyme**
 
 Incidence = 50-100 pour 100 000 habitants par an 
 

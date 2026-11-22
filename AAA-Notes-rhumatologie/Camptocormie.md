@@ -1,3 +1,4 @@
+# **Camptocormie**
 # Définition 
 Déficit sélectif des muscles extenseurs du rachis, de causes multiples. Entraîne une déformation axiale sagittale avec une chute du tronc vers l'avant. 
 Ce trouble de la statique rachidienne **survient en station debout**, en augmentant au fur et à mesure de la marche, **et se réduit en position couchée** ou par appui des mains sur les cuisses. 

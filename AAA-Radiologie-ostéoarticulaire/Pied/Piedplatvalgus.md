@@ -1,4 +1,4 @@
-# Pied plat valgus
+# **Pied plat valgus**
 
 ## Anatomie des stabilisateurs internes de cheville
 

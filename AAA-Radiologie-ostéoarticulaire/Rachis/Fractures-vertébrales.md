@@ -1,4 +1,4 @@
-# Fractures vertébrales
+# **Fractures vertébrales**
 
 Tassements biconcaves étagés avec vertèbres en forme de “poisson” ⇒ rechercher une thalassémie
 

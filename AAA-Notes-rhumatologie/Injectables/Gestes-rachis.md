@@ -1,3 +1,4 @@
+# **Gestes rachis**
 **Infiltrations sur rachis opéré** 
 Contre indication à tout geste à l'étage opéré 
 IAP possibles aux étages sus et sous jacents

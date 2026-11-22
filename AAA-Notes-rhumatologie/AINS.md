@@ -1,3 +1,4 @@
+# **AINS**
 # 🎯 Mécanisme général
 Les AINS inhibent la **cyclooxygénase (COX)**, enzyme responsable de la conversion de l'acide arachidonique en prostaglandines et thromboxanes.
 

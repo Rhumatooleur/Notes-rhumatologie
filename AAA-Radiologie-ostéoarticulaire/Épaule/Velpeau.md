@@ -1,4 +1,4 @@
-# Syndrome canalaire de l’espace quadrilatère de Velpeau
+# **Syndrome canalaire de l’espace quadrilatère de Velpeau**
 
 ## Définition
 

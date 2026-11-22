@@ -1,1 +1,1 @@
-# Sulfasalazine
+# **Sulfasalazine**

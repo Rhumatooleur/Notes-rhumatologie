@@ -1,4 +1,4 @@
-# Fibromyalgie et troubles somatiques fonctionnels
+# **Fibromyalgie et troubles somatiques fonctionnels**
 
 Diagnostics différentiels :
 

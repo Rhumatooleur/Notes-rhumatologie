@@ -1,4 +1,5 @@
 
+# **Exploration de l’hypomagnésémie**
 # Diagnostic
 Hypomagnésémie en général < 0.7 mmol/l 
 Hypomagnésémie sévère < 0.5 mmol/l 

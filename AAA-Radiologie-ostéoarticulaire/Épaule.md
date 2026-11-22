@@ -1,4 +1,4 @@
-# Épaule
+# **Épaule**
 
 ## Anatomie
 ![image](.attachments/04417c554977e9ba6a198574b8daa5090c4fe5c1.png) 

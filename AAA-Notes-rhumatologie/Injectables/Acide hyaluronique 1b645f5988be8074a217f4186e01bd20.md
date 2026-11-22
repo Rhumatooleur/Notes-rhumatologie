@@ -1,4 +1,4 @@
-# Acide hyaluronique
+# **Acide hyaluronique**
 
 OSENTIL : le moins cher 60 euros à privilégier chez les patients qui n’ont pas les moyens 
 

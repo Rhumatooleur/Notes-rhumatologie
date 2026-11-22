@@ -1,4 +1,4 @@
-# Ostéochondromes / chrondromatose synoviale
+# **Ostéochondromes / chondromatose synoviale**
 
 ## Forme primitive vs secondaire
 

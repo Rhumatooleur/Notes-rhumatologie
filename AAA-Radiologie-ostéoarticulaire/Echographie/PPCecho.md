@@ -1,4 +1,4 @@
-# Diagnostic échographique du rhumatisme à pyrophosphate de calcium (PPC)
+# **Diagnostic échographique du rhumatisme à pyrophosphate de calcium (PPC)**
 
 ## 📖 Référence
 

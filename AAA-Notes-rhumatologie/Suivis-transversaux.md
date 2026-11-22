@@ -1,4 +1,5 @@
 
+# **Suivis transversaux**
 # Suivis osseux
 - ATCDs fracturaires : 
 - Facteurs de risque : 

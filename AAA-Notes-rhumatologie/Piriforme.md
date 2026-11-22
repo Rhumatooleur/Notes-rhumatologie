@@ -1,4 +1,4 @@
-# Syndrome du pirifforme
+# **Syndrome du piriforme**
 ## Définition
 Pathologie mal connue et controversée sur les plans anatomique, biomécanique et clinique.Il est considéré comme un syndrome canalaire dû à la compression du nerf ischiatique dans le canal infrapiriforme, provoquant une douleur de type sciatique à départ fessier.
 

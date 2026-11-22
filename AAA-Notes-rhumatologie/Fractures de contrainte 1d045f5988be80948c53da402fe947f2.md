@@ -1,4 +1,4 @@
-# Fractures de contrainte
+# **Fractures de contrainte**
 
 ## Deux Types de fracture de contrainte 
 ### Fractures de fatigue = os normal mais contraintes trop importantes

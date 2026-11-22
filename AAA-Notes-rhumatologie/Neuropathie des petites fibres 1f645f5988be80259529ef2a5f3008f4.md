@@ -1,4 +1,4 @@
-# Neuropathie des petites fibres
+# **Neuropathie des petites fibres**
 
 **Physiopathologie :** Atteinte des petites  ibres a delta et c qui ont un rôle sensitif termoalgique, intervention des glandes sudoripares et système nerveux autonome 
 

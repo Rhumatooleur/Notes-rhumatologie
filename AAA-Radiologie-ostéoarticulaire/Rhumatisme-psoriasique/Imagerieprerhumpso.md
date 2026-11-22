@@ -1,4 +1,4 @@
-# Imagerie dans le pré rhumatisme psoriasique
+# **Imagerie dans le pré rhumatisme psoriasique**
 
 ## Présentation de Philippe 22/01/2025
 

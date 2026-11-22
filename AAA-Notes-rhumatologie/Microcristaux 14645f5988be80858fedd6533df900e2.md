@@ -1,3 +1,4 @@
+# **Microcristaux**
 </details>
 <details> <summary><h1>Goutte  </h1></summary> 
   
@@ -77,4 +78,4 @@ Synonyme = épaule hémorragique sénile
 </details>
 
 ---
-**Voir aussi (imagerie)** : [Imagerie des cristaux](../AAA-Radiologie-ostéoarticulaire/Cristaux.md) · [Goutte](../AAA-Radiologie-ostéoarticulaire/Goutte.md) · [Chondrocalcinose](../AAA-Radiologie-ostéoarticulaire/Chondrocalcinose.md) · [Hydroxyapatite](../AAA-Radiologie-ostéoarticulaire/Hydroxyapatite.md) · [Hémochromatose](../AAA-Radiologie-ostéoarticulaire/Hemochromatose.md) · [Écho du rhumatisme à PPC](../AAA-Radiologie-ostéoarticulaire/Echographie/PPCecho.md.md)
+**Voir aussi (imagerie)** : [Imagerie des cristaux](../AAA-Radiologie-ostéoarticulaire/Cristaux.md) · [Goutte](../AAA-Radiologie-ostéoarticulaire/Goutte.md) · [Chondrocalcinose](../AAA-Radiologie-ostéoarticulaire/Chondrocalcinose.md) · [Hydroxyapatite](../AAA-Radiologie-ostéoarticulaire/Hydroxyapatite.md) · [Hémochromatose](../AAA-Radiologie-ostéoarticulaire/Hemochromatose.md) · [Écho du rhumatisme à PPC](../AAA-Radiologie-ostéoarticulaire/Echographie/PPCecho.md)

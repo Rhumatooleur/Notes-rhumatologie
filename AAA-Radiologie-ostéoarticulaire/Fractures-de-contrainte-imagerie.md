@@ -1,4 +1,4 @@
-# Imagerie des fractures de contrainte
+# **Imagerie des fractures de contrainte**
 ## Localisation des fractures de contrainte 
 Principalement en zone portante : 
 - bassin

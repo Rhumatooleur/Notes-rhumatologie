@@ -1,5 +1,5 @@
 
-# Différence entre scoliose et attitude scoliotique
+# **Différence entre scoliose et attitude scoliotique**
 Scoliose | Attitude scoliotique
 -|-
 Déformation tridimensionnelle | Déviation dans le seul plan frontal

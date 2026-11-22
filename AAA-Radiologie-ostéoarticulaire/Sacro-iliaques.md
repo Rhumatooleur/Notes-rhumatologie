@@ -1,4 +1,4 @@
-# Sacro-iliaques
+# **Sacro-iliaques**
 Atteinte des sacro-iliaques :
 
 - Atteinte dégénérative = antérieure, pas d’érosions

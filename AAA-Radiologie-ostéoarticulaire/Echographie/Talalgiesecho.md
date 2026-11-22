@@ -1,4 +1,4 @@
-# Protocole radio + échographie devant des talalgies
+# **Protocole radio + échographie devant des talalgies**
 
 Propriétaire: quentin campeol
 
@@ -27,7 +27,7 @@ Rechercher :
         - A noter :  une absence de prise doppler n’est pas forcément un signe d’absence d’aponévrosite
 - Diagnostics différentiels :
     
-    [Facsiite plantaire = inflammation du corps de l’aponévrose](Fasciiteplantaire.md)
+    [Fasciite plantaire = inflammation du corps de l’aponévrose](Fasciiteplantaire.md)
     
     - Syndrome du tunnel tarsien = nerf de Baxter (première branche du nerf plantaire latéral) :
         - Recherche d'une cause compressive (kyste, varices, muscle accessoire)

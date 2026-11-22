@@ -1,4 +1,4 @@
-# COMPRESSION DU NERF SUS-SCAPULAIRE
+# **COMPRESSION DU NERF SUS-SCAPULAIRE**
 
 ## Anatomie du nerf sus-scapulaire :
 

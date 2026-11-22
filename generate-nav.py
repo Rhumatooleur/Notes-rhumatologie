@@ -18,6 +18,9 @@ def get_markdown_title(filepath):
                 if line.strip().startswith('#'):
                     # Enlever les # et espacer
                     title = re.sub(r'^#+\s*', '', line.strip())
+                    # Retirer le gras/italique markdown : "# **Lupus**" -> "Lupus"
+                    title = title.replace('**', '').replace('__', '')
+                    title = title.strip('*_').strip()
                     return title
     except:
         pass

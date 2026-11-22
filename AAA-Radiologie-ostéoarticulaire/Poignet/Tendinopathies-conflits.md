@@ -1,4 +1,4 @@
-# Tendinopathies / conflits
+# **Tendinopathies / conflits**
 
 ![image.png](Tendinopathies-conflits/image.png)
 

@@ -1,4 +1,4 @@
-# Rachis IRM lombosciatique
+# **Rachis IRM lombosciatique**
 ### Séquences de références :
 
 T2 Fat Sat + coro STIR + 3D T2 

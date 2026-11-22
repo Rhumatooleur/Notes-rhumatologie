@@ -1,4 +1,4 @@
-# Conduite à tenir en fonction de la sérologie hépatite B pré-biothérapie
+# **Conduite à tenir en fonction de la sérologie hépatite B pré-biothérapie**
 
 ### Indications de la prophylaxie :
 

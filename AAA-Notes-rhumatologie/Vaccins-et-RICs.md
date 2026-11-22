@@ -1,4 +1,4 @@
-# Vaccins et RICs
+# **Vaccins et RICs**
 
 - **Recommandations générales**
     

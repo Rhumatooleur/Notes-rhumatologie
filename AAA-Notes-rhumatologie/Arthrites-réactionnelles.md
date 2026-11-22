@@ -1,4 +1,4 @@
-# Distinguer arthrites réactionnelles et autres rhumatismes inflammatoires post infectieux
+# **Distinguer arthrites réactionnelles et autres rhumatismes inflammatoires post infectieux**
 
 ## Arthrites réactionnelles = liées aux SPA :
 ### Types selon l'infection causale

@@ -1,4 +1,4 @@
-# Methotrexate
+# **Methotrexate**
 
 **Pharmacologie du methotrexate :** 
 

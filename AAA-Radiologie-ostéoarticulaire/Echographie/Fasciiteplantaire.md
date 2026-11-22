@@ -1,4 +1,4 @@
-# Facsiite plantaire = inflammation du corps de l’aponévrose
+# **Fasciite plantaire = inflammation du corps de l’aponévrose**
 
 
 

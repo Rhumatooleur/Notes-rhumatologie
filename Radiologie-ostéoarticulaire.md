@@ -57,7 +57,7 @@
 ### Autres
 [Maladie de Forestier](AAA-Radiologie-ostéoarticulaire/Maladie-de-Forestier.md)
 [Pseudo tumeurs et tumeurs musculaires](AAA-Radiologie-ostéoarticulaire/Pseudo-tumeurs-et-tumeurs-musculaires.md)
-[Ostéochondromes / chrondromatose synoviale](AAA-Radiologie-ostéoarticulaire/Ostéochondromes-chrondromatose-synoviale.md)
+[Ostéochondromes / chondromatose synoviale](AAA-Radiologie-ostéoarticulaire/Ostéochondromes-chondromatose-synoviale.md)
 
 # Notes cliniques associées 🩺 
 [Retour au sommaire des notes de rhumatologie](Notes-rhumatologie.md)

@@ -1,4 +1,4 @@
-# Protocole échographie épaule
+# **Protocole échographie épaule**
 ## A penser dans tous les cas
 Si rupture, il faudra rechercher : 
 * Son étendue : partielle (superficielle, profonde, clivage) / transfixiante

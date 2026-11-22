@@ -1,4 +1,4 @@
-# Métatarsalgies
+# **Métatarsalgies**
 
 ### Métatarsalgies mécaniques :
 

@@ -1,4 +1,4 @@
-# Lésions musculaires traumatiques
+# **Lésions musculaires traumatiques**
 
 ## Classification des lésions musculaires :
 

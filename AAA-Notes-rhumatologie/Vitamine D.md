@@ -1,4 +1,4 @@
-# Vitamine D
+# **Vitamine D**
 
 ![Fig. 1 — Proposition de modalités actualisées de supplémentation en vitamine D](.attachments/vitamineD.png)
 

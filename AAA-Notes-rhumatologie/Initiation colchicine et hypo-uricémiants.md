@@ -1,4 +1,4 @@
-# Initiation colchicine et traitements hypo-uricémiants
+# **Initiation colchicine et traitements hypo-uricémiants**
 
 ## 1) Colchicine
 

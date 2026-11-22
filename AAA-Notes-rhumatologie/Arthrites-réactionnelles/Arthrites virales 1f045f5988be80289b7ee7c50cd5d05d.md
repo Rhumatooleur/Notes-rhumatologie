@@ -1,4 +1,4 @@
-# Arthrites virales
+# **Arthrites virales**
 
 **Clinique :**  
 

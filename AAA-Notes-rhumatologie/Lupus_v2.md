@@ -1,4 +1,4 @@
-# Lupus — v2 (PNDS 2024)
+# **Lupus — v2 (PNDS 2024)**
 
 *Base : fiche « Lupus » (version complète) conservée. Ajouts : PNDS lupus systémique (HAS, janvier 2024).*
 

@@ -1,4 +1,4 @@
-# Traitements des métatarsalgies mécaniques
+# **Traitements des métatarsalgies mécaniques**
 
 Adaptation du chaussage 
 

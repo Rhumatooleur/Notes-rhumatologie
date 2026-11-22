@@ -1,4 +1,4 @@
-# Bilan à l'initiation d'une probable corticothérapie prolongée
+# **Bilan à l'initiation d'une probable corticothérapie prolongée**
 
 ## Prévention de l'ostéoporose cortico-induite
 

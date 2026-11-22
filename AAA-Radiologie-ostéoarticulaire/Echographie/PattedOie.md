@@ -1,3 +1,4 @@
+# **Écho patte d’oie**
 Mettre le genou à 45° de flexion 
 Regarder : 
 1) Tendon quadricipital et patellaire

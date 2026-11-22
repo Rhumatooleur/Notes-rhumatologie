@@ -1,6 +1,6 @@
 
 
-# Goutte : Lésions radiographiques typiques
+# **Goutte : Lésions radiographiques typiques**
 
 > Signes **tardifs** dans l'évolution de la maladie.
 

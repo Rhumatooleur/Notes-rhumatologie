@@ -1,4 +1,4 @@
-# Sclerose laterale amyotrophique
+# **Sclérose latérale amyotrophique**
 
 **Atteinte périph :**
 

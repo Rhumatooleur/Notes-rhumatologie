@@ -1,4 +1,4 @@
-# Polyarthrite rhumatoïde
+# **Polyarthrite rhumatoïde**
 
 ## Sémiologie radiologique générale 
 ### Différence entre érosion et géodes
