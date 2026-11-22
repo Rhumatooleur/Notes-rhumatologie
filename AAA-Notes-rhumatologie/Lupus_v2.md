@@ -265,23 +265,9 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 # Traitement
 ## Traitement médicamenteux
 ### Traitement de crise
-**Prednisone :**
-* Bolus initiaux 500 à 1000mg par jour de methylprednisolone
-* Relai per os avec dose initiale :
-  * 0.5 mg/Kg la plupart du temps
-  * 1mg/Kg sans dépasser 60 à 80mg par jour selon le poids si :
-    * patients afro-américains
-    * Atteinte rénale :
-      * présence de croissants glomérulaires
-      * insuffisance rénale aigue
-      * activité histologique > 50%
-    * atteinte sévère neurologique centrale ou myocardique
-* Objectifs de la décroissance :
-  * 7,5 mg de la semaine 19 à M6
-  * 5mg de M6 à M12
-  * Arrêt à discuter à M12
-* Viser la **dose minimale ≤ 5 mg/j puis le sevrage complet**, avec adjonction d'un IS à visée d'**épargne cortisonique** (après vérification de l'adhésion)
-![image](.attachments/b88423ea7f0a26a12c997823b45af829642ef61b.png)
+**Prednisone :** 
+* 0.3mg/Kg initialement si atteinte articulaire isolée.
+* Plus forte dose si atteinte rénale ou autres atteintes sévères (cf PNDS)
 
 **AINS :**
 * PAS ibuprofène car risque de méningite aseptique
@@ -298,7 +284,7 @@ Toute positivité doit être confirmée par un nouveau dosage à 12 semaines d'i
 * Adapter à fonction rénale ou hépatique
 * Son délai d'efficacité sur les signes articulaires est de 2 à 12 semaines.
 * **EULAR 2019 : ne pas dépasser 5 mg/kg/j** — rétinopathie **dose-dépendante et cumulative** (> 5 ans)
-* **Ne pas sous-doser** : une dose réduite expose à un **risque de poussée majoré** → dosage sanguin de l'HCQ
+* **Ne pas sous-doser** : une dose réduite expose à un **risque de poussée majoré** → dosage sanguin de l'HCQ (non remboursé -> forfait hospitalier)
 * Effets secondaires :
   * Digestifs transitoires : ttt symptomatique
   * Allergie cutanée rare => cs allergo
