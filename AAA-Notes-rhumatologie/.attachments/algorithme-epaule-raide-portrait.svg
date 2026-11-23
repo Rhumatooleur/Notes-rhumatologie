@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="846" viewBox="0 0 1100 846" role="img" aria-label="Arbre décisionnel de l’épaule raide non traumatique">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="808" viewBox="0 0 1100 808" role="img" aria-label="Arbre décisionnel de l’épaule raide non traumatique">
 <defs>
   <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
     <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8"/>
   </marker>
 </defs>
-<rect x="0" y="0" width="1100" height="846" fill="#ffffff"/>
+<rect x="0" y="0" width="1100" height="808" fill="#ffffff"/>
 <text x="40" y="50" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#0f172a">Épaule raide non traumatique</text>
 <text x="40" y="76" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#475569">Raideur = limitation des amplitudes actives ET passives, confirmée scapula stabilisée.</text>
 <rect x="300.0" y="106" width="500" height="58" rx="12" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
@@ -38,27 +38,25 @@
 <rect x="560" y="214" width="500" height="44" rx="10" fill="#0d9488" stroke="#115e59" stroke-width="2"/>
 <text x="576" y="243" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#ffffff">BRANCHE CHRONIQUE — progressive</text>
 <rect x="560" y="280" width="500" height="62" rx="14" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
-<text x="576" y="308" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#334155">RADIOGRAPHIES</text>
-<text x="576" y="326" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">épaule : face neutre + rotations + profil axillaire</text>
-<rect x="560" y="358" width="500" height="62" rx="14" fill="#ecfccb" stroke="#84cc16" stroke-width="2"/>
-<text x="576" y="386" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#3f6212">OMARTHROSE</text>
-<text x="576" y="404" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">ostéophytes — raideur dans tous les secteurs</text>
-<rect x="560" y="430" width="500" height="62" rx="14" fill="#ffedd5" stroke="#fb923c" stroke-width="2"/>
-<text x="576" y="458" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#9a3412">TENDINOPATHIE CALCIFIANTE</text>
-<text x="576" y="476" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">≠ enthésopathie calcique dégénérative</text>
-<rect x="560" y="502" width="500" height="62" rx="14" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
-<text x="576" y="530" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#334155">RADIO NORMALE</text>
-<text x="576" y="548" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">→ la mobilité passive est-elle anormale ?</text>
-<path d="M 810.0 564 V 579 H 680.0 V 594" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
-<path d="M 810.0 564 V 579 H 940.0 V 594" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
-<rect x="560" y="594" width="240.0" height="118" rx="14" fill="#f3e8ff" stroke="#a855f7" stroke-width="2"/>
-<text x="576" y="640" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#6b21a8">CAPSULITE</text>
-<text x="576" y="663" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#6b21a8">RÉTRACTILE</text>
-<text x="576" y="680" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">RL1 passive &lt; 50 % du côté sain</text>
-<rect x="820.0" y="594" width="240.0" height="118" rx="14" fill="#dbeafe" stroke="#60a5fa" stroke-width="2"/>
-<text x="836" y="640" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#1d4ed8">RUPTURE DE COIFFE</text>
-<text x="836" y="661" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#1d4ed8">ENRAIDIE</text>
-<text x="836" y="678" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">passive libre, actif déficitaire</text>
-<rect x="40" y="750" width="1020" height="62" rx="12" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
-<text x="58" y="788" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#312e81">Doute persistant / échec à 3–6 mois / drapeau rouge négligé  →  IRM</text>
+<text x="576" y="308" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#334155">RADIOGRAPHIE ANORMALE</text>
+<text x="576" y="326" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">signes d’omarthrose</text>
+<line x1="810.0" y1="342" x2="810.0" y2="368" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+<rect x="560" y="368" width="500" height="62" rx="14" fill="#ecfccb" stroke="#84cc16" stroke-width="2"/>
+<text x="576" y="396" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#3f6212">OMARTHROSE</text>
+<text x="576" y="414" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">ostéophytes — raideur dans tous les secteurs</text>
+<rect x="560" y="464" width="500" height="62" rx="14" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="576" y="492" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#334155">RADIO NORMALE</text>
+<text x="576" y="510" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">→ la mobilité passive est-elle anormale ?</text>
+<path d="M 810.0 526 V 541 H 680.0 V 556" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+<path d="M 810.0 526 V 541 H 940.0 V 556" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+<rect x="560" y="556" width="240.0" height="118" rx="14" fill="#f3e8ff" stroke="#a855f7" stroke-width="2"/>
+<text x="576" y="602" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#6b21a8">CAPSULITE</text>
+<text x="576" y="625" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#6b21a8">RÉTRACTILE</text>
+<text x="576" y="642" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">RL1 passive &lt; 50 % du côté sain</text>
+<rect x="820.0" y="556" width="240.0" height="118" rx="14" fill="#dbeafe" stroke="#60a5fa" stroke-width="2"/>
+<text x="836" y="602" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#1d4ed8">RUPTURE DE COIFFE</text>
+<text x="836" y="623" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#1d4ed8">ENRAIDIE</text>
+<text x="836" y="640" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#475569">passive libre, actif déficitaire</text>
+<rect x="40" y="712" width="1020" height="62" rx="12" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
+<text x="58" y="750" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#312e81">Doute persistant / échec à 3–6 mois / drapeau rouge négligé  →  IRM</text>
 </svg>
