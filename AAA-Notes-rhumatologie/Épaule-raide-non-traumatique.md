@@ -10,15 +10,15 @@
 
 ![Arbre décisionnel de l’épaule raide non traumatique](.attachments/algorithme-epaule-raide-portrait.svg)
 
-*Figure 1. Arbre décisionnel complet (version portrait). Ouvrir l'image dans un nouvel onglet pour la voir en pleine résolution — [fichier SVG](.attachments/algorithme-epaule-raide-portrait.svg).*
+*Figure 1. Arbre décisionnel complet. Ouvrir l'image dans un nouvel onglet pour la voir en pleine résolution — [fichier SVG](.attachments/algorithme-epaule-raide-portrait.svg).*
 
 ## Détail des branches (version texte)
 
-*La figure ci-dessus résume l'arbre ; les lignes qui suivent détaillent chaque étape et ajoutent la recherche des drapeaux rouges, volontairement écartée du schéma.*
+*La figure résume l'arbre ; les lignes qui suivent détaillent chaque étape.*
 
 1. **Installation brutale ou progressive ?**
-   - → **Brutale** : étape 3 (branche aiguë).
-   - → **Progressive** : étape 4 (branche chronique).
+   - → **Brutale** : étape 2 (branche aiguë).
+   - → **Progressive** : étape 3 (branche chronique).
 2. **Branche aiguë — quel tableau domine ?**
    - **Fièvre / frissons / CRP élevée / porte d'entrée** → arthrite septique → **ponction articulaire avant toute antibiothérapie**.
    - **Douleur brutale hyperalgique à recrudescence nocturne, sans fièvre, calcification sur la radio** → résorption calcique (épaule aiguë hyperalgique).
