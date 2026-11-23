@@ -16,28 +16,24 @@
 
 *La figure ci-dessus résume l'arbre ; les lignes qui suivent détaillent chaque étape et ajoutent la recherche des drapeaux rouges, volontairement écartée du schéma.*
 
-
-1. **Drapeaux rouges ?** (fièvre, frissons, immunodépression, AEG, douleur thoracique, âge > 50 ans + atteinte bilatérale d'emblée, antécédent de cancer, tabagisme + signes neurologiques)
-   - → **Oui** : sortir de l'algorithme, avis urgent (arthrite septique, tumeur de l'apex, PPR/Horton, cause extra-articulaire).
-   - → **Non** : étape 2.
-2. **Installation brutale (< 6 semaines) ou progressive ?**
+1. **Installation brutale ou progressive ?**
    - → **Brutale** : étape 3 (branche aiguë).
    - → **Progressive** : étape 4 (branche chronique).
-3. **Branche aiguë — quel tableau domine ?**
+2. **Branche aiguë — quel tableau domine ?**
    - **Fièvre / frissons / CRP élevée / porte d'entrée** → arthrite septique → **ponction articulaire avant toute antibiothérapie**.
-   - **Douleur brutale hyperalgique, sans fièvre, calcification sur la radio** → résorption calcique (épaule aiguë hyperalgique).
+   - **Douleur brutale hyperalgique à recrudescence nocturne, sans fièvre, calcification sur la radio** → résorption calcique (épaule aiguë hyperalgique).
    - **Douleur intense 1–2 semaines puis déficit moteur / amyotrophie** → syndrome de Parsonage-Turner.
    - **Dérouillage matinal prolongé, contexte de RIC ou de goutte/CPPD connu** → poussée inflammatoire ou microcristalline.
-   - **Aucun de ces tableaux, douleur reproduite à l'effort, pas de vraie raideur** → poussée sur tendinobursite dégénérative (1re cause de douleur aiguë, mais ce n'est pas une épaule raide).
-4. **Branche chronique — radiographies de l'épaule** (face rotation neutre **au minimum**, rotules interne et externe, profil axillaire ; bilatérales comparatives si besoin).
-   - **Signes d'omarthrose** (pincement de l'interligne gléno-huméral, ostéophytes, sclérose sous-chondrale, géodes) → **omarthrose** : raideur dans **tous** les secteurs, craquements.
+   - **Aucun de ces tableaux, douleur reproduite à l'effort, pas de vraie raideur (RL1 conservée)** → poussée sur tendinobursite dégénérative (1re cause de douleur aiguë, mais ce n'est pas une épaule raide).
+3. **Branche chronique — radiographies de l'épaule**
+   - **Signes d'omarthrose** (ostéophyte principalement) → **omarthrose** : raideur dans **tous** les secteurs, craquements.
    - **Calcification** → tendinopathie calcifiante chronique (à distinguer d'une enthésopathie calcique dégénérative, qui ne se résorbe pas).
    - **Autre anomalie** → fracture/luxation méconnue, chondromatose, lésion osseuse : avis spécialisé.
-   - **Radio normale** → étape 5.
-5. **Radio normale — comparer mobilité passive et active, scapula bloquée**
+   - **Radio normale** → étape 4.
+4. **Radio normale — comparer mobilité passive et active, scapula bloquée**
    - **Perte de la rotation latérale coude au corps (RL1) et/ou de l'élévation antérieure scapula bloquée** → **capsulite rétractile**. La RL1 est le secteur le plus précocement et le plus sévèrement touché.
-   - **Mobilité passive complète, mobilité active déficitaire** → **rupture de coiffe** (forme « enraidie » si la douleur limite aussi le passif) → échographie.
-6. **Doute persistant / échec à 3–6 mois / drapeau rouge initialement négligé** → IRM ou arthro-IRM : œdème capsulaire et comblement du triangle graisseux sous-coracoïdien (capsulite), œdème musculaire en STIR (Parsonage-Turner), épanchement et œdème osseux (arthrite), lésion structurale.
+   - **Mobilité passive complète, mobilité active déficitaire** → **rupture de coiffe** (forme « enraidie » si la douleur limite aussi le passif) 
+5. **Doute persistant / échec à 3–6 mois / drapeau rouge initialement négligé** → IRM 
 
 ---
 
