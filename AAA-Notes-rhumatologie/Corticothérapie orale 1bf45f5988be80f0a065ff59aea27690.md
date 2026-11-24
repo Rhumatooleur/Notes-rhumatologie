@@ -1,4 +1,7 @@
 # **Corticothérapie**
+## Posologies selon la pathologie
+PPR = 0.2 à 0.3mg/Kg 
+Horton = 0.7mg/kg (1 si complication vasculaire)
 # Insuffisance corticotrope
 Risque à partir de 3 mois sous corticothérapie à dose > 5mg par jour. 
 
