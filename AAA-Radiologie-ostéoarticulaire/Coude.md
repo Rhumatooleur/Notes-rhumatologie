@@ -90,7 +90,6 @@ L'examen clinique est souvent très évocateur dès l'inspection.
         
     -   Déficit de force marqué en **supination** (perte de 40 à 50 %) et, dans une moindre mesure, en flexion (perte de 20 %).
  
-    -   
 ### Imagerie
 
 L'imagerie confirme le diagnostic et précise le degré de rétraction.  **Note :** Le diagnostic est avant tout clinique. L'imagerie sert surtout à ***éliminer une rupture partielle ou préchirurgical**.
