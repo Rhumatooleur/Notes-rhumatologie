@@ -1,7 +1,20 @@
 # **Corticothérapie**
 ## Posologies selon la pathologie
-PPR = 0.2 à 0.3mg/Kg 
-Horton = 0.7mg/kg (1 si complication vasculaire)
+**PR et rhum pso :** 
+Source Chloé : 
+- 0.5mg/Kg
+- Jusqu'à 1mg/Kg selon la charge inflammatoire : si grosses articulations touchées et leur nombre
+- a adapter au terrain
+- commencer fort et baisser rapidement la poso
+- 4-6 semaines au total
+
+Source Athan :
+- 40 à 60mg selon le poids
+- Sur 10-14j
+- à renouveler une fois si besoin, après 7 jours au moins d'arrêt
+
+**PPR** = 0.2 à 0.3mg/Kg 
+**Horton** = 0.7mg/kg (1 si complication vasculaire)
 # Insuffisance corticotrope
 Risque à partir de 3 mois sous corticothérapie à dose > 5mg par jour. 
 
