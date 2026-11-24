@@ -1,6 +1,5 @@
 # **Maladie de Forestier**
 
-Propriétaire: quentin campeol
 
 **Maladie de Forestier (Diffuse idiopatic skeletal hyperostosis)**
 
