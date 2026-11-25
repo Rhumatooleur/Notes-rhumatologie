@@ -231,13 +231,14 @@ Présentation radiologique : la clé pour les reconnaître est l'élargissement 
 **Ostéomyélite aseptique :** Rare dans le SAPHO, bcp plus fréquent dans l'ostéomyélite aseptique multifocale de l'enfant. 
 
 **Histiocytose liée à l'X = langerhansienne :** Maladie systémique rare caractérisée par l'accumulation (généralement organisée en **granulomes à éosinophiles**) de macrophages présentant les caractéristiques des cellules de Langerhans dans divers tissus. 
-
+Les granulomes a éosinophiles sont les **seules images lacunaires qui régressent de manière spontanée**
 Présentation radiologique : 
 * Lacune diaphysaire excentrée
 * Bords nets sans condensation périphérique
 * Oedème osseux péri lésionnel
 * Réaction périostée unilamellaire
-* Encoches endostées et amincissement cortical. 
+* Encoches endostées et amincissement cortical.
+
 
 **Infarctus osseux** Scinti + 
 
